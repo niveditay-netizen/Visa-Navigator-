@@ -1,0 +1,394 @@
+---
+source: USCIS Form Instructions
+title: Form I-140 Instructions (Immigrant Petition for Alien Workers)
+url: https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf
+---
+
+Draft
+Not for 
+Production
+06/11/2024
+Instructions for Petition for Alien Workers 
+Department of Homeland Security
+U.S. Citizenship and Immigration Ser vicesUSCIS
+ Form I-140
+OMB No. 1615-0015
+Expires 02/28/2027
+Form I-140 Instructions   06/07/24    Page 1 of 1 1What is the Purpose of Form I-140?
+A petitioner may file Form I-140, Petition for Alien Workers, with U.S. Citizenship and Immigration Services (USCIS) for 
+an employment-based immigrant visa.
+Who May File Form I-140?
+A U.S. employer may file this petition for:
+1. An outstanding professor or researcher with at least three years of experience in teaching or research in the academic area, who is recognized internationally as outstanding:
+A. In a tenured or tenure-track position at a university or institution of higher education to teach in the academic area;
+B. In a comparable position at a university or institution of higher education to conduct research in the area; or
+C. In a comparable position to conduct research for a private employer that employs at least three persons in full-time research activities and which achieved documented accomplishments in an academic field.
+2. An alien who, in the three years before filing this petition, has been employed in a primarily managerial or executive capacity for at least one year by a firm or corporation or other legal entity and who seeks to enter the United States to continue working for the same employer, or a subsidiary or affiliate, in a managerial or executive capacity.
+3. A member of the professions holding an advanced degree or an alien with exceptional ability in the sciences, arts, or business who will substantially benefit the national economy, cultural or educational interests, or welfare of the United States.
+4. A skilled worker (requiring at least two years of specialized training or experience in the skill) to perform labor for which qualified workers are not available in the United States.
+5. A member of the professions with a baccalaureate degree.
+6. An unskilled worker (requiring less than two years of specialized training or experience) to perform labor for which qualified workers are not available in the United States.
+In addition, any employer, individual, or third party may file this petition, including the petition’s beneficiary, if filing for:
+1. An alien of extraordinary ability in the sciences, arts, education, business, or athletics demonstrated by sustained national or international acclaim and whose achievements are recognized in the field; or
+2. A member of the professions holding an advanced degree or who is claiming exceptional ability in the sciences, arts, or business, and is seeking an exemption of the requirement of a job offer in the national interest, generally known as a National Interest Waiver (NIW).
+General Instructions
+We provide free forms through the USCIS website.  To view, print, or complete our forms, you should use the latest 
+version of Adobe Reader, which you can download for free at http://get.adobe.com/reader/ .  If you do not have Internet 
+access, you may call the USCIS Contact Center and ask that we mail a form to you.
+Draft
+Not for 
+Production
+06/11/2024
+Form I-140 Instructions   06/07/24    Page 2 of 11
+Signature.   You (or your signing authority) must properly complete your petition.  USCIS will not accept a stamped or 
+typewritten name in place of any signature on this petition.  If you are under 14 years of age, your parent or legal guardian 
+may sign the petition on your behalf.  A legal guardian may also sign for a mentally incompetent person.  If your petition 
+is not signed, or if the signature is not valid, we will reject your petition.  See 8 CFR 103.2(a)(7)(ii)(A).  If USCIS accepts 
+a request for adjudication and determines that it has a deficient signature, USCIS may deny the request.
+NOTE:   If the petitioner is a corporation or other legal entity, only an individual who is an officer or employee of the 
+entity who has knowledge of the facts alleged in the petition, and who has authority to sign documents on behalf of the 
+entity, may sign the petition.
+Validity of Signatures.   USCIS will consider a photocopied, faxed, or scanned copy of an original, handwritten signature 
+as valid for filing purposes.  The photocopy, fax, or scan must be of the original document containing the handwritten ink 
+signature.
+Filing Fee.   See Form G-1055, available at  www.uscis.gov/forms , for specific information about the fees applicable to 
+this form.
+Evidence.   When you file your petition, you must submit all evidence and supporting documents listed in the General 
+Requirements  and General Evidence  sections of these Instructions. 
+Biometric Services Appointment.   USCIS may require you to appear for an interview or provide biometrics (fingerprints, 
+photograph, and/or signature) at any time to verify your identity , obtain additional information, and conduct background 
+and security checks, including a check of criminal history records maintained by the Federal Bureau of Investigation 
+(FBI), before making a decision on your application or petition.  If we determine that a biometric services appointment 
+is necessary, we will send you an appointment notice with the date, time, and location of your appointment.  If you are 
+currently overseas, your notice will instruct you to contact a U.S. Embassy , U.S. Consulate, or USCIS office outside the 
+United States to schedule an appointment.  
+At your biometrics appointment, you must sign an oath reaffirming that:
+1. You provided or authorized all information in the petition;
+2. You reviewed and understood all of the information contained in, and submitted with, your petition; and
+3. All of this information was complete, true, and correct at the time of filing.
+If you do not attend your biometric services appointment, we may deny your petition.
+Copies.   You should submit legible photocopies of requested documents unless the Instructions specifically instruct you to 
+submit an original document.  USCIS may request an original document at any time during our process.  If we request an 
+original document from you, we will return it to you after USCIS determines it no longer needs the original.
+NOTE:   If you submit original documents when not required or requested, USCIS may destroy them after we receive 
+them.
+Translations.   If you submit a document with information in a foreign language, you must also submit a full English 
+translation.  The translator must sign a certification that the English language translation is complete and accurate, and that 
+they are competent to translate from the foreign language into English.  The certification must also include their signature, 
+printed name, the signature date, and their contact information.
+USCIS Contact Center.   For additional information on the petition and Instructions about where to file, change of 
+address, and other questions, visit the USCIS Contact Center at www.uscis.gov/contactcenter  or call at 800-375-5283  
+(TTY 800-767-1833 ).  The USCIS Contact Center provides information in English and Spanish. 
+Disability Accommodations/Modifications.   To request a disability accommodation/modification, follow the instructions 
+on your appointment notice or at www.uscis.gov/accommodationsinfo .
+Draft
+Not for 
+Production
+06/11/2024
+Form I-140 Instructions   06/07/24    Page 3 of 1 1
+How to Complete Form I-140
+1. Type or print legibly in black ink.
+2. If you need extra space to complete any item within this petition, use the space provided in Part 11. Additional 
+Information or attach a separate sheet of paper.  Type or print your name and Alien Registration Number (A-Number) 
+(if any) at the top of each sheet; indicate the Page Number, Part Number, and Item Number to which your answer 
+refers; and sign and date each sheet.
+3. Answer all questions fully and accurately.  If a question does not apply to you (for example, if you have never been married and the question asks, “Provide the name of your current spouse”), type or print “N/A” unless otherwise directed.  If your answer to a question which requires a numeric response is zero or none (for example, “How many children do you have” or “How many times have you departed the United States”), type or print “None” unless otherwise directed.
+4. USCIS Online Account Number.  You will only have a USCIS Online Account Number (OAN) if you previously filed a form that has a receipt number that begins with IOE.  If you filed the form online, you can find your OAN in your account profile.  If you mailed us the form, you can find your OAN at the top of the Account 
+ Access Notice we 
+sent you.  If you do not have a receipt number that begins with IOE, you do not have an OAN.  The OAN is not the 
+same as an A-Number.
+5. Reduced Asylum Program Fees For Small Employers and Non-Profits
+You may qualify for a reduced fee on the associated asylum program fee if you:
+(1) Have 25 or fewer full-time equivalent employees in the United States, including any affiliates and subsidiaries.
+• Reduced asylum program fee
+• Possible evidence to support eligibility for the reduced fees includes a copy of the petitioner ’s most recent 
+IRS Form 941, Employer’s Quarterly Federal Return or IRS Form 943, Employer’ Annual Tax Return for Agricultural Workers
+(2) Are a not-for-profit primary or secondary educational institution, or institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965, 20 U.S.C. 1001(a); a tax exempt organization under the Internal Revenue Code of 1986, section 501(c)(3), 26 U.S.C. 501(c)(3); or a governmental research organization as defined under 8 CFR 214.2(h)(19)(iii)(C).
+• No asylum program fee
+• Possible evidence to support eligibility for the reduced fees includes the or ganization’s Determination 
+Letter from the IRS or copy of a currently valid IRS tax exemption certificate
+6. Country of Birth and Country of Citizenship.  Part 3., Item Numbers 6. - 7., and (if applicable), Part 7., Item 
+Numbers 3., 9., 15., 21., 27. and 33.  Provide the name of the country of birth of the person for whom you are filing and the name of the country of citizenship of the person for whom you are filing.  Use the current names of the country of birth and country of citizenship.  If the person for whom you are filing does not have citizenship in any country, type or print “stateless” and provide an explanation in  Part 11. Additional Information. 
+7. Instructions for Industry and Occupation Codes
+A. NAICS Code.   You can obtain the North American Industry Classification System (NAICS) code from the U.S. 
+Department of Commerce, U.S. Census Bureau at www.census.gov/epcd/www/naics.html.  Type or print the 
+code from left to right, entering one digit in each of the six boxes.  If you use a code that is less than six digits, type or print the code left to right and then add zeros in the remaining unoccupied boxes.  For example:
+(1) Type or print the code sequence 33466 as 334660; or
+(2) Type or print the code sequence 5133 as 513300.
+Draft
+Not for 
+Production
+06/11/2024
+Form I-140 Instructions   06/07/24    Page 4 of 11
+B. SOC Code.  You can obtain the Standard Occupational Classification (SOC) System codes from DOL, Bureau of 
+Labor Statistics at www.bls.gov/soc.  Type or print the code from left to right, entering one digit in each of the six 
+boxes.  If you use a code which is less than six digits, type or print the code left to right and then add zeros in the remaining unoccupied boxes.  For example:
+(1) Type or print the code sequence 19-1021 as 19-1021; or
+(2) Type or print the code sequence 15-100 as 15-1000.
+8. Part 8.  Contact Information, Certification, and Signature of the Petitioner or Authorized Signatory.  You must sign and date your petition and, if applicable, provide your daytime telephone number , mobile telephone number, and 
+email address.  
+A stamped or typewritten name in place of a signature is not acceptable. 
+9. Part 9.  Interpreter’s Contact Information, Certification, and Signature.  If you used anyone as an interpreter to read the Instructions and questions on this petition to you in a language in which you are fluent, the interpreter must fill out this section and sign and date the petition.
+10. Part 10.  Contact Information, Certification, and Signature of the Person Preparing this Petition, if Other Than the Petitioner or Authorized Signatory.  The person who completed your petition, if other than the petitioner or authorized signatory, must sign this section. If the same individual acted as your interpreter and your preparer, then that person should complete both Part 9. and Part 10. A stamped or typewritten name in place of a signature is not 
+acceptable.
+We recommend that you print or save a copy of your completed petition for your records.
+General Requirements
+Initial Evidence
+1. If you are filing for an alien of extraordinary ability in the sciences, arts, education, business, or athletics (Part 2., Item Number 1.a. on Form I-140):
+You must include evidence showing the alien has sustained national or international acclaim and the achievements are 
+recognized in the field of expertise.
+A. Evidence of a one-time achievement (for example, a major internationally recognized award); or
+B. At least three of the following:
+(1) Receipt of lesser nationally or internationally recognized prizes or awards for excellence in the field of endeavor;
+(2) Membership in associations in the field, which require outstanding achievements as judged by recognized national or international experts;
+(3) Published material about the alien in professional or major trade publications or other major media;
+(4) Participation on a panel or individually as a judge of others’ work in the field or a related field;
+(5) Original scientific, scholarly, artistic, athletic, or business-related contributions of major significance in the field;
+(6) Authorship of scholarly articles in the field in professional or major trade publications or other major media;
+(7) Display of the alien’s work at artistic exhibitions or showcases;
+Draft
+Not for 
+Production
+06/11/2024
+Form I-140 Instructions   06/07/24    Page 5 of 11
+(8) Evidence that the alien has performed in a leading or critical role for or ganizations or establishments that have 
+distinguished reputations;
+(9) Evidence that the alien has commanded a high salary or other high compensation for services; and
+(10) Evidence of commercial successes in the performing arts as shown by box office receipts or music or video 
+sales.
+C. If the above standards do not readily apply to the alien’s occupation, you may submit comparable evidence to 
+establish the alien’s eligibility; and
+D. Evidence the alien is coming to the United States to continue work in the area of expertise.  Such evidence 
+may include letters from prospective employers, evidence of prearranged commitments such as contracts, or a 
+statement from the alien detailing plans on how he or she intends to continue work in the United States.
+2. A U.S. employer filing for an outstanding professor or researcher (Part 2., Item Number 1.b. on Form I-140) 
+must file the petition with:
+A. Evidence the professor or researcher is recognized internationally as outstanding in the academic field specified in 
+the petition.  Such evidence shall consist of at least two of the following:
+(1) Receipt of major prizes or awards for outstanding achievement in the academic field;
+(2) Membership in associations in the academic field that require outstanding achievements of their members;
+(3) Published material in professional publications written by others about the alien’ s work in the academic field;
+(4) Participation on a panel or individually as the judge of others work in the same or an related academic field;
+(5) Original scientific or scholarly research contributions to the academic field; or
+(6) Authorship of scholarly books or articles in scholarly journals with international circulation in the academic 
+field.
+B. If the above standards do not readily apply, you may submit comparable evidence to establish the alien’s 
+eligibility; and
+C. Evidence the alien has at least three years of experience in teaching and/or research in the academic field; and
+D. If you are a university or other institution of higher education, an offer of employment in the form of a letter 
+indicating that you intend to employ the alien in a tenured or tenure-track position as a teacher or in a permanent 
+position as a researcher in the academic field; or
+E. If you are a private employer:
+(1) An offer of employment in the form of a letter indicating you intend to employ the alien in a permanent 
+research position in the academic field;
+(2) Evidence you employ at least three full-time researchers; and
+(3) Evidence you have achieved documented accomplishments in the field.
+3. A U.S. employer filing for a multinational executive or manager (Part 2., Item Number 1.c. on Form I-140) 
+must file the petition with a statement demonstrating:
+A. If the worker is now employed outside the United States, he or she has been employed outside the United States 
+for at least one year in the past three years in an executive or managerial capacity by the petitioner or by its parent, 
+branch, subsidiary, or affiliate; or
+B. If the worker is already employed in the United States, he or she was employed outside the United States for at 
+least one year in the three years preceding admission as a nonimmigrant in an executive or managerial capacity by 
+the petitioner or by its parent branch, subsidiary, or affiliate; and
+C. The prospective employer in the United States is the same firm, corporation, or other legal entity , or a subsidiary 
+or affiliate, that employed the alien abroad;
+Draft
+Not for 
+Production
+06/11/2024
+Form I-140 Instructions   06/07/24    Page 6 of 11
+D. The prospective U.S. employer has been doing business for at least one year; and
+E. The alien will work in the United States in a managerial or executive capacity .  You should include a description 
+of the duties he or she will perform.
+4. A U.S. employer (or any individual, employer, or third party requesting an NIW) filing for a member of the 
+professions with an advanced degree or an alien with exceptional ability in the sciences, arts, or business (Part 
+2., Item Number 1.d. on Form I-140 for a petition filed by an employer with a Schedule A or individual labor 
+certification, or Part 2., Item Number 1.h. on Form I-140 for a petition requesting an NIW) must include:
+A. A labor certification (see Item 1.  in the General Evidence  section of these Instructions), or a request for a job 
+offer waiver because the employment is deemed in the national interest, with documentation provided showing the 
+alien’s presence in the United States is in the national interest, and:
+(1) An official academic record showing the alien has a U.S. advanced degree or an equivalent foreign degree, or 
+an official academic record showing the alien has a U.S. baccalaureate degree or an equivalent foreign degree 
+and letters from current or former employers showing the alien has at least five years of progressive post-
+baccalaureate experience in the specialty; or
+(2) At least three of the following:
+(a) An official academic record showing the alien has a degree, diploma, certificate, or similar award from an 
+institution of learning relating to the area of exceptional ability;
+(b) Letters from current or former employers showing the alien has at least 10 years of full-time experience in 
+a particular occupation;
+(c) A license to practice the profession or certification for a particular profession or occupation;
+(d) Evidence that the alien has commanded a salary or other compensation for services demonstrating 
+exceptional ability;
+(e) Evidence of membership in professional associations; or
+(f) Evidence of recognition for achievements and significant contributions to the industry or field by peers, 
+governmental entities, or professional or business organizations.
+(3) If the above standards do not readily apply to the alien’s occupation, you may submit comparable evidence to 
+establish the alien’s eligibility.
+5. A U.S. employer filing for a professional (Part 2., Item Number 1.e. on Form I-140) must include:
+A. A labor certification (see Item 1.  in the General Evidence  section of these Instructions);
+B. Evidence that the alien holds a U.S. baccalaureate degree or equivalent foreign degree; and
+C. Evidence that a baccalaureate degree is required for entry into the occupation.
+6. A U.S. employer filing for a skilled worker (Part 2., Item Number 1.f. on Form I-140) must include:
+A. A labor certification (see Item 1.  in General Evidence  section of these Instructions); and
+B. Evidence the alien meets the educational, training, or experience requirements and any other requirements of the 
+labor certification.  (The minimum requirement is two years of training or experience).
+7. A U.S. employer filing for an unskilled worker (Part 2., Item Number 1.g. on Form I-140) must include:
+A. A labor certification (see Item 1.  in the General Evidence  section of these Instructions); and
+B. Evidence that the alien meets any education, training, or experience requirements of the labor certification.
+Draft
+Not for 
+Production
+06/11/2024
+Form I-140 Instructions   06/07/24    Page 7 of 1 1
+Amended Petitions
+If you are filing this petition to amend a previously filed Form I-140, select Part 2., Item Number 2.a. and provide 
+the receipt number of the previously filed Form I-140 in the space provided.  This information will assist USCIS in 
+determining whether we may accept the petition and provide the location of the previously filed petition for case matching 
+purposes.
+Information About the Spouse and All Children of the Alien for Whom You Are Filing
+Form I-140 requires information about the dependent spouse and children of the alien (petition’ s beneficiary) in Part 7. 
+Information About the Spouse and All Children of the Alien for Whom You Are Filing.   This information will assist 
+in visa processing and help USCIS better determine the demand for employment-based immigrant visas at the time of filing Form I-140.
+NOTE:  An annotation of a dependent’s intention to either apply for adjustment of status or an immigrant visa abroad in 
+Part 7. of Form I-140 is not binding, but should reflect the dependent’s intent at the time of filing of Form I-140.
+IRS Tax or Social Security Numbers
+With the exception of the categories for aliens of extraordinary ability ( Part 2., Item Number 1.a. on Form I-140) and 
+NIW (Part 2., Item Number 1.h. on Form I-140), all Form I-140 visa preference categories require a permanent job offer from a U.S. employer and the U.S. employer must file Form I-140.
+NOTE:  All U.S. employers filing petitions with a required permanent job offer must have and provide an IRS Employer 
+Identification Number or a Social Security Number in Part 1. of Form I-140.  If you do not provide this information, 
+USCIS will reject your Form I-140 with a notice that it is deficient.
+General Evidence
+You must submit all evidence requested in these Instructions with your petition.  If you fail to submit required evidence, USCIS may reject or deny your petition in accordance with 8 CFR 103.2(b)(1) and these Instructions.
+1. Labor Certification
+You must file petitions for certain classifications with an original, individual labor certification from the U.S. 
+Department of Labor (DOL) or with documentation to establish that the alien qualifies for one of the shortage occupations designated in Group I or II of DOL’s Schedule A.  If an individual labor certification is required, you must submit the original , individual labor certification with your Form I-140, unless the original labor certification was 
+already provided to USCIS in support of a different petition.  As an alternative, you may select “Yes” for in Part 4., Item Number 10. and ask USCIS to request a duplicate of the original certification from DOL.
+A labor certification establishes there are insufficient U.S. workers able, willing, qualified, and available to fill the 
+position offered to the alien at the time when and place where the alien will work.  It also establishes the alien’ s 
+employment, if qualified, will not adversely affect the wages and working conditions of similarly employed U.S. workers.  Application for labor certification is currently made on Form ETA-9089.  Labor certification applications filed before March 28, 2005, were filed on Form ETA-750.  If the alien is in a Schedule A, Group I or II shortage occupation, you may file a fully completed, uncertified Form ETA-9089 with your Form I-140 for USCIS to determine if the alien’s occupation belongs to the shortage occupation.
+See 20 CFR 656 or the DOL website at www.foreignlaborcert.doleta.gov  for further information about obtaining an 
+individual labor certification or about Schedule A, Group I or II shortage occupations.
+Draft
+Not for 
+Production
+06/11/2024
+Form I-140 Instructions   06/07/24    Page 8 of 1 1
+Effective July 16, 2007, all labor certifications expire 180 days from the date of certification.  USCIS must receive any 
+Form I-140 based on approved labor certifications before the 180 day validity period has elapsed.  In instances where the ending date of the labor certification’s validity period expires on a Saturday, Sunday, or legal holiday, USCIS will 
+accept petitions with the labor certification on the next business day .  USCIS will reject petitions with expired labor 
+certifications filed after the next business day.
+2. Ability to Pay Wage
+You must submit evidence with petitions requiring job offers that the prospective U.S. employer has the ability to pay 
+the offered wage.  You may provide evidence in the form of copies of annual reports, Federal tax returns, or audited financial statements.  If the prospective U.S. employer employs 100 or more workers, you may submit a statement from the organization’s financial officer establishing their ability to pay the wage.  In certain circumstances, you may submit additional evidence, such as profit/loss statements, bank account records, or personnel records.
+NOTE:  The U.S. employer must show the ability to pay the offered wage from the date of filing the labor 
+certification until the alien becomes a lawful permanent resident.  If no labor certification is required with the petition, 
+the U.S. employer must show the ability to pay the offered wage from the date of filing Form I-140 (priority date) 
+until the alien becomes a lawful permanent resident.
+3. Form I-94, Arrival/Departure Record  
+If the alien is in the United States, provide the requested information in Part 3., Item Numbers 10. - 15. of Form 
+I-140, as applicable.  If U.S. Customs and Border Protection (CBP) or USCIS issued the alien a Form I-94, Arrival/
+Departure Record, provide his or her Form I-94 number and date his or her authorized period of stay expires or 
+expired (as shown on Form I-94).  The Form I-94 number also is known as the Departure Number on some versions of Form I-94. 
+NOTE:  You may visit the CBP website at www.cbp.gov/i94 to obtain a paper version of an electronic Form I-94 
+if needed.  If you cannot obtain the Form I-94 from the CBP website, it may be obtained by filing Form I-102, 
+Application for Replacement/Initial Nonimmigrant Arrival-Departure Record, with USCIS.  See Form G-1055, 
+available at www.uscis.gov/forms, for specific information about the fees applicable to Form I-102.
+Passport and Travel Document Numbers.  If you used a passport or travel document to travel to the United Sates, 
+enter either the passport or travel document information in the appropriate space on the petition, even if the passport 
+or travel document is currently expired.
+Where To File?
+Please see our website at www.uscis.gov/I-140 for the most current information about where to file this petition.
+Premium Processing
+Certain Form I-140 classifications are eligible for Premium Processing.  T o determine if your petition is eligible for 
+Premium Processing, visit the USCIS website at www.uscis.gov/forms/how-do-i-use-premium-processing-service .  
+If your Form I-140 is eligible for and you are requesting Premium Processing Services, you must also file Form I-907, 
+Request for Premium Processing Service.  For more information about Premium Processing, please see our website at 
+www.uscis.gov/I-907 or call the USCIS Contact Center at 1-800-375-5283.  For TTY (deaf or hard of hearing) call:  
+1-800-767-1833. 
+NOTE:  Do NOT send requests for Premium Processing to a USCIS Lockbox facility .
+Premium Processing Service for a Pending Form I-140
+Draft
+Not for 
+Production
+06/11/2024
+Form I-140 Instructions   06/07/24    Page 9 of 1 1
+Premium Processing Service for a Pending Form I-140
+ 
+To determine if your requested classification or category is available for Premium Processing, please visit the USCIS 
+website at  www.uscis.gov/forms/how-do-i-use-premium-processing-service .  If you are requesting Premium Processing 
+Services, you must also file Form I-907, Request for Premium Processing Service , with the filing fee.
+Address Change
+If you are not a U.S. citizen, you must notify USCIS of your new address within 10 days of moving from your previous 
+residence.  For information on changing your address, go to our website at www.uscis.gov/addresschange, or call the 
+USCIS Contact Center.
+NOTE:  Do not submit a change of address request to the USCIS Lockbox.  
+Processing Information
+USCIS will reject any Form I-140 that is not signed or accompanied by the correct fee with a notice that Form 
+I-140 is deficient.  You may correct the deficiency and resubmit Form I-140.  A petition is not considered properly filed 
+until accepted by USCIS.
+Initial Processing.  Once USCIS accepts your petition, we will check it for completeness.  If you do not properly 
+complete this petition, you will not establish a basis for your eligibility and we may reject or deny your petition.
+Requests for More Information.  USCIS may request that you provide more information or evidence to support your 
+petition.  We may also request that you provide the originals of any copies you submit.  If we request an original document 
+from you, we will return it to you after USCIS determines it no longer needs your original.
+Requests for Interview.  We may request that you appear at a USCIS office for an interview based on your petition.  
+During your interview, USCIS may require you provide your biometrics to verify your identity and/or update background 
+and security checks.
+Decision.  The decision on Form I-140 involves a determination of whether you have established eligibility for the 
+immigration benefit you are seeking.  USCIS will notify you of our decision in writing.
+Meaning of Petition Approval.  Approval of a petition means you have established the alien is eligible for the requested 
+classification. 
+NOTE:  Petition approval is the first step towards permanent residence.  However , approval does not in itself grant 
+permanent residence or employment authorization.  USCIS will provide you with information about the requirements for 
+the alien to receive an immigrant visa or adjust status after Form I-140 is approved.
+USCIS Forms and Information
+To ensure you are using the latest version of this petition, visit www.uscis.gov.  
+Penalties
+If you knowingly and willfully falsify or conceal a material fact or submit a false document with your Form I-140, we will 
+deny your petition and may deny any other immigration benefit.  In addition, you will face severe penalties provided by 
+law and may be subject to criminal prosecution.
+Draft
+Not for 
+Production
+06/11/2024
+Form I-140 Instructions   06/07/24    Page 10 of 1 1
+USCIS Compliance Review and Monitoring
+By signing this petition, you have stated under penalty of perjury (28 U.S.C. section 1746) that all information and 
+documentation submitted with this petition are complete, true, and correct.  Y ou also authorize the release of any 
+information from your records that USCIS may need to determine your eligibility for the immigration benefit you are seeking and consent to USCIS verifying such information.
+The Department of Homeland Security (DHS) has the authority to verify any information you submit to establish 
+eligibility for the immigration benefit you are seeking at any time.  Our legal authority to verify this information is in        8 U.S.C. sections 1103, 1155, and 1184, and 8 CFR parts 103, 204, 205, and 214.  To ensure compliance with applicable laws and authorities, we may verify information before or after your case is decided. 
+Agency verification methods may include, but are not limited to:  reviewing public records and information; contacting 
+through written correspondence; using the Internet, fax, other electronic transmission, or telephone; making unannounced 
+physical site inspections of residences and locations of employment, and interviewing people.  USCIS will use the information we obtain to assess your compliance with the laws and to determine your eligibility for an immigration 
+benefit. 
+Subject to the restrictions under 8 CFR 103.2(b)(16), USCIS will provide you with an opportunity to address any adverse 
+or derogatory information that may result from a compliance review , verification, or site visit before a decision is made 
+on your request.  For a visit after your request is approved, USCIS will provide you with an opportunity to address any 
+adverse or derogatory information which may result in revocation or termination of an approval. 
+DHS Privacy Notice
+AUTHORITIES:   The information requested on this petition, and the associated evidence, is collected under the 
+Immigration and Nationality Act (INA) sections 203(b)(1), 203(b)(2) or 203(b)(3), and 8 U.S.C. sections 1153(b)(1),  
+(b)(2), and (b)(3).
+PURPOSE:  The primary purpose for providing the requested information on this form is to petition for an immigrant 
+visa based on employment.  DHS uses the information you provide to grant or deny the benefit you are seeking.
+DISCLOSURE:   The information you provide is voluntary.  However, failure to provide the requested information, 
+including your Social Security number, and any requested evidence, may delay a final decision or result in denial of your 
+petition.
+ROUTINE USES:   DHS may share the information you provide on this form with other Federal, state, local, and foreign 
+government agencies and authorized organizations.  DHS follows approved routine uses described in the associated 
+published system of records notices [DHS/USCIS/ICE/CBP-001 - Alien File, Index, and National File Tracking System and DHS/USCIS-007 - Benefits Information System] and published privacy impact assessment [DHS/USCIS/PIA-003 Integrated Digitization Document Management Program, DHS/USCIS/PIA-016a DHS/USCIS/PIA-016 Computer Linked Application Information Management System and Associated Systems, and DHS/USCIS/PIA-044 Validation Instrument for Business Enterprises], which you can find at www.dhs.gov/privacy.  DHS may also share the information, as 
+appropriate, for law enforcement purposes or in the interest of national security .
+Draft
+Not for 
+Production
+06/11/2024
+Form I-140 Instructions   06/07/24    Page 1 1 of 11
+Paperwork Reduction Act
+USCIS may not conduct or sponsor an information collection, and you are not required to respond to a collection 
+of information, unless it displays a currently valid Office of Management and Budget (OMB) control number .  The 
+public reporting burden for this collection of information is estimated at .981 hours per response, including the time for reviewing instructions, gathering the required documentation and information, completing the petition, preparing 
+statements, attaching necessary documentation, and submitting the petition.  Send comments regarding this burden 
+estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to:  U.S. Citizenship and Immigration Services, Office of Policy and Strategy , Regulatory Coordination Division, 5900 Capital 
+Gateway Drive, Mail Stop #2140, Camp Springs, MD 20588-0009; OMB No. 1615-0015.  Do not mail your completed Form I-140 to this address.

@@ -1,0 +1,1669 @@
+---
+source: USCIS Form Instructions
+title: Form I-485 Instructions (Adjustment of Status)
+url: https://www.uscis.gov/sites/default/files/document/forms/i-485instr.pdf
+---
+
+DRAFT
+Not for
+Production
+02/18/2025
+Instructions for Application to Register  
+Permanent Residence or Adjust Status
+Department of Homeland Security
+U.S. Citizenship and Immigration Ser vicesUSCIS
+ Form I-485
+OMB No. 1615-0023
+Expires 10/31/2027
+Form I-485 Instructions   01/20/25 Page 1 of 42Table of Content
+Form I-485 Main Instructions  Page
+What Is the Purpose of Form I-485?  ______________________________________________________________ 2
+Who May File Form I-485?  _____________________________________________________________________ 2
+Who May Not Be Eligible to Adjust Status?  ________________________________________________________ 2
+When Should I File Form I-485?  _________________________________________________________________ 3
+General Instructions  ___________________________________________________________________________ 3
+What Evidence Must You Submit with Form I-485?  __________________________________________________ 10
+Affidavit of Support Under Section 213A of the INA  _________________________________________________ 15
+Where To File?  _______________________________________________________________________________ 16
+Address Change  ______________________________________________________________________________ 16
+Processing Information  _________________________________________________________________________ 16
+USCIS Forms and Information  ___________________________________________________________________ 17
+Penalties  ____________________________________________________________________________________ 17
+USCIS Compliance Review and Monitoring  ________________________________________________________ 17
+SSA Privacy Act Statement  _____________________________________________________________________ 18
+FBI Privacy Notice  ____________________________________________________________________________ 18
+DHS Privacy Act  _____________________________________________________________________________ 18
+Paperwork Reduction Act  _______________________________________________________________________ 19
+Additional Instructions
+Additional Instructions                                                                                                                                                   19
+Additional Instructions for Family-Based Applicants  _________________________________________________ 19
+Additional Instructions for Employment-Based Applicants  _____________________________________________ 21
+Additional Instructions for Special Immigrants  ______________________________________________________ 22
+Additional Instructions for Trafficking Victims (T Nonimmigrants) and Crime Victims (U Nonimmigrants)  ______ 24
+Additional Instructions for Asylees and Refugees  ____________________________________________________ 31
+Additional Instructions for Applicants Filing Under Special Adjustment Programs  __________________________ 32
+Additional Categories  __________________________________________________________________________ 39
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 2 of 42
+What Is the Purpose of Form I-485?
+Form I-485, Application to Register Permanent Residence or Adjust Status, is for a person in the United States to apply for 
+lawful permanent resident status (often referred to as a “Green Card”). Throughout these Instructions, we will sometimes 
+refer to Form I-485 as an application for adjustment of status or as an adjustment application. Read through and follow these Instructions and all instructions as written on the application.
+Who May File Form I-485?
+You must be physically present in the United States to file this application. Additional eligibility requirements for adjustment of status may vary depending on the immigrant category in which you are applying. For more information on adjustment of status eligibility, go to the U.S. Citizenship and Immigration Services (USCIS) website at                      www.uscis.gov/green-card/green-card-processes-and-procedures/adjustment-status .
+You may apply as the person who directly qualifies for an immigrant category (“principal applicant”) or, in some cases, as the spouse or the child of a principal applicant (“derivative applicant”). Whether you are a principal or derivative 
+applicant, you must file your own Form I-485. See the Additional Instructions  for more details.
+Under U.S. immigration law, you are a “child” if you are unmarried, under 21 years of age, and meet the definition of “child” found in the Immigration and Nationality Act (INA) and USCIS policy guidance. You may still be considered a child for immigration purposes even after turning 21 years of age if you qualify under the provisions 
+of the Child Status Protection Act (CSPA) or other applicable provisions. For more information on the CSPA, see                                   
+https://www.uscis.gov/green-card/green-card-processes-and-procedures/child-status-protection-act-cspa . 
+Who May Not Be Eligible to Adjust Status?
+Bars to Adjustment of Status
+You are generally ineligible for adjustment of status under INA section 245(a) if one or more adjustment bars in the INA 
+apply to you. See INA sections 245(a), (c), (d), and/or (e). 
+Exception Under INA section 245(i)
+You may be able to adjust status under INA section 245(i) even if you are present in the United States without inspection and 
+admission or parole, or are subject to one or more adjustment bars at INA section 245(c). See separate instructions for adjusting status under INA section 245(i), titled “ Instructions for Form I-485 Supplement A,” by visiting www.uscis.gov/i-485supa. 
+INA section 245(i) is not an immigrant category. In order to adjust status using INA section 245(i), you must be eligible for an immigrant visa under a family-based, employment-based, special immigrant, or Diversity Visa category
+ . You must 
+select one of the immigrant categories listed in Part 2. Application Type or Filing Category .
+Grounds of Inadmissibility
+Immigration laws specify acts, conditions, and conduct that can make aliens ineligible for lawful permanent resident 
+status. These acts, conditions, and conduct are outlined in INA section 212(a) and are called grounds of inadmissibility. 
+For more information on the grounds of inadmissibility for specific immigrant categories, visit the USCIS Policy Manual at www.uscis.gov/policy-manual/volume-8 . If you are inadmissible, you may be eligible for a waiver of the ground of 
+inadmissibility or another form of relief. If we approve your waiver application or grant another form of relief, USCIS may approve your application to adjust status, if you are otherwise eligible.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 3 of 42
+When Should I File Form I-485?
+Principal Applicant
+In general, if you are filing as a beneficiary of an immigrant visa petition (such as Form I-130, Petition for Alien Relative, 
+Form I-140, Immigrant Petition for Alien Workers, or Form I-360, Petition for Amerasian, Widow(er), or Special 
+Immigrant), you may file an adjustment application only after USCIS has approved your petition and an immigrant visa number is immediately available. There are, however, some immigrant categories that allow you to file Form I-485 before USCIS approves your petition (this is known as “concurrent filing”), provided that approval of the petition would make an immigrant visa number immediately available to you and you meet all other filing and eligibility requirements. See the Additional Instructions  for category-specific information on when you may file Form I-485.
+Visit the USCIS website at www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-
+and-priority-dates for information on visa availability, and the Department of State (DOS) website at                              travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html  to view the Visa Bulletin.
+More information about concurrent filing is available at https://www.uscis.gov/green-card/green-card-processes-and-
+procedures/concurrent-filing-of-form-i-485 and in the Instructions for Forms I-130, I-140, and I-360.
+Derivative Adjustment Applicant
+If you are currently the spouse or child of a principal applicant, you may file Form I-485 if an immigrant visa is 
+immediately available to you and you meet all filing requirements. Y
+ ou may file at any of the following times:
+• At the same time the principal applicant files Form I-485;
+• After the principal applicant filed a Form I-485 that remains pending a final decision by USCIS;
+• After USCIS approves the principal applicant’s Form I-485, if the principal applicant is still a lawful permanent 
+resident and if, at the time of the principal applicant’s Form I-485 approval, you were the principal applicant’s spouse 
+or child; or
+• After the principal applicant obtained an immigrant visa and entered the United States as a lawful permanent resident 
+if the principal applicant is still a lawful permanent resident and, at the time of the principal applicant’ s entry , you 
+were the principal applicant’s spouse or child.
+Generally, USCIS cannot approve your Form I-485 as a derivative applicant until the principal applicant obtains lawful 
+permanent resident status. USCIS may approve an adjustment application for a U nonimmigrant, asylee, or refugee derivative before the principal applicant obtains lawful permanent resident status.
+General Instructions
+We provide free forms through the USCIS website. To view, print, or complete our forms, you should use the latest version of Adobe Reader, which you can download for free at http://get.adobe.com/reader/ . 
+Form G-325A, Biographic Information. Form G-325A is no longer required. You do not need to submit a separate Form 
+G-325A with this Form I-485. Part 1. Information About You and Part 4. Additional Information About You of this 
+Form I-485 meet the requirements of 8 CFR 245.3(a)(3)(i) by collecting the biographical information formerly required on Form G-325A.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 4 of 42
+Signature. You (or your signing authority) must properly complete your application. USCIS will not accept a stamped 
+or typewritten name in place of any signature on this application. If you are under 14 years of age, your parent or legal 
+guardian may sign the application on your behalf. A legal guardian may also sign for a mentally incompetent person. 
+(See the  Additional Instructions that relates to Individuals Born Under Diplomatic Status in the United States, for one 
+exception.) If your application is not signed, or if the signature is not valid, we will reject your application. See 8 CFR 
+103.2(a)(7)(ii)(A). If USCIS accepts a request for adjudication and determines that it has a deficient signature, USCIS may 
+deny the request. 
+Validity of Signatures.  USCIS will consider a photocopied, faxed, or scanned copy of an original handwritten signature 
+as valid for filing purposes. The photocopy, fax, or scan must be of the original document containing the handwritten ink 
+signature. 
+Filing Fee.  See Form G-1055, available at www.uscis.gov/forms , for specific information about the fees applicable to this 
+form. 
+Evidence.  When you file your application, you must submit all evidence and supporting documentation listed in the What 
+Evidence Must You Submit with Form I-485  section of these Instructions. Evidence requirements may vary depending 
+on the immigrant category you are applying under. See the Additional Instructions  for information on whether any 
+general evidence requirements do not apply to you, or if you have other evidence requirements specific to your immigrant 
+category. 
+Biometric Services Appointment.  USCIS may require you to appear for an interview or provide biometrics (fingerprints, 
+photograph, and/or signature) at any time to verify your identity , obtain additional information, and conduct background 
+and security checks, including a check of criminal history records maintained by the Federal Bureau of Investigation 
+(FBI), before making a decision on your application or petition. If we determine that a biometric services appointment 
+is necessary, we will send you an appointment notice with the date, time, and location of your appointment. If you are 
+currently overseas, your notice will instruct you to contact a U.S. Embassy , U.S. Consulate, or USCIS office outside the 
+United States to schedule an appointment. 
+At your biometrics appointment, you must sign an oath reaffirming that: 
+1. You provided or authorized all information in the application; 
+2. You reviewed and understood all of the information contained in, and submitted with, your application; and
+3. All of this information was complete, true, and correct at the time of filing.
+If you do not attend your biometric services appointment, we may deny your application. 
+For applicants and dependents who appear before an immigration judge, failure to attend a biometric services 
+appointment, without good cause, may result in the immigration judge finding that your application was abandoned, and 
+USCIS may also deny any other application you filed with USCIS.
+Copies.  You should submit legible photocopies of requested documents unless the Instructions specifically instruct you to 
+submit an original document. USCIS may request an original document at any time during our process. If we request an 
+original document from you, we will return it to you after USCIS determines it no longer needs the original.
+NOTE:  If you submit original documents when they are not required or requested, USCIS or the Immigration Court 
+may destroy them after we receive them.
+Translations.  If you submit a document with information in a foreign language, you must also submit a full English 
+translation. The translator must sign a certification that the English language translation is complete and accurate, and 
+that he or she is competent to translate from the foreign language into English. The certification must also include the 
+translator's signature, printed name, the signature date, and the translator's contact information.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 5 of 42
+USCIS Contact Center. For additional information on the application and Instructions about where to file, change of 
+address, and other questions, visit the USCIS Contact Center at www.uscis.gov/contactcenter  or call at 800-375-5283 
+(TTY 800-767-1833). The USCIS Contact Center provides information in English and Spanish. 
+Disability Accommodations/Modifications. To request a disability accommodation/modification, follow the instructions 
+on your appointment notice or at www.uscis.gov/accommodationsinfo.
+Selective Service.  Most males between 18 and 26 years of age are required by the Military Selective Service Act to 
+register with the Selective Service System. For more information about the Selective Service System, go to www.sss.gov. 
+If USCIS approves your application, we will send your name, current address, Social Security number , date of birth, and 
+the date you filed the application to the Selective Service System for registration.
+Acknowledgement of Selective Service.  Review the Selective Service Acknowledgement in Part 10. The purpose of 
+this acknowledgement is to confirm that you understand USCIS will be sending your information to the Selective Service 
+System for registration. 
+How To Complete Form I-485
+1. Type or print legibly in black ink.
+2. If you need extra space to complete any item within this application, use the space provided in Part 14. Additional 
+Information or attach a separate sheet of paper. Type or print your name and Alien Registration Number (A-Number) 
+(if any) at the top of each sheet; indicate the Page Number, Part Number, and Item Number to which your answer 
+refers; and sign and date each sheet.
+3. Answer all questions fully and accurately. If a question does not apply to you (for example, if you have never been 
+married and the question asks, “Provide the name of your current spouse”), type or print “N/A,” unless otherwise 
+directed. If your answer to a question which requires a numeric response is zero or none (for example, “How many 
+children do you have” or “How many times have you departed the United States”), type or print “None,” unless 
+otherwise directed. 
+4. USCIS Online Account Number (if any). You will only have a USCIS Online Account Number (OAN) if you previously filed a form that has a receipt number that begins with IOE. If you filed the form online, you can find your 
+OAN in your account profile. If you mailed us the form, you can find your OAN at the top of the Account 
+ Access 
+Notice we sent you. If you do not have a receipt number that begins with IOE, you do not have an OAN. The OAN is 
+not the same as an A-Number.
+5. Sex. Indicate whether you are male or female as provided on your birth certificate issued at the time of birth or issued 
+closest to the time of birth or in secondary evidence you provided to USCIS, if applicable.
+6. Alien Crewman. For Part 1. Information About You, Item Numbers 16. - 17., alien crewman means:
+• An alien crewman serving in good faith as such in a capacity required for “normal operation and service on 
+board a vessel,” as that term is defined in INA section 258, (other than a fishing vessel having its home port or 
+an operating base in the United States), or aircraft, who intends to land temporarily and solely in pursuit of their 
+calling as a crewman and to depart from the United States with the vessel or aircraft on which they arrived or 
+some other vessel or aircraft; or 
+• An alien crewman serving in good faith as such in any capacity required for normal operations and service 
+on board a fishing vessel having its home port or an operating base in the United States who intends to land 
+temporarily in Guam or the Commonwealth of the Northern Mariana Islands and solely in pursuit of their calling 
+as a crewman and to depart from Guam or the Commonwealth of the Northern Mariana Islands with the vessel on 
+which they arrived.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 6 of 42
+7. Current Mailing Address (Safe or Alternate Address, if applicable). You must provide a valid mailing address in 
+the United States in Part 1. Information About You , Item Number 18.  You may list a valid U.S. residence, APO, 
+or commercial address. You may also list a U.S. Post Office address (P.O. Box) if that is how you receive your mail. 
+If your mail is sent to someone other than yourself, please include an “In Care Of Name” as part of your mailing 
+address. If your U.S. mailing address is in a U.S. territory and it contains an urbanization name, list the urbanization 
+name in the “In Care Of Name” space provided. 
+NOTE: If you have a pending or approved petition or application for Violence Against Women Act (V AWA) benefits, 
+as a human trafficking victim (T nonimmigrant), or as a victim of qualifying criminal activity (U nonimmigrant), and 
+you do not feel safe receiving mail about this application at your physical address, provide a safe mailing address 
+in this field. If you are filing as a special immigrant juvenile (SIJ), you may designate an alternate mailing address 
+in this field. The safe or alternate address may be a P.O. Box or the address of a friend, your attorney or accredited 
+representative, a community-based organization that is helping you, or any other address where you can safely and 
+timely receive mail. 
+8. Questions regarding Social Security Number (SSN). Part 1. Information About You, Item Number 19. asks if 
+the Social Security Administration (SSA) has ever officially issued you a Social Security card. If the SSA ever issued 
+a Social Security card to you in your name or a previously used name such as your maiden name, then you must enter 
+the Social Security Number (SSN) from your card in Item Number 19.
+If your application is approved, the SSA may assign you an SSN and issue you a Social Security card or issue you a 
+replacement card. If you want the SSA to assign you an SSN and issue you a Social Security card or issue you a new 
+or replacement Social Security card, then answer “Yes” to both applicable questions.  
+You are not required to request an SSN using this application. However, you must have an SSN properly assigned in 
+your name to work in the United States.
+If your employer uses E-Verify to confirm new employees’ eligibility to legally work in the United States, the 
+information you provide on Form I-9, Employment Eligibility Verification, will be compared to data available to the 
+Department of Homeland Security (DHS) and SSA. Employees must have an SSN in order for E-V erify to confirm 
+their eligibility to legally work in the United States.
+NOTE: USCIS will not share information with SSA if a Form I-485 is subject to Public Law 106-553, as amended by 
+the LIFE Act Amendments, Public Law 106-544 (December 21, 2000).
+9. Part 9. General Eligibility and Inadmissibility Grounds, Public Charge . 
+For Part 9., Item Number 56. , applicants for adjustment of status are subject to the public charge ground of 
+inadmissibility, unless exempt. If you are applying to adjust status under one of the exempt categories listed in Item 
+Number 56. , you should select your category and skip Item Numbers 57. - 66.
+If you are not applying to adjust status under one of the exempt categories listed, you should select “I do not fall under 
+any of the exempt categories listed above and will complete Item Numbers 57. - 66. ” in Part 9. , Item Number 56. , 
+and you are required to complete Item Numbers 57. - 66. For more information about which categories of aliens are 
+subject to the public charge ground of inadmissibility, see the USCIS Policy Manual V olume 8, Part G, Chapter 3 at 
+https://www.uscis.gov/policy-manual/volume-8-part-g-chapter-3 . 
+For Part 9. , Item Number  57., the following individuals are members of your household and should be included in 
+your household size:
+• You;
+• Your spouse, if physically residing with you;
+• Your parents, if physically residing with you;
+• Your unmarried siblings under 21 years of age, if physically residing with you;
+• Your children as defined in INA section 101(b)(1), if physically residing with you;
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 7 of 42
+• Any other individuals (including a spouse or child not physically residing with you) who are listed as dependents 
+on your Federal income tax return; and
+• Any other individuals who list you as a dependent on their Federal income tax return.
+For Part 9. , Item Number 58. , please select the appropriate box for your household’s annual income. You may 
+include income provided to your household from sources who are not members of your household, including but 
+not limited to alimony or child support. You must exclude any income from Supplemental Security Income (SSI); 
+Temporary Assistance for Needy Families (TANF); state, Tribal, territorial, or local cash benefit programs for income 
+maintenance (often called “General Assistance” in the state context, but which also exist under other names). You 
+must also exclude any income from illegal activities or sources such as proceeds from illegal gambling or drug sales.
+For Part 9. , Item Number 59. , please select the appropriate box for the total value of your household assets. You 
+must exclude any assets from illegal activities or sources such as proceeds from illegal gambling or drug sales. You 
+may not include assets that are not owned by the members of your household. Examples of assets include, but are 
+not limited to, bank deposits, annuities, stocks, bonds, mutual funds, exchange traded funds, certificates of deposit, 
+retirement accounts, educational accounts, and real estate. 
+For Part 9. , Item Number 60. , please select the appropriate box for the total value of your household liabilities 
+(including both secured and unsecured liabilities). Only include liabilities owed by members of your household. 
+Examples of liabilities include, but are not limited to, mortgages, car loans, unpaid child or spousal support, unpaid 
+taxes, and current credit card balances.
+For Part 9. , Item Number 61. , if the title of your degree does not match one of the degrees listed, please select the 
+nearest equivalent. 
+For Part 9. , Item Number 62. , please list all of your certifications, licenses, skills obtained through work experience, 
+and educational certificates. This includes, but is not limited to, your workforce skills, training, licenses for specific 
+occupations or professions, foreign language skills, and certificates documenting mastery or apprenticeships in skilled 
+trades or professions. Educational certificates are issued by an educational institution (or a training provider) and 
+certify that an occupation specific program of study was completed.
+For Part 9. , Item Number 63. , please note that you should only answer “Yes” if you have ever received public 
+benefits referenced in 8 CFR 212.21(b) and (c). This does not include benefits such as: Supplemental Nutrition 
+Assistance Program (SNAP), Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) 
+or other nutrition programs, the Children’s Health Insurance Program (CHIP), disaster assistance, school lunch 
+programs, housing benefits, cash payments provided for childcare assistance, or other special purpose cash assistance 
+of any type.
+If you answer “Yes” to Part 9. , Item Number 63. , complete the table in Part 9. , Item Number 65. , showing the 
+dates of receipt and dollar amount received of public cash assistance for income maintenance: SSI; TANF; and state, 
+Tribal, territorial, or local cash benefit programs for income maintenance (often called “General Assistance” in the 
+state context, but which also exist under other names).
+NOTE:  Item Numbers 63. - 66.  are only asking about public benefits (in other words, public cash assistance for 
+income maintenance and long-term institutionalization at government expense) you received in the past or are 
+currently receiving at the time the Form I-485 is filed, and where you were/are a listed beneficiary . Do not include any 
+public benefits for which you are not listed as a beneficiary, even if you assisted with the application. Do not include 
+benefits that you only applied for, or were approved to receive in the future but have not received in the past and/or 
+are not currently receiving. Do not include public benefits you received only on behalf of another individual.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 8 of 42
+If you answer “Yes” to Part 9. , Item Number 64. , complete the table in Part 9. , Item Number 66.  showing the 
+name, city, and state of each institution in which you received long-term institutionalization at government expense. 
+Long-term institutionalization does not include sporadic or intermittent periods of institutionalization, even on a 
+recurring basis, such as for caregiver respite care or behavioral health or substance abuse disorder treatment. Home 
+and community-based services are not considered as long-term institutionalization at Government expense. Long-
+term institutionalization also does not include imprisonment for conviction of a crime or institutionalization for short 
+periods for rehabilitation purposes. If you believe that your institutionalization violated Federal law , including the 
+American Disabilities Act or the Rehabilitation Act, you must submit documentation to support your claim.
+For Item Numbers 65. and 66., you should select the appropriate “Yes” or “No” box in the final column of the table 
+to indicate whether you received public cash assistance for income maintenance or were institutionalized long-term at 
+government expense, as applicable, while you were in an immigration category exempt from the public charge ground 
+of inadmissibility. The full list of exempt categories is codified at 8 CFR 212.23 and listed below:
+• Refugees at the time of admission under INA section 207 and at the time of adjustment of status to lawful 
+permanent resident under INA section 209; 
+• Asylees at the time of grant under INA section 208 and at the time of adjustment of status to lawful permanent 
+resident under INA section 209; 
+• Amerasian immigrants at the time of application for admission as described in sections 584 of the Foreign 
+Operations, Export Financing, and Related Programs Appropriations Act of 1988, Public Law 100–202, 101 Stat. 
+1329–183, section 101(e) (Dec. 22, 1987), as amended, 8 U.S.C. 1 101 note; 
+• Afghan and Iraqi Interpreters, or Afghan or Iraqi nationals employed by or on behalf of the U.S. Government 
+as described in section 1059(a)(2) of the National Defense Authorization Act for Fiscal Year 2006 Public Law 
+109–163 (Jan. 6, 2006), as amended, and section 602(b) of the Afghan Allies Protection Act of 2009, Public Law 
+111–8, title VI (Mar. 11, 2009), as amended, 8 U.S.C. 1101 note, and section 1244(g) of the National Defense 
+Authorization Act for Fiscal Year 2008, as amended, Public Law 110–181 (Jan. 28, 2008); 
+• Cuban and Haitian entrants applying for adjustment of status under section 202 of the Immigration Reform and 
+Control Act of 1986 (IRCA), Public Law 99–603, 100 Stat. 3359 (Nov. 6, 1986), as amended, 8 U.S.C. 1255a 
+note; 
+• Aliens applying for adjustment of status under the Cuban Adjustment Act, Public Law 89–732 (Nov. 2, 1966), as 
+amended, 8 U.S.C. 1255 note; 
+• Nicaraguans and other Central Americans applying for adjustment of status under section 202(a) and section 203 
+of the Nicaraguan Adjustment and Central American Relief Act (NACARA), Public Law 105–100, 111 Stat. 2193 
+(Nov. 19, 1997), as amended, 8 U.S.C. 1255 note; 
+• Haitians applying for adjustment of status under section 902 of the Haitian Refugee Immigration Fairness Act of 
+1998, Public Law 105–277, 112 Stat. 2681 (Oct. 21, 1998), as amended, 8 U.S.C. 1255 note; 
+• Lautenberg parolees as described in section 599E of the Foreign Operations, Export Financing, and Related 
+Programs Appropriations Act of 1990, Public Law 101–167, 103 Stat. 1195, title V (Nov. 21, 1989), as amended, 
+8 U.S.C. 1255 note; 
+• Special immigrant juveniles as described in INA section 245(h); 
+• Aliens who entered the United States prior to January 1, 1972, and who meet the other conditions for being 
+granted lawful permanent residence under INA section 249 and 8 CFR part 249 (Registry); 
+• Aliens applying for or reregistering for Temporary Protected Status as described in INA section 244 in accordance 
+with INA section 244(c)(2)(A)(ii) and 8 CFR 244.3(a); 
+• Nonimmigrants described in INA sections 101(a)(15)(A)(i) and (ii) (Ambassador, Public Minister, Career 
+Diplomat or Consular Officer, or Immediate Family or Other Foreign Government Official or Employee, or 
+Immediate Family), in accordance with INA section 102 and 22 CFR 41.21(d); 
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 9 of 42
+• Nonimmigrants classifiable as C–2 (alien in transit to U.N. Headquarters) or C–3 (foreign government official), in 
+accordance with 22 CFR 41.21(d); 
+• Nonimmigrants described in INA sections 101(a)(15)(G)(i), (ii), (iii), and (iv), (Principal Resident Representative 
+of Recognized Foreign Government to International Organization, and related categories), in accordance with INA 
+section 102 and 22 CFR 41.21(d); 
+• Nonimmigrants classifiable as NATO–1, NATO–2, NATO–3, NATO–4 (NATO representatives), and NATO–6 in 
+accordance with 22 CFR 41.21(d); 
+• Applicants for nonimmigrant status under INA section 101(a)(15)(T), in accordance with INA section 212.16(b); 
+• Individuals who are seeking an immigration benefit for which admissibility is required, including but not limited 
+to adjustment of status under INA sections 245(a) and 245(l) and who have a pending application that sets forth 
+a prima facie case for eligibility for nonimmigrant status under INA  section 101(a)(15)(T), or have been granted 
+nonimmigrant status under INA section 101(a)(15)(T), provided that the individual is in valid T nonimmigrant 
+status at the time the benefit request is properly filed with USCIS and at the time the benefit request is adjudicated; 
+• Petitioners for nonimmigrant status under INA section 101(a)(15)(U), in accordance with INA section 212(a)
+(4)(E)(ii) or individuals who are granted nonimmigrant status under INA  section 101(a)(15)(U) in accordance 
+with INA section 212(a)(4)(E)(ii), who are seeking an immigration benefit for which admissibility is required, 
+including, but not limited to, adjustment of status under INA section 245(a), provided that the individuals are in 
+valid U nonimmigrant status at the time the benefit request is properly filed with USCIS and at the time the benefit 
+request is adjudicated; 
+• Any aliens who are V AWA self-petitioners under INA section 212(a)(4)(E)(i); 
+• Qualified aliens described in section 431(c) of the Personal Responsibility and Work Opportunity Reconciliation 
+Act of 1996, 8 U.S.C. 1641(c), under INA section 212(a)(4)(E)(iii);
+• Applicants adjusting status who qualify for a benefit under section 1703 of the National Defense Authorization 
+Act, Public Law 108–136, 117 Stat. 1392 (Nov. 24, 2003), 8 U.S.C. 1151 note (posthumous benefits to surviving 
+spouses, children, and parents); 
+• American Indians born in Canada determined to fall under INA section 289; 
+• Texas Band of Kickapoo Indians of the Kickapoo Tribe of Oklahoma, Public Law 97–429 (Jan. 8, 1983); 
+• Nationals of Vietnam, Cambodia, and Laos applying for adjustment of status under section 586 of Public Law 
+106–429 under 8 CFR 245.21; 
+• Polish and Hungarian Parolees who were paroled into the United States from November 1, 1989 to December 31, 
+1991, under section 646(b) of the IIRIRA, Public Law 104–208, Div . C, Title VI, Subtitle D (Sept. 30, 1996), 8 
+U.S.C. 1255 note; 
+• Applicants adjusting status who qualify for a benefit under Section 761 1 of the National Defense Authorization 
+Act for Fiscal Year 2020, Public Law 116–92, 113 Stat. 1198, 2309 (December 20, 2019) (Liberian Refugee 
+Immigration Fairness), later extended by Section 901 of Division O, Title IX of the Consolidated Appropriations 
+Act, 2021, Public Law 116–260 (December 27, 2020) (Adjustment of Status for Liberian Nationals Extension); 
+• Certain Syrian nationals adjusting status under Public Law 106–378; and 
+• Any other categories of aliens exempt under any other law from the public charge ground of inadmissibility, INA 
+section 212(a)(4).
+For more information on the receipt of public benefits and its impact on public char ge inadmissibility determinations, 
+please see USCIS Policy Manual V olume 8, Part G, at https://www.uscis.gov/policy-manual/volume-8-part-g  
+and the Public Charge Resources web content at https://www.uscis.gov/green-card/green-card-processes-and-
+procedures/public-charge/public-charge-resources .
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 10 of 42
+10. Part 10. Applicant’s Contact Information, Certification, and Signature. You must sign and date your application 
+and, if applicable, provide your daytime telephone number, mobile telephone number, and email address. The signature of a parent or legal guardian, if applicable, is acceptable. A
+  stamped or typewritten name in place of a 
+signature is not acceptable. 
+11. Part 11. Interpreter’s Contact Information, Certification, and Signature. If you used anyone as an interpreter to read the Instructions and questions on this application to you in a language in which you are fluent, the interpreter must fill out this section and sign and date the application. 
+12. Part 12. Contact Information, Certification, and Signature of the Person Preparing this Application, if Other Than the Applicant. The person who completed your application, if other than the applicant, must sign this section. 
+If the same individual acted as your interpreter and your preparer, then that person should complete both Part 11. and 
+Part 12. A stamped or typewritten name in place of a signature is not acceptable. 
+We recommend that you review your copy of your completed application before you go to your biometric 
+services appointment at a USCIS ASC. At your appointment, USCIS will allow you to complete the application 
+process only if you are able to confirm, under penalty of perjury , that all of the information in your application is 
+complete, true, and correct. If you are not able to make that attestation in good faith at that time, we will require you to 
+return for another appointment.  
+What Evidence Must You Submit with Form I-485?
+You must submit all evidence requested in these Instructions with your application. If you fail to submit required evidence, USCIS may reject or deny your application in accordance with 8 CFR 103.2(b)(1) and these Instructions.
+If you are unable to submit the required primary evidence (for example, a birth certificate or marriage certificate), you may 
+provide secondary evidence (for example, church or school records) instead if you can explain why the primary evidence is unavailable. If you cannot submit secondary evidence, you may submit two or more affidavits, sworn to or affirmed by individuals who are not parties to the immigration benefit sought and who have direct personal knowledge of the event and circumstances. You must also explain why primary and secondary evidence are unavailable in accordance with 8 CFR 103.2(b)(2).
+1. Photographs
+You must submit two identical color passport-style photographs of yourself taken recently . The photos must have a 
+white to off-white background, be printed on thin paper with a glossy finish, and be unmounted and unretouched.The photos must be 2 by 2 inches with a full face, frontal view. Head height should measure 1 to 1 3/8 inches from the 
+top of your hair to the bottom of your chin, and eye height should measure between 1 1/8 to 1 3/8 inches from the top of your eyes to the bottom of the photo. Your head must be bare unless you are wearing headwear as required by your religious denomination. Use a pencil or felt pen to lightly print your name and A-Number (if any) on the back of the 
+photos.
+2. Government-Issued Identity Document with Photograph
+Applicants should submit a photocopy of a government-issued identity document (for example, passport (even if 
+expired), driver’s license, or military identification document) that has their photograph. 
+3. Birth Certificate
+Unless otherwise specified, applicants must submit a photocopy of their birth certificate issued by the appropriate civil 
+authority from their country of birth. USCIS will only accept a birth certificate which lists at least one parent. See the U.S. Department of State Reciprocity Schedule to determine how to obtain a birth certificate from your country of birth on the website, https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-
+by-Country.html/. See the Additional Instructions  for more category-specific information.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 11 of 42
+4. Evidence of Inspection and Admission or Inspection and Parole
+The following types of applicants do NOT need to submit documentation of inspection and admission or inspection 
+and parole:
+• Registry applicants; 
+• Asylees; 
+• V AWA self-petitioners;
+• Special immigrant juveniles;
+• T nonimmigrants applying under INA section 245(l);
+• U nonimmigrants applying under INA section 245(m); 
+• Individuals born under diplomatic status in the United States; and
+• Individuals applying under INA section 245(i).
+All other applicants must provide evidence of inspection and admission or inspection and parole into the United 
+States. This evidence also must be related to the most recent arrival into the United States. Such evidence includes, but 
+is not limited to, copies of the following documents, if available:
+• Passport page with admission or parole stamp (issued by a U.S. immigration officer);
+• Passport page with nonimmigrant visa; and
+• Form I-94, Arrival/Departure Record.
+NOTE:  You may visit the CBP website at www.cbp.gov/i94  to obtain a paper version of an electronic Form I-94 
+if needed.  If you cannot obtain the Form I-94 from the CBP website, it may be obtained by filing Form I-102, 
+Application for Replacement/Initial Nonimmigrant Arrival-Departure Record, with USCIS.  See Form G-1055, 
+available at www.uscis.gov/forms , for specific information about the fees applicable to Form I-102.
+If you cannot produce this primary evidence, and DHS has no record of the admission or parole, USCIS will presume 
+that you came into the United States without admission or parole.
+You may, however, provide secondary evidence (such as records maintained in the ordinary course of business by any 
+individual or organization other than DHS) to support your claim that you were admitted or paroled.
+If no secondary evidence is available, you may submit separate written statements, signed under penalty of perjury 
+under United States law, from yourself and from any other individuals who have personal knowledge of the 
+circumstances of your claimed admission or parole. Any statement should explain in detail when and where you came 
+into the United States; what travel documents you had, if any; whether you showed them to the immigration inspector; 
+any questions the immigration inspector asked; and any other details about your claimed admission or parole.
+5. Documentation of Your Immigrant Category 
+Applicants must submit evidence showing that they are eligible for adjustment of status for the particular immigrant 
+category selected. For categories that do not require an immigrant visa or petition, refer to the Additional 
+Instructions  to determine what you must submit for your specific category. See Part 2. Application Type or Filing 
+Category, Item Numbers 3.a. - 3.g.
+Filing as a Beneficiary of an Immigrant Visa Petition
+If you are filing as a beneficiary of an immigrant visa petition, you generally must submit a photocopy of Form 
+I-797, Notice of Action, for your underlying visa petition (or the principal applicant’s petition, if you are a derivative 
+applicant), as appropriate. The underlying visa petition is the basis for the immigrant category upon which you are 
+applying for adjustment of status. 
+If you are filing as a principal applicant and your immigrant category allows you to file Form I-485 before your visa 
+petition is approved, you may submit your Form I-485 together with:
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 12 of 42
+• Your immigrant visa petition; or
+• A photocopy of the receipt notice (Form I-797), for your immigrant visa petition.
+If you are filing as a derivative applicant based on the principal applicant’ s immigrant visa petition, you may submit 
+your Form I-485 together with the principal applicant’s Form I-485 or provide a photocopy of:
+• The approval or receipt notice (Form I-797) for the principal applicant’ s pending or approved immigrant visa 
+petition (if applicable); or
+• The approval or receipt notice (Form I-797) the principal applicant received for Form I-485 (if applicable) or a 
+copy of the principal applicant’s Form I-551 (Green Card) (if applicable).
+6. Marriage Certificate and Other Proof of Family Relationship
+If you are filing Form I-485 as the derivative applicant spouse of the principal applicant, you generally must submit 
+a photocopy of your marriage certificate issued by the appropriate civil authority where the marriage took place. 
+Refugee derivative applicant spouses do not need to submit a photocopy of the marriage certificate if the document 
+is unavailable. There are also some immigrant categories that require the principal applicant to submit a marriage 
+certificate (for example, K-1 nonimmigrants (person admitted to the United States as a fiancé(e)). See the Additional 
+Instructions  for more category-specific information.
+If either party to the marriage was previously married, you must also submit evidence to prove the legal termination of 
+any prior marriages, typically a divorce decree/certificate or death certificate. 
+If you are filing as the derivative applicant child of the principal applicant and your birth certificate does not show 
+that the principal applicant is your parent, you must submit a photocopy of your parents’  marriage certificate, your 
+adoption certificate, or other proof of your parent-child relationship with the principal applicant. 
+7. Evidence of Continuously Maintaining a Lawful Status Since Arrival in the United States
+Anyone applying under the following immigrant categories must submit evidence to show they have continuously 
+maintained lawful immigration status while in the United States and are therefore not barred from adjustment by INA  
+section 245(c)(2): 
+• Applicants applying under a family-based preference category or an employment-based preference category; 
+• Special immigrant religious workers;
+• International broadcasters; and 
+• Selectees under the Diversity Visa program.
+Acceptable evidence may include, but is not limited to, copies of the following documents:
+• Form I-797, Notice of Action, for all extensions of stay and changes of nonimmigrant status;
+• Form I-94, Arrival/Departure Record, including printouts of paperless I-94 admissions;
+• Form I-20, Certificate of Eligibility for Nonimmigrant (F-1) Student Status – For Academic and Language 
+Students, including all pages containing notations by authorized school officials;
+• Form I-20, Certificate of Eligibility for Nonimmigrant (M-1) Student Status – For V ocational Students, including 
+all pages containing notations by authorized school officials;
+• Form DS-2019 (formerly IAP 66), Certificate of Eligibility for Exchange Visitor (J-1) Status, including all pages 
+containing notations by authorized exchange visitor program officials; or
+• Passport page with an admission or parole stamp (issued by a U.S. immigration officer).
+Include evidence for every time you entered the United States and for the time periods spent in the United States. See 
+the Additional Instructions  for information on whether your specific immigrant category requires this evidence.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 13 of 42
+If you are applying as an employment-based first preference, second preference, or third preference applicant or as 
+a fourth preference special immigrant religious worker or as a derivative family member and you believe you are 
+exempt from the INA section 245(c)(2), (7), or (8) bars under INA section 245(k), you should submit evidence to 
+prove you qualify for this exemption. For more information, see www.uscis.gov/green-card/green-card-processes-
+and-procedures/adjustment-status .
+8. Confirmation of Valid Job Offer or Request for Job Portability Under INA Section 204(j) (Supplement J)
+If your Form I-485 is related to an Immigrant Petition for Alien Workers (Form I-140) filed in an employment-
+based immigrant visa category that requires a job offer, and you are filing Form I-485 as a principal applicant after 
+approval of Form I-140 filed on your behalf by the petitioner, you must file Form I-485 Supplement J, Confirmation 
+of Valid Job Offer or Request for Job Portability under INA Section 204(j), together with your Form I-485. For more 
+information about this requirement, please read the Instructions to Supplement J. If you are filing Form I-485 together 
+with a Form I-140 filed on your behalf, or while Form I-140 is still pending, you do not need to file Supplement J at 
+this time. At any time during the adjudication process, USCIS may request that you file Supplement J.
+NOTE:  Individuals seeking or granted a National Interest Waiver of the job offer requirement and individuals 
+seeking or granted classification as an alien of extraordinary ability under INA  section 203(b)(1)(A) do not need to 
+file Supplement J, because these employment-based immigrant visa categories are not tied to a specific job offer . If 
+you filed or are concurrently filing Form I-140 as a self-petitioner , you must intend to work in the occupational field 
+specified in the Form I-140. You must provide a signed statement confirming this intent, unless you are filing Form 
+I-485 at the same time as your Form I-140 or while your Form I-140 is still pending.
+9. Report of Immigration Medical Examination and Vaccination Record (Form I-693)
+Applicants for adjustment of status are generally required to complete an immigration medical examination and 
+submit a properly completed Form I-693 signed by a civil surgeon to show that they are free from health conditions 
+that would render them inadmissible under the health-related grounds. If you are required to submit a Form I-693, or a 
+partial Form I-693 (such as the Vaccination Record), you must submit it with your Form I-485. Otherwise, your Form 
+I-485 may be rejected. For more information about Form I-693 requirements, visit www.uscis.gov/i-693 .  
+10. Certified Police and Court Records of Criminal Charges, Arrests, or Convictions
+You must submit certified police and court records for any criminal charges, arrests, or convictions you may have.
+A. If you were EVER  arrested or detained by a law enforcement officer for any reason anywhere  in the world, 
+including the United States, and no criminal charges were filed, you must submit:
+• An original or certified copy of the complete arrest report; and
+• Either an official statement by the arresting or detaining agency or prosecutor ’s office OR an applicable court 
+order that indicates the final disposition of your arrest or detention;
+B. If you were EVER  charged for any reason (even if you were not arrested) anywhere  in the world, including the 
+United States, you must submit:
+• An original or certified copy of the complete arrest report; and
+• Certified copies of BOTH the indictment, information, or other formal charging document AND  the final 
+disposition of each charge (for example, a dismissal order or acquittal order);
+C. If you were EVER  convicted or placed in an alternative sentencing or rehabilitative program (such as probation, 
+drug treatment, deferred adjudication, or community service program) anywhere  in the world, including the 
+United States, you must submit:
+• An original or certified copy of the complete arrest report;
+• Certified copies of the following: the indictment, information, or other formal char ging document; any plea 
+agreement, whether in the form of a court filing or recording in a hearing transcript; and the final disposition 
+for each incident (for example, conviction record, deferred adjudication order , probation order); and
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 14 of 42
+• Either an original or certified copy of your probation or parole record showing that you completed the 
+mandated sentence, conditions set for the deferred adjudication, or rehabilitative program OR documentation 
+showing that you completed the alternative sentencing or rehabilitative program; or
+D. If you EVER  had any arrest or conviction vacated, set aside, sealed, expunged, or otherwise removed from your 
+record anywhere  in the world, you must submit:
+• An original or certified copy of the complete arrest report; the indictment, information, or other formal 
+charging document; any plea agreement, whether in the form of a court filing or recording in a hearing 
+transcript; and the final disposition for each incident (for example, conviction record, deferred adjudication 
+order, probation order); and
+• A certified copy of the court order vacating, setting aside, sealing, expunging, or otherwise removing the 
+arrest or conviction.
+You must disclose all arrests and charges, even if the arrest occurred when you were a minor. An adjudication of 
+juvenile delinquency is not a “conviction” under U.S. immigration law , but a juvenile can be charged as an adult for 
+an offense committed while a juvenile. If you were convicted as an adult, there is a conviction, regardless of whether 
+you were tried before a criminal court or a juvenile court. An adjudication of juvenile delinquency could also be 
+relevant to the exercise of discretion. If you claim that an arrest resulted in adjudication of delinquency , and not in a 
+conviction, you must submit a copy of the court document that establishes this fact.
+In general, you do not need to submit documentation relating to traffic fines and incidents that did not involve an 
+actual physical arrest if the penalty was only a fine of less than $500 or resulted in points on your driver ’s license. 
+However, you must submit such documentation if the traffic incident resulted in criminal charges or involved alcohol, 
+drugs, or injury to a person or property.
+If you are not able to obtain certified copies of any court disposition relating to Items 10.A. - 10.D. , please submit all 
+three items below:
+• A written explanation on government letterhead from the custodian of the documents of why the documents are 
+not available, unless the documents are generally unavailable from the custodian of the document; 
+• A written statement from the applicant that explains why the record is not available and describes the criminal 
+charge, arrest, or conviction; the final outcome or disposition; and any rehabilitation completed (including, but 
+not limited to, compliance with court-mandated conditions (such as parole, probation, counseling, or payments), 
+not violating any laws, and making an effort to positively contribute to your community since your last arrest or 
+conviction); and
+• Any other secondary evidence that shows the disposition of the criminal case; or if secondary evidence is also 
+not available, one or more written statements, signed under penalty of perjury under 28 U.S.C. section 1746 by 
+someone other than the applicant, who has direct personal knowledge of the disposition of the criminal case.
+11. Waiver of Inadmissibility
+If USCIS (or the Immigration Judge, if you are in exclusion, deportation, or removal proceedings) determines you are 
+inadmissible to the United States based on one or more grounds of inadmissibility outlined in INA  section 212(a), you 
+cannot adjust status unless you apply for and are granted a waiver of inadmissibility or other form of relief. Whether 
+or not a waiver or other form of relief is available depends on the grounds of inadmissibility that apply to you and the 
+specific immigrant category you are applying under.
+You can learn more about waivers and other forms of relief by reading the Instructions for Form I-601, Application 
+for Waiver of Grounds of Inadmissibility, at www.uscis.gov/I-601 , and Form I-212, Application for Permission 
+to Reapply for Admission into the United States After Deportation or Removal, at www.uscis.gov/I-212 . Refugee 
+and asylee applicants for adjustment of status should also see Form I-602, Application by Refugee for Waiver of 
+Inadmissibility Grounds, at www.uscis.gov/I-602 .
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 15 of 42
+12. Documentation Regarding J-1 or J-2 Nonimmigrant Exchange Visitor Status
+If you previously held or currently hold J-1 (principal) or J-2 (dependent) nonimmigrant exchange visitor status, 
+you must submit copies of all relevant Forms IAP-66 and/or Forms DS-2019, Certificate of Eligibility for Exchange Visitor (J-1) Status, ever issued to you (if available). You must also submit copies of all available J-1 or J-2 nonimmigrant visas issued to you, and copies of all available Form I-94, Arrival/Departure records and passport pages with entry stamps showing your admission to the United States in J-1 or J-2 status.
+In addition, if your J status made you subject to the two-year foreign residence requirement of INA  section 212(e), 
+you must submit documentation to show that you complied with the foreign residence requirement, have been granted 
+a waiver of the requirement before filing Form I-485, or were issued a favorable waiver recommendation letter from 
+DOS before filing Form I-485. You can show you complied with the requirement by submitting evidence to prove 
+you resided in the appropriate home country for at least two years since your exchange visitor program ended. For 
+information about waiver of the requirement, see the Instructions for Form I-612, Application for 
+ Waiver of the 
+Foreign Residence Requirement.
+13. Waiver of Diplomatic Rights, Privileges, Exemptions, and Immunities
+If you currently hold A, G, or E nonimmigrant status and you enjoy certain diplomatic privileges and immunities 
+as a result of that occupational status, you must submit Form I-508, Application for Waiver of Rights, Privileges, 
+Exemptions and Immunities, with your Form I-485. In addition, if you have A, G, or NA TO nonimmigrant status, 
+you must file Form I-566, Interagency Record of Request - A, G or NATO Dependent Employment Authorization or Change/Adjustment to/from A, G or NATO Status, with your Form I-485.
+14. Evidence relating to the Public Charge Ground of Inadmissibility
+Applicants, with one exception, are not required to provide any initial evidence relating to the public char ge ground of 
+inadmissibility with their adjustment of status application. If you believe that your institutionalization violated Federal 
+law, including the American Disabilities Act or the Rehabilitation Act, you must submit documentation to support 
+your claim. If USCIS requires additional evidence to determine if you are inadmissible under the public charge ground 
+of inadmissibility, it will issue a Request for Evidence and consider all evidence that you provide in response.
+Affidavit of Support Under Section 213A of the INA
+The Affidavit of Support Under Section 213A of the INA is required for most family-based intending immigrants and 
+some employment-based intending immigrants to show that they have adequate means of financial support and are not likely to become a public charge. See the Instructions for Form I-864, Affidavit of Support Under Section 213A of the INA, for information on submitting Form I-864. In certain circumstances, applicants may submit Form I-864EZ, Affidavit 
+of Support Under Section 213A of the INA, an abbreviated version of Form I-864, instead of Form I-864. See the 
+Instructions for Form I-864EZ for more information. 
+Certain intending immigrants are required to affirmatively request an exemption from submitting the Affidavit of Support 
+Under Section 213A of the INA and should request the exemption by selecting the appropriate option of Item Numbers 
+1.a. - 1.d. in Part 3. Request for Exemption for Intending Immigrant’s Affidavit of Support under Section 213A 
+of the INA. Applicants for adjustment of status who were previously required to submit Form I-864W, Request for 
+Exemption for Intending Immigrant’s Affidavit of Support, to request the exemption are no longer required to do so, but 
+instead request it by completing Part 3.
+If you are not required by statute to submit an Affidavit of Support Under Section 213A of the INA, nor are you required 
+to request an exemption, select Item Number 1.e. If you required to submit an Affidavit of Support Under Section 213A 
+of the INA, select Item Number 1.f.
+Failure to submit an Affidavit of Support Under Section 213A of the INA (Form I-864 or I-864EZ), when required, will 
+result in a denial of your Form I-485.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 16 of 42
+Where To File?
+Please see our website at https://www.uscis.gov/forms/all-forms/direct-filing-addresses-for-form-i-485-application-
+to-register-permanent-residence-or-adjust-status for the most current information about where to file your application, 
+including if you are currently in exclusion, deportation, or removal proceedings. 
+Unless otherwise noted, if you are in proceedings in Immigration Court (that is, if you have been served with Form I-221, 
+Order to Show Cause and Notice of Hearing; Form I-122, Notice to Applicant for Admission Detained for Hearing Before 
+an Immigration Judge; Form I-862, Notice to 
+Appear; or Form I-863, Notice of Referral to Immigration Judge, that DHS 
+filed with the Immigration Court), you should file Form I-485 with the appropriate Immigration Court. The DHS attorney 
+will provide you with pre-order filing instructions regarding background and security investigations. You will be provided 
+with instructions on providing biometrics and biographical information to USCIS, which you must follow , and direct you 
+to submit a legible copy of the Form I-485 to USCIS that you filed with the Immigration Court. 
+Address Change
+You must notify USCIS any time you change your mailing address or your physical address. You must notify us no later than 10 days after making such change. For information on changing your address, go to our website at www.uscis.gov/
+addresschange or call the USCIS Contact Center. 
+If you are already in proceedings in Immigration Court, you must also notify the Immigration Court on Form EOIR-33/
+IC, Change of Address/Contact Information Form, of any changes of address within five days of the change in address. The Form EOIR-33/IC is available on the EOIR website at www.justice.gov/eoir/form-eoir-33-eoir-immigration-court-
+listing or can be filed online at EOIR’s Respondent Access at https://respondentaccess.eoir.justice.gov/.
+NOTE: Do not submit a change of address request to the USCIS Lockbox.
+Processing Information
+Initial Processing. Once USCIS accepts your application, we will check it for completeness. If you do not properly 
+complete this application, you will not establish a basis for your eligibility and we may reject or deny your application.
+Requests for More Information. USCIS may request that you provide more information or evidence to support your 
+application. We may also request that you provide the originals of any copies you submit. If USCIS or the Immigration Court requests an original document from you, we will return it to you after USCIS or the Immigration Court determines it is no longer needed.
+Requests for Interview. We may request that you appear at a USCIS office for an interview based on your application. 
+During your interview, USCIS may require you to provide your biometrics to verify your identity and/or update background and security checks.
+Decision. The decision on Form I-485 involves a determination of whether you have established eligibility for the 
+immigration benefit you are seeking. USCIS or the Immigration Court will notify you of the decision in writing.
+If You Leave the United States While Your Application Is Pending
+If you are applying for adjustment of status under INA section 245, and you travel anywhere outside the United States 
+(including brief visits to Canada or Mexico) while your application is pending, USCIS will consider your application as abandoned unless:
+• Before you leave the United States, you obtain an Advance Parole Document by filing Form I-131, you depart and return to a Port of Entry, and are inspected and admitted or paroled upon your return; 
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 17 of 42
+• You are an H-1B/H-4, L, V , or K3/K4 nonimmigrant who is maintaining lawful nonimmigrant status and you return 
+with a valid H-1B/H-4, L, V , or K3/K4 nonimmigrant visa (if required); or
+• You are a temporary protected status (TPS) beneficiary who travels with authorization under INA section 244(f)(3) 
+and upon returning, you are inspected and admitted into TPS. 
+If you are applying for adjustment of status under INA section 209 because you were admitted as a refugee or granted 
+asylum, you may travel abroad and return to the United States with a refugee travel document. Y ou may obtain a refugee 
+travel document by filing Form I-131 as specified in the Form I-131 Instructions. However , see Form I-131 Instructions 
+for a travel warning regarding voluntary re-availment.
+If you are applying for registry under INA section 249 and 8 CFR 249, you do not abandon your registry application 
+by traveling abroad while it is pending. However, if you do not obtain an Advance Parole Document, you may not be able to return to the United States. You may obtain an Advance Parole Document by filing Form I-131 as specified in the Form I-131 Instructions.
+USCIS Forms and Information
+To ensure you are using the latest version of this application, visit www.uscis.gov. 
+For questions about filing your application, you can use our many online tools ( uscis.gov/tools), including our virtual 
+assistant, Emma. Please visit us at www.uscis.gov/contactcenter  to get basic information about immigration services 
+and ask questions about a pending case. Through our digital self-help tools and live assistance, the USCIS Contact Center provides a pathway for you to get consistent, accurate information and answers to immigration case questions. 
+Penalties
+If you knowingly and willfully falsify or conceal a material fact or submit a false document with your Form I-485, we will deny your Form I-485 and may deny any other immigration benefit. In addition, you will face severe penalties provided by law and may be subject to criminal prosecution.
+USCIS Compliance Review and Monitoring
+By signing this application, you have stated under penalty of perjury (28 U.S.C. section 1746) that all information and documentation submitted with this application are complete, true, and correct. Y
+ ou also authorize the release of any 
+information from your records that USCIS may need to determine your eligibility for the immigration benefit you are seeking and consent to USCIS verifying such information.
+DHS has the authority to verify any information you submit to establish eligibility for the immigration benefit you are 
+seeking at any time. Our legal authority to verify this information includes, but is not limited to, 8 U.S.C. 1 101 et seq, 8 
+CFR parts 1.1 et seq, as amended, and the related public laws and regulations. T
+ o ensure compliance with applicable laws 
+and authorities, we may verify information before or after your case is decided.
+Agency verification methods may include, but are not limited to: reviewing public records and information; contacting 
+through written correspondence; using the internet, fax, other electronic transmission, or telephone; making unannounced physical site inspections of residences and locations of employment; and interviewing people. USCIS will use the information we obtain to assess your compliance with the laws and to determine your eligibility for an immigration benefit.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 18 of 42
+Subject to the restrictions under 8 CFR 103.2(b)(16), USCIS will provide you with an opportunity to address any adverse 
+or derogatory information that may result from a compliance review , verification, or site visit before a decision is made 
+on your request. For a visit after your request is approved, USCIS will provide you with an opportunity to address any 
+adverse or derogatory information which may result in rescission or termination of lawful permanent resident status.
+SSA Privacy Act Statement 
+Sections 205(c) and 702 of the Social Security Act authorizes SSA to collect information to assign you an SSN and 
+issue a Social Security card. The information you furnish on this application is voluntary. However, failure to provide 
+the requested information may prevent SSA from issuing you an SSN and Social Security card. SSA will maintain the information used to assign you an SSN and issue you a Social Security card in SSA ’
+ s system of records [Master Files of 
+Social Security Number (SSN) Holders and SSN Applications, 60-0058]. Complete lists of approved routine uses for the information used to assign you an SSN and issue you a Social Security card are available in the System of Records Notice 
+60-0058, available at www.ssa.gov.
+FBI Privacy Notice
+USCIS may use your biometrics to obtain the criminal history records of the Federal Bureau of Investigation (FBI), for 
+identity verification, to determine eligibility, to create immigration documents (for example, Permanent Resident Card, Employment Authorization Document), or any purpose authorized by the INA. You may obtain a copy of your own FBI record using the procedures outlined at 28 CFR 16.30-16.34. For more information, please visit: https://www.fbi.gov/
+services/cjis/compact-council/guiding-principles-noncriminal-justice-applicants-privacy-rights . For information 
+regarding how the FBI will use your fingerprints, please visit https://www.fbi.gov/services/cjis/compact-council/
+privacy-act-statement.
+DHS Privacy Notice
+AUTHORITIES:  USCIS is collecting the information requested on this application, and the associated evidence, under 
+INA section 245. 
+PURPOSE: The primary purpose for providing the requested information on this application is to apply to adjust your 
+status to that of a lawful permanent resident of the United States or register permanent residence. DHS will use the information you provide to grant or deny the immigration benefit you are seeking.
+DISCLOSURE: The information you provide is voluntary. However, failure to provide the requested information, 
+including your Social Security number (if applicable), and any requested evidence, may delay a final decision or result in 
+denial of your application.
+ROUTINE USES:  DHS may share the information you provide on this application, and any additional requested 
+evidence, with other Federal, state, local, and foreign government agencies and authorized or ganizations. DHS follows 
+approved routine uses, as described in the associated published system of records notices [DHS/USCIS/ICE/CBP-001 Alien File, Index, and National File Tracking System of Records, DHS/USCIS-007 Benefits Information System, and DHS/USCIS-018 Immigration Biometric and Background Check] and the published privacy impact assessments [DHS/USCIS/PIA-016(a) Computer Linked Application Information Management System], which can be found at              
+www.dhs.gov/privacy. DHS may also share the information, as appropriate, for law enforcement purposes or in the 
+interest of national security.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 19 of 42
+Paperwork Reduction Act
+USCIS may not conduct or sponsor an information collection, and you are not required to respond to a collection of 
+information, unless it displays a currently valid Office of Management and Budget (OMB) control number . The public 
+reporting burden for this collection of information is estimated at 6 hours and 51 minutes per response, including the time for reviewing instructions, gathering the required documentation and information, completing the application, preparing statements, attaching necessary documentation, and submitting the application. The collection of biometrics is estimated 
+to require 1.17 hours. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to: U.S. Citizenship and Immigration Services, Office of Policy and Strategy, Regulatory Coordination Division, 5900 Capital Gateway Drive, Mail Stop #2140, Camp Springs, MD 20588-0009; OMB No. 1615-0023. not mail your completed Form I-485 to this address.
+Additional Instructions
+The purpose of these additional instructions is to provide more specific information on each immigrant category . You must 
+read the additional instructions that apply to your specific immigrant category as well as the previous main instructions for Form I-485. If your immigrant category is not discussed here, it is because there are no additional instructions for that category.
+Additional Instructions for Family-Based Applicants
+Immediate Relative of a U.S. Citizen (Spouses, Unmarried Children Under 21 Years of Age, and Parents (if the U.S. Citizen is 21 Years of Age or Older)) (Form I-130)
+If you are an immediate relative, you may file your Form I-485 together with your Form I-130, while Form I-130 is pending, or after your Form I-130 is approved. 
+If the petitioning relative (your spouse, your son/daughter/or parent) became a U.S. citizen after filing Form I-130 on your 
+behalf, submit evidence of the petitioning relative’s U.S. citizenship with your Form I-485.
+Derivative applicants are not allowed in this category.
+For information on required initial evidence for Form I-485 for immediate relatives, go to www.uscis.gov/i-485Checklist. 
+Other Relative of a U.S. Citizen or Relative of a Lawful Permanent Resident Under the Family-Based Preference 
+Categories (Form I-130)
+Family-based preference categories include: unmarried sons and daughters (21 years of age and older) of U.S. citizens; spouses, unmarried children (under 21 years of age) and unmarried sons and daughters (21 years of age and older) of lawful permanent residents; married sons and daughters of U.S. citizens; and brothers and sisters of U.S. citizens (if the U.S. citizen is 21 years of age or older).
+If an immigrant visa is immediately available, you may file your Form I-485 together with your Form I-130, while Form 
+I-130 is pending, or after your Form I-130 is approved. Otherwise, you may file your Form I-485 only after your Form I-130 is approved and an immigrant visa is immediately available. See the When Should I File Form I-485 section for 
+more information.
+If the spouse or parent who filed the Form I-130 on your behalf becomes a U.S. citizen while your Form I-485 is pending, 
+submit evidence of the spouse or parent’s U.S. citizenship to the USCIS office with jurisdiction over your application.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 20 of 42
+If you are an unmarried son or daughter and your parent became a U.S. citizen after filing Form I-130 on your behalf, 
+you normally would automatically convert to an immigrant preference category as an unmarried son or daughter of a U.S. citizen. However, you may opt out of the automatic conversion and stay in the immigrant preference 
+category as an unmarried son or daughter of a lawful permanent resident. For more information on opting out of the 
+automatic conversion, go to                                                                                                                                                             
+https://www.uscis.gov/green-card/green-card-processes-and-procedures/child-status-protection-act-cspa. 
+For information on required initial evidence for Form I-485 for family-based preference category applicants, go to     
+www.uscis.gov/i-485Checklist. 
+Person Admitted to the United States as a Fiancé(e) or Child of a Fiancé(e) of a U.S. Citizen (Form I-129F) (K-1/K-2 Nonimmigrant)
+K-1 principals who marry their U.S. citizen I-129F petitioners within the requisite 90-day period after admission to the 
+United States in K-1 status, and their K-2 children always have an immigrant visa immediately available, and therefore, 
+can file Form I-485 as soon as the K-1 principal has married the U.S. citizen.
+In addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, you must submit 
+a copy of the marriage certificate to show that the K-1 nonimmigrant fiancé(e) married the U.S. citizen (Form I-129F 
+petitioner) in the 90-day period. This additional requirement applies to both K-1 principal and K-2 derivative applicants.
+Widow or Widower of a U.S. Citizen
+If you are the widow(er) of a deceased individual who was a U.S. citizen at the time of death, you may be eligible to file 
+Form I-485.
+If your U.S. citizen spouse did not file Form I-130 for you before their death, you may file Form I-360, Petition for 
+Amerasian, Widow(er), or Special Immigrant, as long as you file Form I-360 no more than two years after the date your spouse died. You may file your Form I-485 together with your Form I-360, while your Form I-360 is pending, or after your Form I-360 is approved. Widow(er)s always have an immigrant visa immediately available once Form I-360 is approved.
+Your U.S. citizen spouse may have filed Form I-130 for you before their death. In this case, you may file Form I-485 while 
+Form I-130 is pending or after it is approved. If Form I-130 is approved, it will be considered an approved Form I-360.
+When filing your Form I-485, you should provide a copy of the Form I-797, Approval Notice or Receipt for the Form 
+I-130 filed on your behalf or the Form I-360 you filed (unless you are filing Form I-360 together with your Form I-485). 
+See the When Should I File Form I-485 section above for more information.
+VAWA Self-Petitioner (Form I-360)
+You may file under this category if you are a victim of battery or extreme cruelty by a U.S. citizen or lawful permanent 
+resident who is your spouse (or former spouse) or parent, OR if you are the victim of battery or extreme cruelty by a U.S. 
+citizen who is your son or daughter who is at least 21 years of age. Special protections (described at 8 U.S.C. section 
+1367) apply to you as a V AWA self-petitioner. The first form of protection is a prohibition on adverse determinations against you based on information provided solely by your abuser and other prohibited sources. The second form of 
+protection is a prohibition on disclosure of any information about you to third parties, except in certain very limited 
+circumstances.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 21 of 42
+If an immigrant visa is immediately available, you may file your Form I-485 together with your Form I-360, while your 
+Form I-360 is pending, or after your Form I-360 is approved. Otherwise, you may file your Form I-485 only after your Form I-360 is approved and an immigrant visa is immediately available. See the When Should I File Form I-485 section 
+above for more information.
+NOTE: V AWA-based applicants for adjustment of status are exempt from the inspected and admitted or inspected and 
+parole requirements under INA section 245(a). V AWA adjustment of status applicants are also exempt from the Form I-864 requirement, but must request an exemption by completing Part 3.
+If you need to notify us of your change of address, please follow the special instructions provided for VA
+ WA/T/U cases at 
+www.uscis.gov/addresschange.
+Derivative Applicants
+Children of principal applicants may file as derivative applicants. However , you do not qualify as a derivative if the 
+principal applicant is a self-petitioning parent of an abusive U.S. citizen over 21 years of age.
+Additional Instructions for Employment-Based Applicants
+Alien Worker (Form I-140, Immigrant Petition for Alien Worker)
+This category applies to the following employment-based immigrant preference classifications: 
+• First preference – including aliens with extraordinary ability, outstanding professors and researchers, or certain 
+multinational executives and managers; 
+• Second preference – members of the professions holding advanced degrees or aliens of exceptional ability; and 
+• Third preference – skilled workers, professionals, and other workers.
+If an immigrant visa is immediately available, an applicant in the employment-based preference immigrant category does not have to wait until Form I-140 is approved to file Form I-485. If an immigrant visa is immediately available, you may file your Form I-485 together with your Form I-140, while your Form I-140 is pending, or after your Form I-140 is approved. Otherwise, you may file your Form I-485 only after your Form I-140 is approved and an immigrant visa is immediately available. See the When Should I File Form I-485 section above for more information.
+For information on required initial evidence for Form I-485 for employment-based applicants, go to                            www.uscis.gov/i-485Checklist. 
+Request for Job Portability (under INA section 204(j))
+If you are the beneficiary of a Form I-140 petition who properly files a Form I-485 that remains pending with USCIS for 
+180 days or more after filing, you may become eligible to “port” to a job other than the one offered in Form I-140, under the authority of INA section 204(j). Portability means to change the offer of employment from one job or employer to another job or employer. The new job offer must be for a permanent, full-time position in the same or similar occupational classification as the job offered in the Form I-140 that is the basis of your Form I-485. You may request such job 
+portability by submitting Supplement J. For more information, visit the USCIS website at www
+.uscis.gov.
+National Interest Waiver (NIW) Physicians
+You may qualify for a National Interest Waiver if you worked full time as a physician for a total of five years (not 
+including work while in J-1 status) in a designated medical shortage area or at a Veterans Administration healthcare 
+facility, and a Federal agency or state department of public health has determined such work is in the public interest.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 22 of 42
+USCIS will not approve your Form I-485 as an NIW physician until you submit evidence showing you have completed 
+the full five years of required employment. You must submit evidence within 120 days of completing the five years of required employment. USCIS will consider your Form I-485 ready for final processing and adjudication once you submit this evidence.
+If you are in the process of completing the service requirement, USCIS will direct you to submit evidence of your 
+continued compliance with the service requirement to USCIS no later than 120 days after both the second and sixth anniversaries of the approval date of your underlying immigrant visa petition, Form I-140. Acceptable evidence that you 
+have completed or are in the process of completing your medical service requirement may include:
+• Documentation from an employer attesting to your full-time practice of medicine and the date on which you began your medical service, including documentation that addresses any breaks in employment (other than routine breaks) or a delay in the commencement of the full-time practice of medicine, if applicable;
+• Employment documentation such as individual Federal income tax returns, including copies of your W-2 forms, for the entire aggregate period of medical service;
+• If you established your own practice, documents noting the establishment of the practice, including the Articles of Incorporation, business license, business tax returns, and tax withholding documents for the entire aggregate period of medical service;
+• Evidence which confirms that you have had authorization from USCIS for all employment during the aggregate period of medical service;
+• Evidence demonstrating that your employment occurred in a geographic area that is (or was when the employment began) designated by the Department of Health and Human Services (HHS) as having a shortage of health care professionals; and
+• Any other credible documentation which independently confirms your medical service.
+Alien Investor (Form I-526, Immigrant Petition by Standalone Investor or I-526E Immigrant Petition by Regional Center Investor)
+If you are filing your Form I-485 under the alien investor (immigrant investor) category , you may file your Form I-485 
+together with your Form I-526, Immigrant Petition by Standalone Investor , or I-526E, Immigrant Petition by Regional 
+Center Investor, when there is an immigrant visa immediately available. For more information on who qualifies, see  
+www.uscis.gov/i-526 or www.uscis.gov/i-526e. 
+Additional Instructions for Special Immigrants
+Religious Worker (Form I-360)
+Special immigrant religious workers are certain members of a religious denomination who will be working as a minister or in another professional or nonprofessional capacity in a religious vocation or occupation for the denomination’ s bona 
+fide nonprofit religious organization in the United States. If you are filing your Form I-485 under the special immigrant religious worker category, you may not file your Form I-485 until USCIS first approves your Form I-360, and an immigrant visa is immediately available. For information on who qualifies as a Special Immigrant religious worker , see 
+https://www.uscis.gov/i-360.
+A religious worker must submit a letter from their employer-petitioner with the adjustment of status application. The letter 
+should verify the job offer, the job title or position, summary of duties, and salaried or non-salaried compensation. If you filed Form I-360 as a self-petitioner, you should include a signed statement confirming that you intend to work in the occupation specified in Form I-360.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 23 of 42
+Congress created the religious worker program (except for ministers) for a limited duration, and the program ends (that is, 
+it “sunsets”), unless Congress extends the program and the President signs the extension, making it a new law . Except for 
+ministers, all other religious workers and their derivatives must have their Form I-485 approved on or before the end date 
+of this program (sunset date). Statutory amendments may extend this date. For information on the sunset date, please visit 
+the USCIS website at www.uscis.gov/working-united-states/permanent-workers/employment-based- immigration-
+fourth-preference-eb-4/special-immigrant-religious-workers.
+Special Immigrant Juvenile (Form I-360)
+Special immigrant juveniles are unmarried, under 21 years of age at the time of filing Form I-360, and have a qualifying order from a state juvenile court (see 8 CFR 204.11(a) for the definition of a juvenile court) that makes the determinations 
+required under INA section 101(a)(27)(J).
+If you are filing your Form I-485 under the special immigrant juvenile category and an employment-based fourth 
+preference (EB-4) immigrant visa is immediately available, you do not have to wait until Form I-360 is approved to 
+file Form I-485. If an immigrant visa is immediately available, you may file your Form I-485 together with your Form I-360, while your Form I-360 is pending, or after your Form I-360 is approved. Otherwise, you may file your Form I-485 only after your Form I-360 is approved and an immigrant visa is immediately available. See the When Should I File 
+Form I-485 section above for more information. For information on who qualifies as a special immigrant juvenile, see  
+      
+https://www.uscis.gov/i-360.
+If you are filing Form I-485 as a special immigrant juvenile, you must include a copy of your birth certificate or other 
+evidence of your age. 
+NOTE: USCIS considers anyone granted special immigrant juvenile classification to have been paroled into the United 
+States for the purpose of special immigrant juvenile based adjustment, regardless of how you actually arrived in the 
+United States. When filling out Part 1. Information About You of Form I-485, please list how you actually arrived in the 
+United States.
+Derivative applicants are not allowed in this category.
+For information on required initial evidence for Form I-485 for special immigrant juvenile applicants, go to                
+www.uscis.gov/i-485Checklist. 
+Certain Afghan or Iraqi National (Form I-360)
+Special immigrant Afghan or Iraqi nationals are: nationals of Afghanistan or Iraq who worked with the U.S. armed forces 
+or U.S. Coast Guard as translators; Iraqi nationals who were employed by or on behalf of the U.S. Government; or Afghan 
+nationals who were employed by or on behalf of the U.S. Government in Afghanistan, in the International Security 
+Assistance Force (ISAF), or in a successor mission to ISAF.
+If you are filing your Form I-485 under the special immigrant Afghan or Iraqi national category, you may not file your 
+Form I-485 until USCIS first approves your Form I-360 or DOS approves your Form DS-157, Petition for Special Immigrant Classification for Afghan SIV Applicants, and an immigrant visa is available immediately. For information on who qualifies as a special immigrant Afghan or Iraqi national, see www.uscis.gov/i-360 and the DOS website at       
+https://travel.state.gov/content/travel/en/us-visas/immigrate/special-immg-visa-afghans-employed-us-gov.html.
+Certain International Broadcaster (Form I-360)
+Special immigrant international broadcasters generally work for the International Broadcasting Bureau of the U.S. Broadcasting Board of Governors (or its grantee) as reporters, writers, translators, editors, producers, analysts, hosts, or announcers for news broadcasts.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 24 of 42
+If you are filing your Form I-485 under the special immigrant international broadcaster category , you may not file your 
+Form I-485 until USCIS first approves your Form I-360 and an immigrant visa is immediately available. For information 
+on who qualifies as a special immigrant international broadcaster , see https://www.uscis.gov/i-360.
+Certain G-4 International Organization or NATO-6 Employee or Family Member (Form I-360)
+Special immigrant G-4 or NATO-6 employees or family members include: retired officers or employees of an international organization or NATO (and spouses), surviving spouses of deceased officers or employees of an international organization 
+or NATO, and unmarried sons or daughters of current or retired officers or employees of an international organization or 
+NATO.
+If you are filing Form I-485 as a special immigrant G-4 international or ganization or NA
+ TO-6 employee or family 
+member, and if an immigrant visa is immediately available, you do not have to wait until Form I-360 is approved to file 
+Form I-485. If an immigrant visa is immediately available, you may file your Form I-485 together with your Form I-360, 
+while your Form I-360 is pending, or after your Form I-360 is approved. Otherwise, you may file your Form I-485 only 
+after your Form I-360 is approved and an immigrant visa is immediately available. See the When Should I File Form 
+I-485 section above for more information. For information on who qualifies as a G-4 international or ganization or NA TO-
+6 employee or family member, see https://www.uscis.gov/i-360.
+Additional Evidence Requirements
+As a special immigrant G-4 international organization or NATO-6 employee or family member, you must submit evidence 
+showing you meet certain requirements specific to this immigrant category . Therefore, in addition to the evidence listed in 
+the What Evidence Must You Submit with Form I-485 section, the principal applicant must also submit:
+1. A copy of every page of your passport and any other document showing residence and physical presence in the U.S. 
+for the required time period (see www.uscis.gov/greencard for more information); and  
+2. Evidence that you maintained your G-4, N, or NATO-6 nonimmigrant status since your last entry into the United 
+States.
+Additional Instructions for Human Trafficking Victims (T Nonimmigrants) and Crime Victims (U Nonimmigrants)
+Human Trafficking Victim (T Nonimmigrant, Form I-914) or Derivative Family Member (Form I-914A)
+You may apply to adjust status under INA section 245(l) if you are a victim of human trafficking who was admitted to the United States in T nonimmigrant status, maintained continuous physical presence for the required period of time, and are a person of good moral character. You must also establish one of the following: you complied with reasonable requests 
+to assist law enforcement authorities in the investigation or prosecution of acts of trafficking, you would suffer extreme hardship involving unusual and severe harm upon removal from the United States, you were under 18 years of age at the 
+time of the victimization that qualified you for T nonimmigrant status, or you were unable to cooperate with a reasonable 
+request for assistance due to trauma. Special confidentiality protections (described at 8 U.S.C. section 1367) apply to 
+you as a human trafficking victim. 8 U.S.C. section 1367 provides two forms of critical protection for human trafficking victims. The first form of protection is a prohibition on adverse determinations against the victim based on information provided solely by their abuser and other prohibited sources. The second form of protection is a prohibition on disclosure 
+of any information about the victim to third parties, except in certain very limited circumstances. 
+If you are a derivative applicant, you may file Form I-485 at the same time as or after the principal applicant has filed 
+Form I-485. 
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 25 of 42
+You must file your Form I-485 with USCIS, even if you are in removal proceedings in Immigration Court. USCIS has 
+exclusive jurisdiction over adjustment of status applications filed under INA  section 245(l). 
+Special protections (described at 8 U.S.C. section 1367) apply to you as a T nonimmigrant (victim of human trafficking). 
+The first form of protection is a prohibition on adverse determinations against you based on information provided solely 
+by the trafficker or perpetrator and other prohibited sources. The second form of protection is a prohibition on disclosure 
+of any information about you to third parties, except in certain very limited circumstances.
+If you need to notify us of your change of address, please follow the special instructions provided for V AWA/T/U cases at 
+www.uscis.gov/addresschange .
+If you are a principal applicant (T-1 nonimmigrant), you may file Form I-485 only after you have been in the United States 
+for the following time period, whichever is less:
+1. A continuous period of at least three years since you were admitted as a T-1 nonimmigrant; or
+2. A continuous period during the investigation or prosecution of acts of trafficking, and the Attorney General has 
+determined the investigation or prosecution is complete.
+Additional Evidence Requirements
+As a T nonimmigrant, you must submit evidence showing you meet certain requirements specific to this category. In 
+addition to the evidence listed in the main instructions, principal and derivative applicants must also submit:
+1. Evidence you were lawfully admitted in T nonimmigrant status and continue to hold such status at the time you file 
+Form I-485; and
+2. Evidence that adjustment of status is warranted as a matter of discretion.
+In addition, principal applicants must submit:
+1. Evidence of continuous physical presence;
+2. Evidence of good moral character; and
+3. Evidence you complied with reasonable requests for assistance in the investigation or prosecution of the acts of 
+trafficking, evidence that you were under 18 years of age at the time of the victimization that qualified you for T 
+nonimmigrant status, evidence you were unable to cooperate with a reasonable request for assistance due to trauma, 
+or evidence that you would suffer extreme hardship involving unusual and severe harm upon removal from the United 
+States.
+Evidence of Continuous Physical Presence
+You do not need to submit documentation showing that you were present in the United States on every single day during 
+the requisite period of physical presence, but you should not have significant chronological gaps in your documentation.
+To show continuous physical presence, you must submit the evidence listed in Item Numbers 1. - 4.  below.
+1. Copies of every page of your passport or equivalent travel document (or valid explanation of why you do not have 
+such a document);
+2. Documentation of any departure from, and return to, the United States while in T-1 nonimmigrant status, including:
+A. Date of departure; 
+B. Place of departure; 
+C. Length of departure;
+D. Manner of departure (plane, boat, etc.);
+E. Date of return; and
+F. Place of return;
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 26 of 42
+3. Evidence establishing continuous physical presence, which may include, but is not limited to:
+A. Documentation issued by any governmental or nongovernmental authority, provided the documentation contains 
+your name, was dated at the time it was issued, and contains the normal signature, seal, or other authenticating 
+instrument of the authorized representative of the issuing authority;
+B. Educational documents;
+C. Employment records;
+D. Certification that you filed Federal or state income tax returns showing that you attended school or worked in the 
+United States throughout the entire continuous physical presence period;
+E. Documents showing installment payments, such as a series of monthly rent receipts or utility bills; and
+F. A list of the type and date of documents already contained in your DHS file that establishes physical presence, 
+such as, but not limited to, a written copy of a sworn statement given to a DHS officer , a document from the 
+law enforcement agency attesting to the fact that you have continued to comply with requests for assistance, the 
+transcript of a formal hearing, and Form I-213, Record of Deportable-Inadmissible Alien; or
+4. Your own affidavit attesting to your continuous physical presence.
+NOTE:  If you do not have documentation to establish continuous physical presence, you must explain why in an affidavit 
+and provide additional affidavits from others with firsthand knowledge who can attest to your continuous physical 
+presence with specific facts. Your affidavit alone is not sufficient to show continuous physical presence.
+NOTE:  Generally, if you departed from the United States for any trip that lasted longer than 90 days or for multiple trips 
+that together exceeded 180 days, you failed to maintain continuous physical presence unless you can establish that:
+• Your absence was necessary to assist in the investigation or prosecution of acts of trafficking; or
+• An official involved in the investigation or prosecution of acts of trafficking certifies that the absence was otherwise 
+justified.
+NOTE:  If you have less than three years of continuous physical presence since you were admitted as a T-1 nonimmigrant, 
+you must submit a document signed by the Attorney General of the United States (or designee) stating that the 
+investigation or prosecution is complete.
+Evidence of Good Moral Character
+Before USCIS can approve your application, USCIS must find that you are a person of good moral character according to 
+INA section 101(f) since first being admitted as a T-1 nonimmigrant and during the pendency of your Form I-485.
+In order to demonstrate good moral character, you must submit:
+1. Your own affidavit attesting to your good moral character; and
+2. A local police clearance or a state-issued criminal background check from each locality or state in the United States in 
+which you have resided for six or more months while you were in T-1 nonimmigrant status. If local police clearances, 
+criminal background checks, or similar reports are not available for any location where you resided, you may include 
+an explanation and submit other evidence about your good moral character while you resided at that location.
+You may also submit other credible evidence of good moral character, such as affidavits from responsible persons who can 
+knowledgeably attest to your good moral character.
+If you are under 14 years of age, you do not need to submit evidence of good moral character . However, if there is reason 
+to believe that you may lack good moral character, USCIS may require evidence of good moral character.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 27 of 42
+Evidence of Compliance with Reasonable Requests for Assistance in the Investigation or Prosecution OR Evidence 
+That You Were Under 18 Years of Age at the Time of the Victimization OR Evidence That You Were Unable to 
+Cooperate with a Reasonable Request for Assistance Due to Trauma OR Evidence of Extreme Hardship Involving 
+Unusual and Severe Harm
+You must submit evidence that shows you:
+1. Complied with any reasonable request for assistance in the investigation or prosecution of acts of trafficking;
+2. Were under 18 years of age at the time of the victimization that qualified you for T nonimmigrant status;
+3. Were unable to cooperate with a reasonable request for assistance due to trauma; or
+4. Would suffer extreme hardship involving unusual and severe harm if removed from the United States.
+Evidence of Compliance with Reasonable Requests for Assistance
+Evidence that you continue to comply with any reasonable request for assistance in the investigation or prosecution of 
+trafficking in persons includes, but is not limited to:
+1. Your own affidavit describing how you continue to comply with any reasonable requests;
+2. A statement from a Federal, state, Tribal, or local law enforcement official describing how you complied with any 
+reasonable requests;
+3. A re-signed and dated Form I-914, Supplement B;
+4. Trial transcripts;
+5. Court documents;
+6. Police reports; and
+7. News articles.
+If you assisted law enforcement when you received your T-1 nonimmigrant status and are no longer assisting law 
+enforcement, you should describe in a written statement why you are no longer providing assistance. Reasons may 
+include, but are not limited to:
+1. The investigation or prosecution is complete;
+2. Your T-1 nonimmigrant status is based on your willingness to assist, but you were not needed, and you continue to be 
+willing to assist, but your assistance is still not needed;
+3. You were not asked to assist after being granted T-1 nonimmigrant status; or
+4. A request for assistance was not reasonable (See 8 CFR Section 214.208(c) for more information). 
+USCIS may consult the Attorney General of the United States if appropriate.
+NOTE:  If you were not required to comply with any reasonable requests for assistance in the investigation or prosecution 
+when you received your T-1 nonimmigrant status (because you were under 18 years of age or suffered trauma at the time 
+of victimization that excepted or exempted you from the compliance requirement), you should include an affidavit stating 
+that you were not subject to the compliance requirement.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 28 of 42
+Evidence of Extreme Hardship Involving Unusual and Severe Harm
+Alternatively, you may also submit evidence that you will suffer extreme hardship involving unusual and severe harm if 
+you are removed from the United States. Proving extreme hardship involving unusual and severe harm requires you to meet a higher standard of proof than other extreme hardship standards in immigration law . 
+ The extreme hardship cannot 
+be based on current or future economic harm, or the lack of or disruption to social or economic opportunities. USCIS may consider both traditional extreme hardship factors and the factors associated with having been a victim of a severe form of trafficking in persons, as well as relevant country condition reports or any other public or private sources of information. Hardship to persons other than you will only be considered in determining whether you would suffer the requisite hardship if the evidence demonstrates specifically that you will suffer extreme hardship upon removal as a result of hardship to someone else. See 8 CFR 214.209 for a list of factors.
+You should include evidence to document all factors that are relevant to you. However, if the basis of your current extreme 
+hardship claim is a continuation of the extreme hardship claimed in your application for T-1 nonimmigrant status, you do not need to re-document the entire claim. Instead, submit evidence to establish that your previously established extreme hardship is ongoing.
+NOTE: USCIS is not bound by any previous extreme hardship determination.
+Discretion
+Adjustment of status based on T nonimmigrant status is not an automatic benefit, so you bear the burden of showing that 
+USCIS should use its discretion to approve your adjustment of status application. When making a discretionary decision 
+on your application, USCIS may consider all factors.
+If you answered “Yes” to any question in Part 9. General Eligibility and Inadmissibility Grounds, and any of the 
+acts or circumstances relate to you having been a victim of a severe form of trafficking, include a detailed description of 
+how your victimization relates to the inadmissibility ground(s). USCIS may consider all factors, including those acts that would otherwise make you inadmissible.
+Generally, favorable factors such as family ties, hardship, and length of residence in the United States, may be sufficient 
+for USCIS to use its discretion to approve your application. However , when adverse factors are present in your case, you 
+may offset these by submitting supporting documentation of favorable factors you wish USCIS to consider . See 8 CFR 
+245.23(e)(3).
+Crime Victim (U Nonimmigrant, Form I-918), Derivative Family Member (Form I-918A), or Qualifying Family Member (Form I-929)
+You may apply to adjust status under INA section 245(m) if:
+• You were admitted to the United States in U nonimmigrant status; 
+• You maintained continuous physical presence for the required period of time; and 
+• You have complied with reasonable requests to assist law enforcement authorities in the investigation or prosecution of qualifying criminal activity. 
+You must file your Form I-485 with USCIS, even if you are in removal proceedings in Immigration Court. USCIS has exclusive jurisdiction over adjustment of status applications filed under INA  section 245(m). 
+Special protections (described at 8 U.S.C. 1367) apply to you as a U nonimmigrant (victim of a qualifying criminal activity). The first form of protection is a prohibition on adverse determinations against you based on information provided solely by the perpetrator of the qualifying criminal activity and other prohibited sources. The second form of 
+protection is a prohibition on disclosure of any information about you to third parties, except in certain very limited circumstances.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 29 of 42
+If you need to notify us of your change of address, please follow the special instructions provided for V AWA/T/U cases at 
+www.uscis.gov/addresschange .
+Both principal and derivative applicants may file Form I-485 only after they have been physically present in the United 
+States for a continuous period of at least three years since being admitted as a U nonimmigrant. Applicants must continue 
+to be physically present through the date that USCIS makes a decision on this application.
+Additionally, certain qualifying family members may also apply for adjustment of status. Your approved Form I-929, 
+Petition for Qualifying Family Member of a U-1 Nonimmigrant, confirms that you are a qualifying family member who 
+may file Form I-485. You must also show that the qualifying family relationship that formed the basis of your Form I-929 
+approval exists at the time the principal applicant (U-1 nonimmigrant) becomes a lawful permanent resident and continues 
+to exist until USCIS makes a decision on your Form I-485.
+Additional Evidence Requirements
+As a U nonimmigrant, you must submit evidence showing you meet certain requirements specific to this category . In 
+addition to the evidence listed in the main instructions, principal and derivative applicants must also submit:
+1. Evidence you were lawfully admitted in U nonimmigrant status and continue to hold such status at the time you file 
+Form I-485; 
+2. Evidence of continuous physical presence; and
+3. Evidence that adjustment of status is warranted as a matter of discretion.
+4. In addition, principal applicants must submit evidence that they complied with reasonable requests for assistance in 
+the investigation or prosecution of the qualifying criminal activity .
+Evidence of Continuous Physical Presence
+You do not need to submit documentation showing that you were present in the United States on every single day of the 
+three-year U nonimmigrant status period, but you should not have significant chronological gaps in your documentation.
+To show continuous physical presence, you must submit the evidence listed in Item Numbers 1. - 4.  below:
+1. Copies of every page of your passports or equivalent travel documents (or valid explanation of why you do not have 
+such a document);
+2. Documentation of any departure from, and return to, the United States while in U nonimmigrant status, including:
+A. Date of departure; 
+B. Place of departure; 
+C. Length of departure;
+D. Manner of departure (plane, boat, etc.);
+E. Date of return; and
+F. Place of return;
+3. Evidence establishing continuous physical presence, including, but not limited to:
+A. Documentation issued by any governmental or nongovernmental authority as long as the documentation contains 
+your name, was dated at the time it was issued, and contains the normal signature, seal, or other authenticating 
+instrument of the authorized representative of the issuing authority;
+B. Educational documents;
+C. Employment records;
+D. Certification that you filed Federal or state income tax returns showing that you attended school or worked in the 
+United States throughout the entire continuous physical presence period;
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 30 of 42
+E. Documents showing installment payments, such as a series of monthly rent receipts or utility bills; or
+F. A list of the type and date of documents already contained in your DHS file that establishes physical presence, 
+such as, but not limited to, a written copy of a sworn statement given to a DHS officer , a document from the 
+law enforcement agency attesting to the fact that you have continued to comply with requests for assistance, the 
+transcript of a formal hearing, and Form I-213, Record of Deportable-Inadmissible Alien; and
+4. Your own affidavit attesting to your continuous physical presence.
+NOTE: If you do not have documentation to establish continuous physical presence, you must explain why in an affidavit 
+and provide additional affidavits from others with firsthand knowledge who can attest to your continuous physical 
+presence with specific facts. Your affidavit alone is not sufficient to show continuous physical presence.
+Failure to Maintain Continuous Physical Presence
+Generally, you have failed to maintain continuous physical presence if you departed from the United States for any 
+trip that lasted longer than 90 days or for multiple trips that together exceeded 180 days. To show that you maintained 
+continuous physical presence despite taking these trips, you must submit a certification from the agency that signed Form 
+I-918, Supplement B, in support of your U nonimmigrant status stating that:
+1. Your absence was necessary in order to assist in the investigation or prosecution of the qualifying criminal activity; or
+2. Your absence was otherwise justified.
+Evidence of Compliance with Reasonable Requests for Assistance in the Investigation or Prosecution of the 
+Qualifying Criminal Activity
+You are required to provide ongoing assistance, as needed, to law enforcement agencies involved in the investigation or 
+prosecution of the qualifying criminal activity. 8 CFR 245.24(a)(5) defines “refusal to provide assistance in a criminal 
+investigation or prosecution” as a refusal by the U nonimmigrant to provide assistance to a law enforcement agency or 
+official that had responsibility for the investigation or prosecution of persons in connection with the qualifying criminal 
+activity after being granted U nonimmigrant status.
+To show you have met this requirement, you must submit evidence that, from the time you filed for U nonimmigrant status 
+until you file Form I-485, you have complied with (or did not unreasonably refuse to comply with) reasonable requests 
+for assistance in the investigation or prosecution of the qualifying criminal activity . You are required to provide ongoing 
+assistance until USCIS adjudicates your Form I-485.
+The evidence may include:
+1. A newly executed Form I-918, Supplement B, U Nonimmigrant Status Certification;
+2. A photocopy of the original Form I-918, Supplement B, with a new date and signature from the certifying agency;
+3. Documentation on official letterhead from the certifying agency stating that you have not unreasonably refused to 
+cooperate in the investigation or prosecution of the qualifying criminal activity;
+4. An affidavit describing any efforts you made to obtain a newly executed Form I-918, Supplement B, or other 
+evidence describing whether you received any requests to provide assistance in the investigation or prosecution of the 
+qualifying criminal activity, and your response to these requests; or
+5. Court documents, police reports, news articles, copies of reimbursement forms for travel to and from court, and 
+affidavits of other witnesses or officials.
+If you submit an affidavit, it must include:
+1. A description of all instances when you were requested to provide assistance in the investigation or prosecution of 
+persons in connection with the qualifying criminal activity after you were granted U nonimmigrant status and how 
+you responded to such requests;
+2. Any identifying information you have about the law enforcement personnel involved in the case;
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 31 of 42
+3. Any information you have about the status of the investigation or prosecution, including any char ges filed and the 
+outcome of any proceedings, or whether the investigation or prosecution was dropped and the reasons why; and
+4. If you have refused a request for assistance in the investigation or prosecution, you must provide a detailed 
+explanation of why you refused to comply with requests for assistance and why you believed that the requests for assistance were unreasonable.
+NOTE: In certain cases, this requirement of ongoing assistance may require someone other than the principal applicant to provide evidence to USCIS. For example, in some U nonimmigrant cases, the U-1 petitioner was a child (or was incompetent or incapacitated) and was not directly required to provide the assistance in an investigation or prosecution of the qualifying criminal activity. In these cases, someone other than the child, such as a parent, guardian, or next friend provided the assistance. This person may need to provide evidence of continued assistance (or evidence that there was no unreasonable refusal to comply) with an investigation or prosecution of the qualifying criminal activity .
+Discretion
+Adjustment of status based on U nonimmigrant status is not an automatic benefit, so you bear the burden of showing that 
+USCIS should use its discretion to approve your adjustment of status application. When making a discretionary decision 
+on your application, USCIS may consider all factors, including those acts that would otherwise make you inadmissible.
+Generally, favorable factors such as family ties, hardship, and length of residence in the United States, may be sufficient 
+for USCIS to use its discretion to approve your application. However , when adverse factors are present in your case, you 
+may offset these by submitting supporting documentation of favorable factors you wish USCIS to consider . See 8 CFR 
+245.24(d)(11).
+Additional Instructions for Asylees and Refugees
+Asylum Status
+If you are an asylee, you may be eligible to adjust status under INA  section 209(b) if you have been physically present 
+in the United States for one year after your grant of asylum, your status has not been terminated, you are not firmly resettled in any foreign country, and you still meet the definition of refugee found in INA section 101(a)(42)(A) or are the spouse or child of such an asylee. Only time spent in the United States will count toward the one-year physical presence requirement. If you travel outside the United States after being granted asylum, you will not meet the one-year physical presence requirement until the total amount of time spent in the United States is one year .
+Derivative Applicants
+Asylee derivative applicants may file Form I-485 with the principal applicant or independently from the principal 
+applicant. Each applicant must file a separate Form I-485 regardless of whether he or she is a principal or a derivative asylee. Asylee derivative applicants should submit proof of relationship to the principal applicant. See the Marriage 
+Certificate and Other Proof of Relationship section in the What Evidence Must You Submit with Form I-485 
+section.
+Additional Evidence Requirements
+As an asylee, you must submit evidence showing you meet certain requirements specific to this immigrant category . 
+Therefore, in addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, principal 
+and derivative applicants must also submit evidence of asylum status (such as a copy of the asylum approval notice from 
+USCIS or the immigration court order granting you asylum).
+Asylees are not required to submit a photocopy of their birth certificate; however , if the birth certificate is available, 
+asylees should submit a copy of the birth certificate.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 32 of 42
+Refugee Status
+If you were admitted as a refugee, you must apply to adjust status under INA  section 209(a) once you have been 
+physically present in the United States for one year after being admitted to the United States in refugee status if your 
+status has not been terminated. Only time spent in the United States will count toward the one-year physical presence requirement. If you travel outside the United States during your first year of residence as a refugee, you will not meet the one-year physical presence requirement until the total amount of time spent in the United States is one year .
+Derivative Applicants
+Refugee derivative applicants may file Form I-485 with the principal applicant or independently from the principal 
+applicant. Each applicant must file a separate Form I-485 regardless of whether he or she is a principal or a derivative refugee. 
+Additional Evidence Requirements
+As a refugee, you must submit evidence showing you meet certain requirements specific to this immigrant category . 
+Therefore, in addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, principal 
+and derivative applicants must also submit evidence of refugee status, such as a Form I-94 or a Refugee T
+ ravel Document 
+(Form I-571).
+Refugees are not required to submit a photocopy of their birth certificate; however , if the birth certificate is available, 
+refugees should submit a copy of the birth certificate.
+Additional Instructions for Applicants Filing Under Special Adjustment Programs
+Cuban Adjustment Act (CAA)
+You may apply for adjustment of status if you are a native or citizen of Cuba who was inspected and admitted or paroled 
+into the United States after January 1, 1959, and you have been physically present in the United States for at least one year or if you are a spouse or unmarried child of a Cuban described above (regardless of your nationality or place of birth) who was inspected and admitted or paroled after January 1, 1959, and you have been physically present in the United States for at least one year.
+Derivative Applicants
+As a spouse or child of a qualifying CAA applicant, you may file to adjust status as a derivative applicant under the CAA 
+regardless of your nationality or place of birth. Furthermore, you may apply under the CAA  regardless of how long your 
+relationship with the qualifying CAA applicant has existed. It does not matter whether your relationship began before or after your Cuban spouse or parent became a lawful permanent resident.
+Additional Evidence Requirements
+As a CAA applicant, you must submit evidence showing you meet certain requirements specific to this immigrant 
+category. Therefore, in addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, 
+principal applicants must also submit:  
+• Evidence of being a native or citizen of Cuba;
+• Evidence that you have been physically present in the United States for at least one year; and
+• Evidence that you have been inspected and admitted or inspected and paroled to the United States.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 33 of 42
+Evidence of Being a Cuban Native (If You Were Born in Cuba)
+Examples of evidence submitted by principal applicants that demonstrates being a Cuban native can include, but are not 
+limited to:
+• An expired or unexpired Cuban passport (Pasaporte de la Republica de Cuba)  that lists the holder’s place of birth as 
+being Cuba; and
+• A Cuban birth certificate issued by the appropriate civil registry in Cuba.
+Evidence of Cuban Citizenship (If you were Born Outside of Cuba)
+Examples of evidence submitted by principal applicants that demonstrates Cuban citizenship can include, but are not 
+limited to:
+• An unexpired Cuban passport (Pasaporte de la República de Cuba );
+• Nationality Certificate ( Certificado de Nacionalidad ); and 
+• Citizenship Letter ( Carta de Ciudadania ).
+A Cuban birth certificate acknowledging a birth outside of Cuba or a Cuban consular birth record issued for a principal applicant who was not born in Cuba is not sufficient to prove Cuban citizenship.
+NOTE: In addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, derivative 
+applicants must submit:
+• Evidence you have been physically present in the United States for at least one year; 
+• Evidence that you reside with the principal applicant; and
+• Evidence that you are the spouse or child of the qualifying Cuban applicant.
+If you are a derivative applicant, you do not need to submit evidence of being a Cuban native or Cuban citizen. As 
+mentioned above, you may file to adjust status as a derivative applicant under the CAA  regardless of your nationality or 
+place of birth.
+Evidence of Physical Presence and Inspection and Admission or Inspection and Parole
+CAA adjustment is available only to applicants who have been inspected and admitted or inspected and paroled into the 
+United States. If you are present in the United States without inspection, you are not eligible for CAA  adjustment unless 
+DHS has paroled you under INA section 212(d)(5)(A).
+If you are a Cuban native or citizen who has already been physically present in the United States for at least one year at 
+the time DHS paroles you, then you may apply for adjustment of status immediately after being paroled. The law does not 
+require the one-year period of physical presence to occur after your parole.
+The requirements of 8 CFR 245.2(a)(3)(iv) to submit (1) Form I-485, Supplement A, (2) Form I-643, and (3) clearances 
+from local police jurisdictions are satisfied by completing this Form I-485 and the background checks conducted by 
+USCIS. Applicants applying based on the CAA do not need to submit Form I-485, Supplement A, Form I-643, or clearances from local police jurisdictions. 
+CAA for Abused Spouses and Children
+You may apply for adjustment of status if you are an abused spouse or child of a CAA-eligible spouse or parent. Special confidentiality protections (described at 8 U.S.C. section 1367) apply to you as the abused spouse or child of a principal CAA-eligible spouse or parent. 8 U.S.C. section 1367 provides two forms of critical protection. The first form of 
+protection is a prohibition on adverse determinations against the victim based on information provided solely by their abuser and other prohibited sources. The second form of protection is a prohibition on disclosure of any information about the victim to third parties, except in certain very limited circumstances.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 34 of 42
+You may apply under the CAA for abused spouses and children regardless of how long your relationship existed. It also 
+does not matter whether your relationship began before or after your Cuban spouse or parent became a lawful permanent resident.
+Derivative applicants are not allowed in this category.
+Additional Evidence Requirements
+As a CAA abused spouse or child, you must submit evidence showing you meet certain requirements specific to this 
+adjustment program. Therefore, in addition to the evidence listed in the What Evidence Must You Submit with Form 
+I-485 section, you must also submit:
+• Evidence that you resided with your abusive Cuban spouse or parent at some point during the qualifying relationship as a spouse or child;
+• Evidence that you have been physically present in the United States for at least one year;
+• Evidence of battery or extreme cruelty;
+• If your marriage was terminated, evidence that the termination of your marriage was connected to the abuse (if applicable); and
+• If your Cuban spouse is deceased, evidence that the abusive Cuban spouse died within two years of when you filed an 
+application for adjustment of status (if applicable).
+Evidence of Physical Presence and Inspection and Admission or Inspection and Parole
+The law does not require the one-year period of physical presence to occur after your parole.
+Abused spouses and children of CAA-eligible applicants must have been inspected and admitted or inspected and 
+paroled into the United States. If you are present in the United States without inspection, you are not eligible for CAA  
+adjustment unless you first present yourself to DHS and DHS paroles you under INA  section 212(d)(5)(A), pending a final 
+determination of your admissibility.
+Evidence of Battery or Extreme Cruelty
+Evidence of battery should show that your spouse or parent committed an intentional, non-consensual, harmful, or 
+offensive physical act of violence towards you or your child. Some examples include, but are not limited to: rape, 
+molestation, forced prostitution, punching, biting, kidnapping, kicking, choking, and sexual abuse.
+Evidence of extreme cruelty should show that your spouse or parent committed non-physical acts of violence or threats 
+of violence demonstrating a pattern or intent to control you or gain your compliance. Some examples include, but are not 
+limited to, controlling what you do and who you see and talk to; denying access to food, family , or medical treatment; 
+threats of physical harm to you or your family; threats to commit suicide; or threats of deportation.
+You must submit documentation demonstrating your CAA-eligible spouse or parent subjected you to battery or extreme 
+cruelty during the qualifying relationship. Evidence may include:
+1. Reports and affidavits from police, judges, or other court officials;
+2. Copies of legal documents related to orders of protection or other legal processes that address the abuse;
+3. Affidavits from persons who witnessed or have knowledge of the abusive acts;
+4. Reports or affidavits from medical personnel, school officials, and cler gy;
+5. Reports or affidavits from social workers or other social service agency personnel;
+6. Documentation to show you sought safe haven in a family violence shelter or similar place; or
+7. Photographs of injuries.
+USCIS will consider any credible evidence, as defined in INA section 204(a)(1)(J), that is relevant to the application. 
+USCIS has the sole discretion to determine what evidence is credible and what weight to give that evidence.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 35 of 42
+Evidence of Death of the Cuban Spouse (if applicable)
+If your abusive Cuban spouse has died, you may file Form I-485 within two years of your abusive Cuban spouse’ s death, 
+as long as you lived with your abusive Cuban spouse at some point during the qualifying relationship. Y ou must submit 
+evidence of the death (such as a death certificate).
+Evidence of Termination of the Marriage (if applicable)
+If the marriage ended in divorce or was annulled, you may file Form I-485 within two years of the termination of the 
+marriage as long as you demonstrate that:
+1. You lived with your abusive Cuban spouse; and
+2. The battery or extreme cruelty by your Cuban spouse and the termination of your marriage are connected.
+Dependent Status under Haitian Refugee Immigrant Fairness Act (HRIFA)
+Although the qualifying period has closed for principal HRIFA applicants, dependents of those principal applicants may 
+still file for adjustment of status if they meet certain requirements. Y ou may apply if you are a Haitian national residing 
+in the United States who is a dependent spouse, child, or unmarried son or daughter of a HRIF A  applicant. In addition, 
+your relationship to the principal must have existed at the time the principal applicant was granted adjustment of status 
+and must continue to exist at the time you are granted adjustment of status. Y ou may not file under this category if you are 
+eligible for adjustment of status under any other provision of law .
+Additional Evidence Requirements
+As a HRIFA dependent, you must submit evidence showing you meet certain requirements specific to this immigrant 
+category.
+In addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, unmarried sons or 
+daughters (21 years of age or older) applying as HRIFA dependents must also submit:
+1. Evidence of Haitian nationality;
+2. Evidence that the qualifying relationship to the principal existed at the time the principal was granted adjustment of 
+status and that the relationship still exists;
+3. Evidence you have been physically present in the United States for a continuous period starting no later than 
+December 31, 1995, and continuing until you are granted adjustment of status; and
+4. A statement that lists, and evidence of, all departures from and arrivals in the United States since December 31, 1995.
+Evidence of Nationality
+If you acquired Haitian nationality other than through birth in Haiti, provide a copy of the certificate of naturalization or 
+certificate of citizenship issued by the Haitian government.
+Evidence of Continuous Physical Presence
+If you are an unmarried son or daughter (21 years of age or older), you must submit evidence that you were physically 
+present in the United States for a continuous period since December 31, 1995. USCIS considers your physical presence to be “continuous” despite: any absences from the United States that totaled 180 days or less in the aggregate; any absences 
+for which you received advance parole before departing the United States and you returned to the United States according 
+to the conditions listed on the advance parole document; or any absences from the United States occurring after October 
+21, 1988, and before July 12, 1999, provided you departed the United States before December 31, 1988.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 36 of 42
+HRIFA Eligibility for Abused Spouses and Children
+You may apply to adjust status if you are an abused spouse or child of a HRIFA-eligible spouse or parent. Furthermore, 
+you may apply for adjustment of status as an abused spouse or child even if your principal HRIF A-eligible spouse or 
+parent has not filed for adjustment of status. Special confidentiality protections (described at 8 U.S.C. section 1367) apply 
+to you as the abused spouse or child of a qualifying HRIFA principal. 8 U.S.C. section 1367 provides two forms of critical 
+protection. The first form of protection is a prohibition on adverse determinations against the victim based on information 
+provided solely by their abuser and other prohibited sources. The second form of protection is a prohibition on disclosure 
+of any information about the victim to third parties, except in certain very limited circumstances.
+Derivative applicants are not allowed in this category.
+Additional Evidence Requirements
+As an abused spouse or child under the HRIFA, you must submit evidence showing you meet certain requirements specific 
+to this immigrant category. Therefore, in addition to the evidence listed in the What Evidence Must You Submit with 
+Form I-485  section, you must also submit evidence of:
+1. Haitian nationality; and
+2. Evidence of battery or extreme cruelty.
+Evidence of Nationality
+You must submit evidence of your Haitian nationality. If you acquired Haitian nationality other than through birth in Haiti, 
+provide a copy of the certificate of naturalization or certificate of citizenship issued by the Haitian government.
+Evidence of Battery or Extreme Cruelty
+Evidence of battery should show that your spouse or parent committed an intentional, non-consensual, harmful, or 
+offensive physical act of violence towards you or your child. Some examples include, but are not limited to: rape, 
+molestation, forced prostitution, punching, biting, kidnapping, kicking, choking, and sexual abuse.
+Evidence of extreme cruelty should show that your spouse or parent committed non-physical acts of violence or threats 
+of violence demonstrating a pattern or intent to control you or gain your compliance. Some examples include, but are not 
+limited to, controlling what you do and who you see and talk to; denying access to food, family , or medical treatment; 
+threats of physical harm to you or your family; threats to commit suicide; or threats of deportation.
+You must submit documentation demonstrating your HRIFA-eligible spouse or parent subjected you to battery or extreme 
+cruelty during the qualifying relationship. Evidence may include:
+1. Reports and affidavits from police, judges, or other court officials;
+2. Copies of legal documents relating to orders of protection or other legal processes addressing the abuse;
+3. Affidavits from persons who witnessed or have knowledge of the abusive acts;
+4. Reports or affidavits from medical personnel, school officials, and cler gy;
+5. Reports or affidavits from social workers or other social service agency personnel;
+6. Documentation to show you sought safe-haven in a family violence shelter or similar place; or
+7. Photographs of injuries.
+USCIS will consider any credible evidence, as defined in INA section 204(a)(1)(J), that is relevant to the application. 
+USCIS has the sole discretion to determine what evidence is credible and what weight to give that evidence.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 37 of 42
+Former Soviet Union and Indochinese Parolee (Lautenberg Parolees)
+If you are or were a national of the former Soviet Union, Vietnam, Cambodia, or Laos who was previously denied refugee 
+status but then was inspected and paroled into the United States for humanitarian reasons before September 30, 2012, you may apply for adjustment of status if you have been physically present in the United States for one year after being paroled.
+Derivative applicants are not allowed in this category.
+Additional Evidence Requirements
+As a Lautenberg parolee, you must submit evidence showing you meet certain requirements specific to this immigrant 
+category. Therefore, in addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, 
+you must also submit evidence that:
+1. You are or were a national of the former Soviet Union (including nationals of any of the currently independent countries that formerly were members of the Union of Soviet Socialist Republics, as well as Estonia, Latvia, and Lithuania), Vietnam, Laos, or Cambodia, if not contained in your birth certificate; and
+2. You were denied refugee status.
+Denied Refugee Status
+Under the Lautenberg program, applicants must first have been denied refugee status before their parole into the United 
+States. Provide evidence of denied refugee status, if available.
+Diplomats or High-Ranking Officials Unable to Return Home (Section 13 of the Act of September 11, 1957)
+You may apply for adjustment of status if you are an alien who entered the United States under diplomatic or semi-diplomatic status and then failed to maintain lawful status, and you can demonstrate compelling reasons why you cannot return to the country represented by the government which accredited you. Such persons are sometimes referred to as Section 13 applicants.
+Derivative Applicants
+You may apply as a derivative if you are the immediate family member of a Section 13 applicant. The DOS definition 
+of immediate family member is broader for A and G nonimmigrants than other nonimmigrant classifications. Immediate family members are described in 22 CFR 41.21(a)(3) as the spouse and unmarried sons and daughters (whether by blood or adoption) who are not members of some other household, and who will reside regularly in the household of the principal. Furthermore, immediate family members also include individuals who:
+1. Are not members of some other household;
+2. Will reside regularly in the principal applicant’s household;
+3. Are recognized by the sending government as immediate family members of the principal applicant as demonstrated by eligibility for rights and benefits, such as the issuance of a diplomatic or official passport, travel or other allowances; and
+4. Are individually authorized by DOS.
+Additional Evidence Requirements
+As a Section 13 applicant, you must submit evidence showing you meet certain requirements specific to this immigrant 
+category. Therefore, in addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, 
+principal applicants must also submit:
+1. Evidence that you were admitted into the United States in A-1, A-2, G-1, or G-2 nonimmigrant status;
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 38 of 42
+2. Evidence that you performed diplomatic or semi-diplomatic duties (custodial, clerical, or menial duties are not 
+sufficient);
+3. Evidence of compelling reasons why you or a member of your family is unable to return to the country represented by 
+the government which accredited you;
+4. Evidence establishing that granting your adjustment of status would be in the national interest of the United States;
+5. Form I-508, Waiver of Rights, Privileges, Exemptions and Immunities under INA section 247(b); and
+6. Form I-566, Interagency Record of Request.
+In addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, derivative 
+applicants must also submit:
+• Evidence that you were admitted into the United States in A-1, A-2, G-1, or G-2 nonimmigrant status;
+• Evidence establishing that granting your adjustment of status would be in the national interest of the United States;
+• Form I-508, Waiver of Rights, Privileges, Exemptions and Immunities under INA section 247(b);
+• Form I-566, Interagency Record of Request; and
+• Evidence that you are an immediate family member of the principal applicant.
+Failing to Maintain Status
+If you were admitted to the United States as an A or G nonimmigrant, you will maintain an A or G nonimmigrant status 
+as long as the U.S. Secretary of State recognizes you as being entitled to such status. Therefore, you maintain your status 
+until DOS terminates your diplomatic status.
+DOS is responsible for terminating an individual’s diplomatic status and for determining the date of an individual’s 
+termination of status. DOS requires foreign missions to submit Form DS-2008 (Notice of T ermination of Diplomatic, 
+Consular, or Foreign Government Employment) to DOS, without delay, when employees of foreign missions terminate 
+their employment status. For further information regarding termination of diplomatic status, please contact DOS.
+DOS Consultation
+After your adjustment of status interview with USCIS, USCIS will consult with DOS. DOS will make a recommendation 
+on the merits of your application. Once USCIS receives the recommendation, we will make a decision on your 
+application.
+Visa Availability
+Only 50 adjustments under this category are allowed per year. You may wish to consider applying under another 
+immigrant category, if possible, due to this category’s numerical limitation.
+Indochinese Parole Adjustment Act of 2000
+You may apply to adjust status if you are a national of Vietnam, Cambodia, or Laos who was inspected and paroled into the United States before October 1, 1997 from Vietnam under the Orderly Departure Program (ODP), a refugee camp in 
+East Asia, or a displaced person camp administered by the United Nations High Commissioner for Refugees (UNHCR) in Thailand.
+Derivative applicants are not allowed in this category.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 39 of 42
+Additional Evidence Requirements
+You must submit evidence showing you meet certain requirements specific to this immigrant category. Therefore, in 
+addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, you must also submit:
+1. Evidence of Vietnamese, Cambodian, or Laotian citizenship or nationality; and
+2. Evidence of physical presence in the United States before and on October 1, 1997.
+Additional Categories
+Diversity Visa Program
+Certain aliens who were selected in the Diversity Visa (DV) program (“selectee”) for the current fiscal year may apply for adjustment of status. Your Selection Letter, provided by DOS, confirms that you may qualify to apply for adjustment under this category.
+Derivative Applicants
+Derivative applicants may file in this category only if they were listed as derivative family members in the principal’ s DV
+  
+program application. There is an exception. If the DV selectee becomes a spouse or parent (whether of a natural, adopted, 
+or stepchild) after submitting the qualifying online DV program entry, the spouse and children are eligible for derivative status and may file in this category. However, the qualifying marriage, birth, or adoption must occur before the DV selectee becomes a lawful permanent resident. If the qualifying marriage, birth, or adoption occurs after the DV  selectee 
+becomes a lawful permanent resident, then the DV selectee may be eligible to petition for eligible family members in an appropriate family-based category. 
+A derivative applicant must provide evidence that he or she is the spouse or child of the principal applicant.
+Visa Availability
+You may file Form I-485 only when an immigrant visa is immediately available. For information on visa availability for 
+DV applicants, visit the USCIS website at www.uscis.gov/greencard.
+You and your derivatives may only receive a DV through the end of the specific fiscal year for which you were selected. USCIS cannot approve any DV adjustment application after September 30 of the relevant fiscal year. Beginning October 1, USCIS must deny any DV adjustment application that remains pending from the prior fiscal year.
+USCIS cannot guarantee that it will be able to adjudicate your application before the end of a fiscal year . 
+ Therefore, you 
+are encouraged to file as soon as you are eligible.
+Additional Evidence Requirements
+As a DV applicant, you must submit evidence showing you meet certain requirements specific to this immigrant category. 
+Therefore, in addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, principal 
+and derivative applicants must also submit evidence of the principal applicant’ s selection in the DV  program.
+In addition, principal applicants must also submit evidence of the required education or work experience to qualify for adjustment as a DV applicant.
+Evidence of Selection in DV Program
+You must provide a copy of the principal applicant’s DOS Selection Letter for the DV program and a copy of the receipt 
+from DOS for the DV program processing fee.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 40 of 42
+Evidence of Relationship
+If derivative applicants are filing Form I-485 based on the principal applicant’ s DOS Selection Letter , you must provide 
+evidence that the principal applicant included the derivative applicants in the entry when entering the DV  lottery for the 
+current fiscal year.
+Evidence of Education or Work Experience
+Principal applicants must provide one of the following:
+• A high school diploma or its equivalent (Successful completion of a 12-year course of elementary and secondary 
+education in the United States or successful completion of a formal course of elementary and secondary education in another country that is comparable to a high school education in the United States. Only formal courses of study meet this requirement. Correspondence programs or equivalency certificates, such as the General Equivalency Diploma (GED), are not acceptable); or
+• Two years of work experience within the past five years in an occupation requiring at least two years of training or experience.
+Continuous Residence in the United States Since Before January 1, 1972 (Registry)
+Certain aliens who entered the United States prior to January 1, 1972 and have maintained continuous U.S. residence since then may apply to register their lawful permanent resident status.
+Derivative applicants are not allowed in this category.
+Additional Evidence Requirements
+As a Registry applicant, you must submit evidence showing you meet certain requirements specific to this registration 
+category. Therefore, in addition to the evidence listed in the What Evidence Must You Submit with Form I-485 section, 
+you must also submit:
+1. Evidence you entered the United States before January 1, 1972; and
+2. Evidence establishing continuous residence since entry.
+Evidence of Entry Before January 1, 1972
+You may show evidence of entry by submitting at least one document showing presence in the United States before 
+January 1, 1972. You may submit as many documents as necessary.
+Evidence of Continuous Residence
+You may establish continuous residence even if you have made numerous brief departures from the United States.
+You may submit as many documents as necessary to establish continuous residence during the period of time since your 
+claimed date of entry. Examples of the types of evidence you may submit include:
+1. Copy of passport pages with nonimmigrant visa, admission, or parole stamps;
+2. Form I-94, Arrival/Departure Record;
+3. Income tax records;
+4. Mortgage deeds or leases;
+5. Insurance premiums and policies;
+6. Birth, marriage, and death certificates of immediate family members;
+7. Medical records;
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25  Page 41 of 42
+8. Bank records;
+9. School records;
+10. All types of receipts that contain identifying information about you;
+11. Census records;
+12. Social Security records;
+13. Newspaper articles concerning you;
+14. Employment records;
+15. Military records;
+16. Draft records;
+17. Car registrations;
+18. Union membership records; and
+19. Affidavits from credible witnesses having a personal knowledge of your residence in the United States, submitted with 
+the witness’ contact information.
+Although you may submit affidavits, you should provide some type of additional evidence to support the application.
+Individual Born Under Diplomatic Status in the United States
+You may apply to register your lawful permanent resident status if you are an alien born in the United States to an 
+alien who at the time of your birth enjoyed diplomatic agent level immunity (as reflected in the official records of the 
+Department of State) and you have maintained continuous residence in the United States since birth.
+If you are under 18 years of age, your parent or legal guardian must prepare and sign Form I-485 on your behalf.
+Derivative applicants are not allowed in this category.
+Additional Evidence Requirements
+As an individual born under diplomatic status, you must submit evidence showing you meet certain requirements specific 
+to this registration category. Therefore, in addition to the evidence listed in the What Evidence Must You Submit with 
+Form I-485 section, you must also submit:
+1. Official confirmation of the diplomatic classification and occupational title of your parent at the time of your birth;
+2. A list of all your arrivals in and departures from the United States;
+3. Proof of your continuous residence in the United States; and
+4. Form I-508, Waiver of Rights, Privileges, Exemptions and Immunities under INA section 247(b).
+Evidence of Diplomatic Agent Level Immunity
+International law states that individuals born in the United States to a foreign diplomatic officer accredited to the United 
+States are not subject to the jurisdiction of the United States. These individuals are also not U.S. citizens under the 
+Fourteenth Amendment to the Constitution. However, they may be considered a lawful permanent resident at birth.
+Diplomatic agent level immunity is formally determined by DOS. You may apply to register your lawful permanent 
+resident status under this category if one of your parents was an accredited member of a foreign mission in the United 
+States and enjoyed diplomatic agent level immunity at the time of your birth. However , if one of your parents was a U.S. 
+citizen at the time of your birth, regardless of whether you were living with that U.S. citizen parent at the time of your 
+birth, you may already be a U.S. citizen from birth and may not need to file this application.
+DRAFT
+Not for
+Production
+02/18/2025
+Form I-485 Instructions   01/20/25 Page 42 of 42
+Evidence of Continuous Residence
+You must establish that you have not abandoned your residence in the United States. One of the tests for whether you 
+retained lawful permanent resident status is your continuous residence in the United States.
+You may establish continuous residence in the United States since entry even if you have made numerous brief departures 
+from the United States. You may submit as many documents as necessary to establish continuous residence in the United 
+States. Examples of the types of evidence you may submit include:
+1. Copy of passport pages with nonimmigrant visa, admission, or parole stamps;
+2. Form I-94, Arrival/Departure Record;
+3. Income tax records;
+4. Mortgage deeds or leases;
+5. Insurance premiums and policies;
+6. Birth, marriage, and death certificates of immediate family members;
+7. Medical records;
+8. Bank records;
+9. School records;
+10. All types of receipts that contain identifying information about you;
+11. Census records;
+12. Social Security records;
+13. Newspaper articles concerning you;
+14. Employment records;
+15. Military records;
+16. Draft records;
+17. Car registrations;
+18. Union membership records; and
+19. Affidavits from credible witnesses having a personal knowledge of your residence in the United States, submitted with 
+the witness’ contact information.
+Although you may submit affidavits, you should provide some type of additional evidence to support the application.

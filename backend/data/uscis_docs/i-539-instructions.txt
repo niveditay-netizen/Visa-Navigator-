@@ -1,0 +1,509 @@
+---
+source: USCIS Form Instructions
+title: Form I-539 Instructions (Extend/Change Nonimmigrant Status)
+url: https://www.uscis.gov/sites/default/files/document/forms/i-539instr.pdf
+---
+
+Instructions for Application to Extend/Change Nonimmigrant 
+Status and Supplemental Form I-539A
+Department of Homeland Security
+U.S. Citizenship and Immigration ServicesUSCIS
+ Form I-539
+OMB No. 1615-0003
+Expires 03/31/2027Form I-539 Instructions   08/28/24 Page 1 of 17What Is the Purpose of Form I-539?
+Use this application if you are one of the nonimmigrants listed below and wish to apply to U.S. Citizenship and 
+Immigration Services (USCIS) for an extension of stay or a change to another nonimmigrant status.
+In certain situations, you may use this application to apply for an initial nonimmigrant status.You may also use this application if you are a nonimmigrant F-1 or M-1 student applying for reinstatement.
+When Should I Use Form I-539?
+If you are applying for an extension of stay or change of status, you generally must submit your application before your 
+current authorized stay expires.  Generally, even if USCIS approves your request, you must file a Form I-539 to “bridge” any gap between the expiration of your current status and start of the validity of your future status.  If you are applying for J-1 or M-1 nonimmigrant status, see the specific instructions below about bridging status gaps. 
+ 
+We suggest you file at least 45 days, but generally not more than 6 months, before your stay expires.  Failure to file before the expiration date may be excused if you demonstrate when you file the application that:
+1. The delay was due to extraordinary circumstances beyond your control;
+2. The length of the delay was reasonable;
+3. You have not otherwise violated your status;
+4. You are still a bona fide nonimmigrant; and
+5. You are not in removal proceedings.
+Who May File Form I-539?
+Extension of Stay or Change of Status
+Nonimmigrants in the United States may apply for an extension of stay or a change of status on this application, except as 
+noted in the Who May Not File Form I-539  section of these Instructions.
+Multiple Applicants
+You may include your spouse and your unmarried children under 21 years of age as co-applicants in your application for 
+the same extension or change of status, but only if you are all now in the same status or they are all in derivative status. Each co-applicant included on your Form I-539 must complete a separate Form I-539A.  Online filers should follow the 
+instructions on myUSCIS (my.uscis.gov) to create accounts and complete the Form I-539.
+Form I-539 Instructions   08/28/24 Page 2 of 17
+What Is the Purpose of Form I-539A?
+If you are applying for more than one person using your Form I-539 application, you must include a separate Form I-539A 
+for each additional applicant and provide all of the requested information for each person you include.  Each Form I-539A must be signed by the co-applicant listed on that form.  A parent or guardian may sign Form I-539A on behalf of a child under 14 years of age.  A legal guardian may also sign for a mentally incompetent person.
+Nonimmigrant Classifications
+This application may be used by the following nonimmigrants listed in alphabetical order:A, Ambassador, Public Minister, or Career Diplomatic or Consular Officer and Their Immediate Family MembersSubmit a copy, front and back, of Form I-94 Arrival/Departure Record, for each person included in the application 
+and Form I-566, Interagency Record of Request - A, G, or NA TO Dependent Employment Authorization or Change/Adjustment to/from A, G, or NA TO Status, certified by the U.S. Department of State (DOS) to indicate your accredited status.
+A-1 and A-2 applicants may not use Form I-539 to file for an extension of stay.A-3, Attendant or Servant of an A Nonimmigrant and the A-3’s Immediate Family MembersY ou must submit a copy, front and back, of Form I-94 for each person included in the application.  You must file the 
+application with your mission office with:
+1. A copy of your employer’s Form I-94 or approval notice demonstrating A status;
+2. A copy of your contract with your employer;
+3. An original letter from your employer stating:
+A. Y our duties;
+B. That the employer intends to personally employ you for the entirety of your contract; and
+C. Arrangements you have made to depart from the United States; and
+4. An original Form I-566, certified by DOS, indicating your employer ’s continuing accredited status.
+B-1, Visitor for Business, or B-2, Visitor for Pleasure
+If you are filing for an extension/change, include the original Form I-94 for each person included in your application.  In 
+addition, submit a typed or written statement explaining in detail:
+1. The reasons for your request;
+2. The reasons why your extended stay would be temporary, including what arrangements you have made to depart from the United States; 
+3. Any effect the extended stay may have on your foreign employment or residency; and
+4. How you plan to financially support yourself while you are in the United States.
+In Part 2., Item Number 2., indicate which B-1 status you are requesting: 
+1. B-1A, nonimmigrant who is the personal or domestic servant of a nonimmigrant employer;
+2. B-1B, nonimmigrant who is a personal or domestic servant of a U.S. citizen and who is on temporary assignment in the United States;
+3. B-1C, nonimmigrant who is employed by a foreign airline;
+4. B-1D, nonimmigrant who is a minister of religion or a missionary; 
+Form I-539 Instructions   08/28/24 Page 3 of 17
+5. B-1, United Nations Observer Mission; and
+6. B-1, all other B-1 visa classifications not designated above.
+CW-2 Dependents of a CW-1 Transitional Worker
+If you are filing for an extension/change of status as the dependent of an employee who is a CW -1 transitional worker , 
+include:
+1. Evidence of lawful presence in the Commonwealth of the Northern Mariana Islands (CNMI); and
+2. Evidence of each applicant’s relationship to the CW-1 transitional worker, such as a birth certificate or marriage 
+certificate and proof of termination of any prior marriage(s); and
+3. One of the following:
+A. Form I-129CW, Petition for a CNMI-Only Nonimmigrant Transitional Worker, filed on behalf of the CW-1 transitional worker;
+B. A copy of the I-797 Receipt Notice related to the transitional worker’s already pending petition;
+C. A copy of the front and back of the transitional worker’s most recent Form I-94; or
+D. A copy of the I-797 Approval Notice showing the transitional worker has already been granted status for the period requested on your application.
+NOTE:  An employer must file Form I-129CW to obtain CW-1 status on behalf of an employee or prospective employee. CW-2 applicants requesting to change status into CW-1 may not use Form I-539.
+Dependents of a Principal E Nonimmigrant
+The principal E nonimmigrant classifications include:  E-1 Treaty Traders and their E-1 employees, E-2 Treaty Investors 
+and their E-2 employees, E-2 CNMI Investors, and E-3 Australian Specialty Occupation Professionals, and certain dependents of such persons.
+NOTE:  Certain dependents of E nonimmigrants receive the same classification as the principal.  If you are filing for an 
+extension/change of status as the dependent of a principal E nonimmigrant (E-1, E-1S, E-1Y , E-2S, E-2Y , E-2C, E-3S, E-3Y), include  the following with your application:
+1. A copy of the front and back of Form I-94 for each person included on this application;
+2. Evidence of each applicant’s relationship to the principal E nonimmigrant, such as a birth certificate or marriage  certificate and proof of termination of any prior marriage(s); and
+3. At least one of the following:
+A. A copy of Form I-129, Petition for a Nonimmigrant Worker, filed on behalf of the principal E nonimmigrant;
+B. A copy of the I-797 Receipt Notice related to the principal E nonimmigrant’s already pending Form I-129 petition;
+C. A copy of the front and back of the principal E nonimmigrant’s most recent Form I-94; or
+D. A copy of the I-797 Approval Notice showing the principal E nonimmigrant has already been granted status for the period requested on your application.
+NOTE:  Dependents of principal E nonimmigrants must use this application to request extension/change of status.  An employer must file Form I-129 on behalf of a principal E nonimmigrant who is currently in the United States.  If the principal E nonimmigrant is outside the United States, he or she must apply for an E visa at a U.S. Embassy or U.S. Consulate abroad.  E dependents may not use Form I-539 to request E principal status.
+F-1, Academic StudentTo request a change to F-1 status or to apply for reinstatement as an F-1 student, submit a copy of your Form I-94, and, if 
+applicable, a copy of the Form I-94 for each person included in the application.
+Form I-539 Instructions   08/28/24 Page 4 of 17
+Include a copy of your Form I-20, Certificate of Eligibility for Nonimmigrant Student Status, issued by the school where 
+you will study, and submit documentation demonstrating your ability to pay for your studies and support yourself, and any accompanying family members, while you are in the United States.
+NOTE:  A change of status to F-1 nonimmigrant may be approved effective the day USCIS makes a final decision on your 
+change of status application.  You are not required to submit subsequent applications for an extension of stay or change of nonimmigrant status to “bridge” a gap in status up to 30 days before the program start date while your application is pending, provided your nonimmigrant status is unexpired at the time you filed the change of status to F-1 nonimmigrant and you otherwise remain eligible for approval. 
+F-1 Reinstatement
+In addition to the above documents, submit evidence that your violation of status resulted from circumstances beyond 
+your control or that your violation relates to a reduction in your course load that would have been within a Designated School Official’s (DSO’s) power to authorize, and that failure to approve reinstatement would result in extreme hardship to you.
+If you were out of status for more than five months at the time of filing your request for reinstatement, you must also 
+provide evidence that your failure to file within the five-month period was the result of exceptional circumstances and that you filed your request for reinstatement as promptly as possible under these exceptional circumstances.
+F-1 Extensions
+Only use this application to request an extension if you were admitted for a limited duration as a student entering to study 
+at a public secondary school.  All other students seeking information concerning extensions should contact their DSO.
+G, Designated Principal Resident Representative of a Foreign Government and His or Her Immediate Family 
+Members
+Submit a copy, front and back, of Form I-94 for each person included in the application, and Form I-566, certified by 
+Department of State (DOS) to indicate your accredited status.
+G
+ -5, Attendant or Servant of a G Nonimmigrant and the G-5’s Immediate Family Members
+You must file the application with your mission office, along with:
+1. A copy of your employer’s Form I-94 or approval notice demonstrating G status;
+2. A copy of your contract with your employer;
+3. An original letter from your employer describing your duties stating that he or she intends to personally employ you 
+and arrangements you have made to depart from the United States; and
+4. An original Form I-566 indicating your employer’s continuing accredited status.
+H-4 Dependents of an H, Temporary Worker
+If you are filing for an extension/change of status as the dependent of an employee who is an H temporary worker , submit 
+the following with this application:
+1. A copy of the front and back of Form I-94 for each person included on this application;
+2. Evidence of each applicant’s relationship to the H temporary worker, such as a birth certificate or marriage certificate 
+and proof of termination of any prior marriage(s); and
+3. At least one of the following:
+A. A copy of Form I-129, Petition for a Nonimmigrant Worker, filed on behalf of the H temporary worker;
+B. A copy of the Form I-797 Receipt Notice related to the H temporary worker’s already pending Form I-129 petition;
+C. A copy of the front and back of the H temporary worker’s most recent Form I-94; or
+Form I-539 Instructions   08/28/24 Page 5 of 17
+D. A copy of the Form I-797 Approval Notice showing the H temporary worker has already been granted status for 
+the period requested on your application.
+NOTE:  An employer must file Form I-129 on behalf of the H temporary worker. 
+H-1B, H-2A, H-2B, H-3 nonimmigrants may not use Form I-539 to request an extension of stay.  Applicants may not use 
+Form I-539 to request a change of status into H-1B, H-2A, H-2B, H-3.
+I, Representatives of Foreign Media and Dependents
+Nonimmigrants granted I classification may be admitted for the duration of employment.  Unless you are a nonimmigrant 
+from the People’s Republic of China (see below), you do not need to file for an extension of stay as long as you work for the same employer in the same information medium.
+However, you must file this application to request a change of employer or a change in the information medium in which 
+you work.  To do this, complete Item Number 2. in Part 2. of Form I-539 and indicate “change of employer” or “change 
+of information medium” next to that selection.
+If you are requesting a change of status to I nonimmigrant status, complete Item 2. in Part 2. of Form I-539 and indicate 
+“I-Foreign Press” in the space provided.To change your status to I, or to extend your stay in I nonimmigrant status due to a change of employer or information 
+medium, submit the following with your application:
+1. A copy of the front and back of Form I-94 for each person included on this application;
+2. A letter from the employing foreign media organization that verifies your employment, establishes that you are a representative of that media organization, and describes the remuneration and work to be performed; and
+3. If applicable, evidence of each dependent’s relationship to the principal, such as a birth certificate or marriage certificate and proof of termination of any prior marriages.  ( NOTE:  Dependents of I nonimmigrants receive the 
+same lassification as the principal.)
+I, Nonimmigrants from the People’s Republic of China
+If you are an I representative of a foreign information media organization or a dependent who entered the United States 
+on a passport from the People’s Republic of China that is not a Hong Kong Special Administrative Region passport or a Macau Special Administrative Region passport, submit the following with your application to extend your stay:
+1. A copy of the front and back of Form I-94 for each person included on this application;
+2. A letter from the employing foreign information media organization that verifies your employment, establishing that you are a representative of that media organization, and describes the remuneration and work to be performed,    including the period of time for this work to be performed; and establishing that the employer ’s home office is located 
+in a foreign country; and
+3. If applicable, evidence of each dependent’s relationship to the principal, such as a birth certificate or marriage certificate and proof of termination of any prior marriage(s).  ( NOTE:  Dependents of I nonimmigrants receive the 
+same classification as the principal.)
+NOTE:  You must also submit the above-mentioned documents with your application if you are requesting a change of status to I nonimmigrant status and submitting a passport from the People’s Republic of China that is not a Hong Kong 
+Special Administrative Region passport or a Macau Special Administrative Region passport. 
+J-1, Exchange Visitor
+If you are requesting a change of status to J-1 nonimmigrant classification, include a DS-2019, Certificate of Eligibility for 
+Exchange Visitor Status, your Form I-94, and, if applicable, the Form I-94 for each person included in the application.
+Form I-539 Instructions   08/28/24 Page 6 of 17
+NOTE:  A change of status may be granted for a period up to 30 days before the program start date of the approved 
+exchange visitor program listed on Form DS-2019.  You must maintain a valid nonimmigrant status up to 30 days before the program start date of the approved exchange visitor program listed on Form DS-2019.
+J-1 Extensions
+If you are a J-1 exchange visitor seeking an extension of your status, contact the responsible officer of your program. You 
+may not use Form I-539 to apply for an extension of your J-1 status.
+J-1 Reinstatement
+If you are a J-1 exchange visitor seeking reinstatement, contact the responsible officer at your sponsoring program for 
+information about the reinstatement procedure.
+Notice to J Nonimmigrants
+A
+ J-1 exchange visitor who is receiving graduate medical education or training, and who has not received the appropriate 
+waiver, is ineligible for change of status except to a nonimmigrant T or U visa.  In addition, a J-1 exchange visitor who is 
+subject to the foreign residence requirement, and who has not received a waiver of that requirement, is only eligible for a change of status to a nonimmigrant A, G, T, or U visa.
+If a J-1 exchange visitor is subject to the foreign residence requirement, any J-2 dependent is also subject to this 
+requirement.  If the J-1 exchange visitor obtains a waiver of the foreign residence requirement, the J-2 dependent is also exempt from the requirement.  Under certain limited circumstances, a J-2 dependent may be independently eligible for a waiver of the foreign residence requirement.
+A former J nonimmigrant (either a J-1 principal or a J-2 dependent) subject to the foreign residence requirement, who 
+is currently maintaining another nonimmigrant visa status, continues to be subject to the foreign residence requirement. A former J nonimmigrant is ineligible for a change of status until he or she fulfills the foreign residence requirement or obtains the appropriate waiver.
+If you are a current or former J nonimmigrant, you must provide information about this status, including the dates you 
+maintained status as a J-1 exchange visitor or a J-2 dependent.  Willful failure to disclose this information (or other relevant information) can result in your application being denied.  Provide proof of this status along with your application, such as a copy of Form DS-2019, Certificate of Eligibility for Exchange Visitor Status, or a copy of your passport that 
+includes the J visa stamp.
+K Nonimmigrant
+A
+ spouse (K-3) of a U.S. citizen and his or her children (K-4), may not change to another nonimmigrant status.
+EXCEPTION:  K-3 and K-4 nonimmigrants are eligible to apply for an extension of status during the processing of Form 
+I-130 filed on their behalf and up to completion of their adjustment-of-status or immigrant visa application. 
+NOTE:  Nonimmigrants (A to V) may not change status to K-3 or K-4.
+L-2, Dependents of an L, Intracompany Transferee
+If you are filing for an extension/change of status as the dependent of an employee who is an L  intracompany transferee 
+(L-2, L-2S, L-2Y), you must submit the following with this application:
+1. A copy of the front and back of Form I-94 for each person included on this application;
+2. Evidence of each applicant’s relationship to the principal L nonimmigrant, such as a birth certificate or marriage        
+certificate and proof of termination of any prior marriage(s); and
+3. At least one of the following:
+A. Form I-129, Petition for a Nonimmigrant Worker, filed on behalf of the L intracompany transferee;
+Form I-539 Instructions   08/28/24 Page 7 of 17
+B. A copy of the I-797 Receipt Notice related to the L intracompany transferee’s already pending Form I-129 
+petition;
+C. A copy of the front and back of the L intracompany transferee’s most recent Form I-94; or
+D. A copy of the I-797 Approval Notice showing the L intracompany transferee has already been granted status for the period requested on your application.
+NOTE:  Dependents of L intracompany transferees must apply for extension/change of status to L-2 on this application.  An employer must file Form I-129 on behalf of the L intracompany transferee.
+Applicants may not use Form I-539 to apply for L-1 principal status or to request an extension of L-1 status.
+M-1, Vocational or Non-Academic Student
+To request a change to or extension of M-1 status, or apply for reinstatement to M-1 status, you must submit your Form 
+I-94, and, if applicable Form I-94 for each person included in the application.
+Include a copy of your Form I-20, Certificate of Eligibility for Nonimmigrant Student Status, issued by the school where 
+you will study and you must submit documentation that demonstrates your ability to pay for your studies and support yourself, and any accompanying dependent family members, while you are in the United States.
+NOTE:  A change of status may be granted for a period up to 30 days before the start date of the program of study listed 
+on Form I-20.  You must maintain a valid nonimmigrant status up to 30 days before the start date of the program of study listed on Form I-20. 
+M-1 Reinstatement
+In addition to the above documents, submit evidence that your violation of status resulted from circumstances beyond 
+your control or that your violation relates to a reduction in your course load that would have been within a DSO’s power to authorize, and that failure to approve reinstatement would result in extreme hardship to you.
+If you were out of status for more than five months at the time of filing your request for reinstatement, you must also 
+provide evidence that your failure to file within the five-month period was the result of exceptional circumstances and that you filed your request for reinstatement as promptly as possible under these exceptional circumstances.
+M-1 Extension
+In addition to submitting the above documents, submit evidence supporting your reason for requesting an extension.  You 
+may request an extension of stay for the following reasons:
+1. If compelling educational or medical reasons have resulted in a delay to your course of study.  Delays caused by academic probation or suspension are not acceptable reasons for program extension.
+2. Y ou are transferring to a different school.
+NOTE:  If you are transferring schools six months, or more, from the date you were first admitted, you will need to submit evidence showing you are unable to remain at the school you were initially admitted to attend due to circumstances beyond your control.
+3. Y ou are applying for practical training.
+NOTE:  M-1 students may not change their educational objective and should not request an extension for this reason.
+No extension can be granted to an M-1 student if the M-1 student is unable to complete the course of study, to include any 
+requested practical training within three years of the original program start date. 
+O-3 Dependents of an O, Alien of Extraordinary Ability or Achievement
+If you are filing for an extension/change of status as the dependent of an employee who is an O nonimmigrant worker , 
+submit the following with this application:
+1. A copy of the front and back of Form I-94 for each person included on this application;
+Form I-539 Instructions   08/28/24 Page 8 of 17
+2. Evidence of each applicant’s relationship to the O nonimmigrant worker, such as a birth certificate or marriage 
+certificate and proof of termination of any prior marriage(s); and
+3. At least one of the following:
+A. A copy of Form I-129, Petition for a Nonimmigrant Worker, filed on behalf of the O nonimmigrant worker;
+B. A copy of the Form I-797 Receipt Notice related to the O nonimmigrant worker’s already pending Form I-129  petition;
+C. A copy of the front and back of the O nonimmigrant worker’s most recent Form I-94; or
+D. A copy of the Form I-797 Approval Notice showing the O nonimmigrant worker has already been granted status for the period requested on your application.
+NOTE:  An employer must file Form I-129 on behalf of the O nonimmigrant worker.  O-1 and O-2 principal workers may not use Form I-539 to request an extension of stay. 
+P-4 Dependents of a P , Artist, Athlete, or Entertainer
+If you are filing for an extension/change of status as the dependent of an employee who is a P  nonimmigrant worker , 
+submit the following with this application:
+1. A copy of the front and back of Form I-94 for each person included on this application;
+2. Evidence of each applicant’s relationship to the P nonimmigrant worker, such as a birth certificate or marriage 
+certificate and proof of termination of any prior marriage(s); and
+3. At least one of the following:
+A. A copy of Form I-129, Petition for a Nonimmigrant Worker, filed on behalf of the P nonimmigrant worker;
+B. A copy of the Form I-797 Receipt Notice related to the P nonimmigrant worker’s already pending I-129 petition;
+C. A copy of the front and back of the P nonimmigrant worker’s most recent Form I-94; or
+D. A copy of the Form I-797 Approval Notice showing the P nonimmigrant worker has already been granted status for the period requested on your application.
+NOTE:  An employer must file Form I-129 on behalf of the P nonimmigrant worker.  P-1 and P-2, or P-3 principal workers may not use Form I-539 to request an extension of stay. 
+R-2 Dependents of an R, Religious Worker
+If you are filing for an extension/change of status as the dependent of an employee who is an R religious worker , submit 
+the following with this application:
+1. A copy of the front and back of Form I-94 for each person included on this application;
+2. Evidence of each applicant’s relationship to the R religious worker, such as a birth certificate or marriage certificate 
+and proof of termination of any prior marriage(s); and
+3. At least one of the following:
+A. Form I-129, Petition for a Nonimmigrant Worker, filed on behalf of the R religious worker;
+B. A copy of the Form I-797 Receipt Notice related to the R religious worker’s already pending Form I-129 petition;
+C. A copy of the front and back of the R religious worker’s most recent Form I-94; or
+D. A copy of the Form I-797 Approval Notice showing the R religious worker has already been granted status for the period requested on your application.
+NOTE:  An employer must file Form I-129 on behalf of the R religious worker.  R-1 religious workers may not use Form I-539 to request R-1 status or to file for an extension of stay. 
+Form I-539 Instructions   08/28/24 Page 9 of 17
+TD Dependents of a TN, Canadian or Mexican Professional
+If you are filing for an extension/change of status as the dependent of an employee who is a TN professional worker , 
+submit the following with this application:
+1. A copy of the front and back of Form I-94 for each person included on this application;
+2. Evidence of each applicant’s relationship to the TN professional worker, such as a birth certificate or marriage 
+certificate and proof of termination of any prior marriage(s); and
+3. At least one of the following:
+A. A copy of Form I-129, Petition for a Nonimmigrant Worker, filed on behalf of the TN professional worker;
+B. A copy of the Form I-797 Receipt Notice related to the TN professional worker’s already pending Form I-129   petition;
+C. A copy of the front and back of the TN professional worker’s most recent Form I-94; or
+D. A copy of the Form I-797 Approval Notice showing the TN professional worker has already been granted status for the period requested on your application.
+NOTE:  An employer must file Form I-129 on behalf of a TN professional worker who is currently in the United States. If the principal TN nonimmigrant is not currently in the United States, Mexican citizen professionals must contact a U.S. Embassy or U.S. Consulate in Mexico and Canadian citizen professionals must contact a designated port-of-entry to apply for TN classification.
+TN-1 and TN-2 principal workers may not use Form I-539 to request principal worker status or to file for an 
+extension of stay. 
+T Nonimmigrants
+If you are filing for an extension of status as a T nonimmigrant based on law enforcement need, submit this application 
+with:
+1. A copy of your Form I-94 or approval notice showing that you have already been granted T status; and
+2. Evidence demonstrating law enforcement need, such as a new Form I-914 Supplement B, Trafficking Victim 
+Declaration; evidence from a law enforcement official, prosecutor, judge, or other authority who can detect, 
+investigate, or prosecute acts of trafficking, explaining that your presence is necessary; or any other credible evidence.
+If you are filing for an extension of status as a T nonimmigrant based on exceptional circumstances, you must submit this 
+application with:
+1. A copy of your Form I-94 or approval notice showing that you have already been granted T status; and
+2. Evidence demonstrating exceptional circumstances, such as an affirmative statement or any other credible evidence, including but not limited to medical records, police or court records, news articles, correspondence with an embassy or consulate, and affidavits from individuals with direct knowledge or familiarity with the applicant’ s circumstances.
+NOTE:  Extensions of T nonimmigrant status based on the filing of Form I-485, Application to Register Permanent Residence or Adjust Status, do not require the filing of Form I-539.  T nonimmigrant status is automatically extended when Form I-485 is filed.
+NOTE:  USCIS may approve an extension of status for a T-1 nonimmigrant, based on exceptional circumstances, when an 
+approved eligible family member is awaiting initial issuance of a T visa by a consulate and the T-1 nonimmigrant’s status is soon to expire.
+Applicants may not use Form I-539 to apply for or change to T nonimmigrant status.
+Form I-539 Instructions   08/28/24 Page 10 of 17
+T Derivative Nonimmigrants
+A T derivative nonimmigrant may file for an extension of status independently if the T-1 principal remains in valid T 
+nonimmigrant status, or the T-1 principal nonimmigrant may file for an extension of T-1 status and request that this extension be applied to the derivative family members.
+If the T -1 principal nonimmigrant wants the extension of status request described above to be applied to derivative family 
+members with T-2, T-3, T-4, T-5, or T -6 nonimmigrant status that are currently in the United States, indicate that request in writing, include a separate Form I-539A for each derivative.   Each Form I-539A must be submitted with a copy of the 
+derivative’s Form I-94 or approval notice showing that the derivative was already granted T-2, T-3, T-4, T-5, or T -6 status.
+If you are a T-2,  T-3, T-4, T-5, or T-6 nonimmigrant filing  independently for an extension of status, you must submit  this 
+application with:
+1. Justification for your extension request (statement of need and reasons);
+2. A copy of your Form I-94, approval notice, or your passport with your T nonimmigrant visa showing that you have 
+already been granted T nonimmigrant status; and
+3. Evidence of relationship to the T -1 nonimmigrant principal, such as a birth certificate or marriage certificate and proof of termination of any prior marriage(s).
+NOTE:  Extensions cannot be granted to derivative family members who are still outside the United States and have never entered the United States in T nonimmigrant status.  A statement must be included with the application if there are family members outside the United States who have not been processed through a U.S. Consulate
+ in order for USCIS 
+to issue an amended approval notice for such family members. This statement must be included in Part 8. Additional 
+Information, and for each derivative, include the following:   full legal name, A-Number, and current address in order for 
+USCIS to issue an amended approval notice for such family members.  Therefore, if the T -1 principal’s status is extended, an amended approval notice will be issued for derivative family members outside the United States to facilitate the consular processing.
+Temporary Protected Status (TPS) Applicants
+Individuals who are currently in the United States with TPS may be eligible to file Form I-539 to request to change to a 
+different nonimmigrant status.  TPS applicants must submit this application with:
+1. Evidence of an approved Form I-821, Application for Temporary Protected Status;
+2. A copy of government identification, or a copy of an Employment Authorization Document;\
+3. Evidence of your compliance with TPS re-registration requirements; and
+4. Evidence of your eligibility for the classification you wish to request.
+U Nonimmigrants
+If you are filing for an extension of status as a U nonimmigrant based on law enforcement need, include:
+1. A copy of your Form I-94 or approval notice showing that you have already been granted U status; and
+2. Evidence demonstrating law enforcement need, such as a new Form I-918 Supplement B, U Nonimmigrant Status 
+Certification, other evidence from law enforcement explaining that your presence is necessary , or any other credible 
+evidence.
+If you are filing for an extension of status as a U nonimmigrant based on exceptional circumstances, include.
+1. A copy of your Form I-94 or approval notice showing that you have already been granted U status; and
+2. Evidence demonstrating exceptional circumstances, such as an affirmative statement or any other credible evidence.
+NOTE:  Extensions of U nonimmigrant status based on the filing of Form I-485, Application to Register Permanent 
+Residence or Adjust Status, do not require the filing of Form I-539. U nonimmigrant status is automatically extended when Form I-485 is filed.
+Form I-539 Instructions   08/28/24 Page 11 of 17
+Applicants may not use Form I-539 to apply for or change to U nonimmigrant status.
+U Derivative Nonimmigrants
+A U derivative nonimmigrant may file for an extension of status independently, or the U-1 principal nonimmigrant may 
+file for an extension of U-1 status and request that this extension be applied to the derivative family members.
+If the U-1 nonimmigrant principal wants the extension of status request based on law enforcement need or exceptional 
+circumstances described above to be applied to derivative family members with U-2, U-3, U-4, or U-5 nonimmigrant status that are currently in the United States, indicate that request in writing and list each derivative separately on Form I-539A.  Each Form I-539A must be submitted with a copy of the derivative’s Form I-94 or approval notice showing that the derivative was already granted U-2, U-3, U-4, or U-5 status.
+If you are a U-2, U-3, U-4, or U-5 nonimmigrant filing independently for an extension of status, for example, based on 
+consular delays or to ensure three years of physical presence, you must submit  this application with:
+1. Justification for your extension request (statement of need and reasons);
+2. A copy of your Form I-94, approval notice, or your passport with your U nonimmigrant visa showing that you have   already been granted U nonimmigrant status; and
+3. Evidence of relationship to the U-1 nonimmigrant principal, such as a birth certificate or marriage certificate and proof of termination of any prior marriage(s).
+NOTE:  Extensions cannot be granted to derivative family members who are still outside the United States and have never entered the United States in U nonimmigrant status. 
+ A statement must be included with the application if there are 
+family members outside the United States who have not been processed through a U.S. Consulate  in order for USCIS 
+to issue an amended approval notice for such family members.  This statement must be included in Part 8. Additional 
+Information, and for each derivative, include the following:  full name, A-Number, and current location in order for USCIS to issue an amended approval notice for such family members.  Therefore, if the U-1 principal’s status is extended, an amended approval notice will be issued for derivative family members outside the United States to facilitate the consular processing.
+NOTE:  If you never entered the United States in U-2, U-3, U-4, or U-5 derivative status and the principal U-1 
+nonimmigrant has an approved Form I-485, Applicant to Register Permanent Residence or Adjust Status, you are not eligible for an extension of status.  The U-1 principal nonimmigrant may consider filing Form I-929, Petition for Qualifying Family Member of a U-1 Nonimmigrant.
+V ,  Spouse or Child of a Lawful Permanent Resident
+Use Form I-539 if you are physically present in the United States and wish to request initial status or change status to a V 
+nonimmigrant, or to request an extension of your current V nonimmigrant status.
+Who Is Eligible for V Nonimmigrant Status? 
+In order to be eligible for a V nonimmigrant status, you must meet all of the following conditions:
+1. Y ou must be the spouse or the unmarried child of a lawful permanent resident, or a derivative child of such an individual;
+2. Your lawful permanent resident petitioner must have filed Form I-130, Petition for Alien Relative, for you on or before December 21, 2000, and; 
+A. The Form I-130 has been pending for 3 years or more; or
+B. Has been approved, and 3 or more years have passed since the date of filing, in either of the following circumstances:
+(1) An immigrant visa is not immediately available to you because of the priority date; or
+Form I-539 Instructions   08/28/24 Page 12 of 17
+(2) Your application for an immigrant visa, or your application for adjustment of status, pursuant to the approval 
+of Form I-130, remains pending.
+3. You must be admissible to the United States, except where the grounds of inadmissibility do not apply or have been waived.  The grounds of inadmissibility that do not apply are Immigration and Nationality Act (INA) sections:
+A. 212(a)(6)(A) -- Aliens present without admission or parole;
+B. 212(a)(7) -- Aliens without valid passports, visas, or other entry documents; and
+C. 212(a)(9)(B) -- Aliens who were unlawfully present for more than 180 days, then departed, and seek admission  while barred from doing so; and
+4. Unmarried sons and daughters of lawful permanent residents who have maintained V status since they were children,  are eligible for extensions of V status while awaiting availability of immigrant visas in the F2B category. 
+You must submit the following with the Form I-539 application: 
+1. Proof that you are the beneficiary of an immigrant petition that qualifies you for V nonimmigrant status.  Proof may 
+be in the form of Form I-797, Notice of Action, which serves as a receipt or as a notice of approval for a properly filed  Form I-130.
+2. If a visa number is immediately available, you must also submit proof of a pending Form I-485, Application to Register Permanent Residence or Adjust Status.  Proof of a pending Form I-485 may be in the form of Form I-797, Notice of Action, which serves as a receipt notice for a properly filed Form I-485. 
+If you do not have such proof, USCIS will review other forms of evidence, such as correspondence to or from USCIS regarding a pending petition.
+Additional Evidence Requirements for V Nonimmigrants
+In addition to the general filing instructions and initial evidence required by Form I-539 Instructions, you must submit:  Form I-693, Report of Medical Examination and Vaccination Record, (without the vaccination supplement) which is only required for Form I-539 initial filings.
+When seeking an extension of your V nonimmigrant status, you may file no earlier than 120 days before your current 
+expiration date. 
+V visa holders will be eligible to apply for adjustment of status to lawful permanent resident once an immigrant visa 
+becomes available to them.  While they are waiting, V nonimmigrants are authorized to work incident to status.  To obtain an Employment Authorization Document evidencing employment authorization, an applicant for V status may file Form I-765, Application for Employment Authorization, at the same time as Form I-539, or while his or her Form I-539 is pending, or after it has been approved.
+WARNING:   V nonimmigrants who have been in the United States illegally for more than 180 days may trigger the 
+grounds of inadmissibility regarding unlawful presence (for the applicable 3-year or 10-year bar to admission) if they 
+leave the United States.  Their departure may prevent them from adjusting status as a permanent resident.
+Who May Not File Form I-539?
+You may not be granted an extension or change of status if you were admitted under the Visa Waiver Program or if your current status is:
+1. Applicants requesting status as a principal temporary worker or requesting to extend status as a principal temporary worker.  Such applications may be rejected or denied without refund;
+2. An alien in transit (C) or in transit without a visa (TWOV);
+Form I-539 Instructions   08/28/24 Page 13 of 17
+3. A crewman (D); or
+4. A fiancé(e) or dependent of a fiancé(e) (K-1 or K-2).
+A spouse (K-3) of a U.S. citizen and his or her children (K-4) may not change to another nonimmigrant status.
+EXCEPTION:  A K-3 and K-4 are eligible to apply for an extension of status.  They should file for an extension during 
+the processing of Form I-130 filed on their behalf and up to completion of their adjustment-of-status application.
+NOTE:  Any nonimmigrant (A to V) may not change his or her status to K-3 or K-4.
+General Instructions
+Biometric Services Appointment.  USCIS may require you to appear for an interview or provide biometrics (fingerprints, 
+photograph, and/or signature) at any time to verify your identity, obtain additional information, and conduct background and security checks, including a check of criminal history records maintained by the Federal Bureau of Investigation (FBI), before making a decision on your application or petition.  If we determine that a biometric services appointment is necessary, we will send you an appointment notice with the date, time, and location of your appointment.  If you are currently overseas, your notice will instruct you to contact a U.S. Embassy , U.S. Consulate, or USCIS office outside the 
+United States to schedule an appointment. 
+At your biometrics appointment, you must sign an oath reaffirming that: 
+1. You provided or authorized all information in the application;
+2. You reviewed and understood all of the information contained in, and submitted with, your application; and
+3. All of this information was complete, true, and correct at the time of filing.
+If you do not attend your biometric services appointment, we may deny your application.Filing Fee.  See USCIS Form G-1055, Fee Schedule, available at www.uscis.gov/g-1055, for all information on filing 
+fees.Language Access.  USCIS ensures that individuals with limited English proficiency (LEP) have meaningful access to 
+USCIS services.  Individuals with LEP may bring a qualified interpreter to the interview.  USCIS considers requests for language assistance on a case-by-case basis, and we will make a reasonable effort to provide you with a qualified interpreter. 
+Copies.  You should submit legible photocopies of requested documents unless the Instructions specifically instruct you to 
+submit an original document.  USCIS may request an original document at any time during our process.  If we request an original document from you, we will return it to you after USCIS determines it no longer needs the original.  
+NOTE:  If you submit original documents when they are not required or requested, USCIS may destroy them after we 
+receive them.  Translations.  If you submit a document with information in a foreign language, you must also submit a full English 
+translation. The translator must sign a certification that the English language translation is complete and accurate, and that they are competent to translate from the foreign language into English.  The certification must include their signature, 
+printed name, the signature date, and their contact information.
+USCIS Contact Center.  For additional information on the application and Instructions about where to file, 
+change of address, and other questions, visit the USCIS Contact Center at www.uscis.gov/contactcenter or call at          
+800-375-5283 (TTY 800-767-1833).  The USCIS Contact Center provides information in English and Spanish. Disability Accommodations/Modifications.  To request a disability accommodation/modification, follow the 
+instructions on your appointment notice or at www.uscis.gov/accommodationsinfo.
+Form I-539 Instructions   08/28/24 Page 14 of 17
+How to Complete Form I-539
+1. Type or print legibly in black ink.
+2. If you need extra space to complete any item within this application, use the space provided in Part 8. Additional 
+Information or attach a separate sheet of paper.  Type or print your name and Alien Registration Number (A-Number) 
+(if any) at the top of each sheet; indicate the Page Number, Part Number, and Item Number to which your answer 
+refers; and sign and date each sheet. 
+3. Part 1., Item Number 4.  Your Current Mailing Address (Safe Address, if applicable).  You must provide a valid mailing address in the United States.  You may list a valid U.S. residence, APO, or commercial address.  You may also list a U.S. Post Office address (PO Box) if that is how you receive your mail.  If your mail is sent to someone other than yourself, please include an “In Care Of Name” as part of your mailing address.  If your U.S. mailing address is in a U.S. territory and it contains an urbanization name, list the urbanization name in the “In Care Of Name” space provided. 
+NOTE:  If you have a pending or approved petition or application for classification under the Violence Against 
+W
+omen Act (V AWA), as a human trafficking victim (T nonimmigrant), or as a victim of qualifying criminal activity 
+(U nonimmigrant), and you do not want U.S. Citizenship and Immigration Services (USCIS) to send notices about this 
+application to your physical address, you may provide a safe mailing address in this section/field.  You may provide 
+a post office box (PO Box) address or the address of a friend, your attorney , a community-based organization that is 
+helping you, or any other address where you can safely and timely receive mail.
+Part 1.,
+ Item Number 6.  If your U.S. physical address is not the same as your U.S. mailing address in  Part 1., Item 
+Number 4., type or print your physical address in the spaces provided.  Note that if your mailing address (including 
+safe mailing address) is different than your physical address, the physical address will NOT  be used for USCIS 
+correspondence.
+4. Part 1. Item Number 8.  Country of Citizenship or Nationality. Provide the name of the country where you are a citizen and/or national. This is not necessarily the country where you were born. If you do not have citizenship in any country, type or print “stateless” and provide an explanation in Part 8. Additional Information.
+5. Part 5.  Applicant’s Contact Information, Certification, and Signature.  You must sign and date your application and, if applicable, provide your daytime telephone number, mobile telephone number, and email address.  The signature of a parent or legal guardian, if applicable, is acceptable.  A stamped or typewritten name in place of a signature is not acceptable.  This certification does not affect the confidentiality protections you are entitled to under 8 U.S.C. section 1367(a)(2).
+6. Part 6.  Interpreter’s Contact Information, Certification, and Signature.  If  you used anyone as an interpreter to read the Instructions and questions on this application to you in a language in which you are fluent, the interpreter must fill out this section and sign and date the application.
+7. Part 7.  Contact Information, Declaration, and Signature of the Person Preparing this Application, if Other Than the Applicant.  The person who completed your application, if other than the applicant, must sign this section.  If the same individual acted as your interpreter and your preparer, then that person should complete both Part 6. and 
+Part 7.  A stamped or typewritten name in place of a signature is not acceptable.  
+We recommend that you print or save a copy of your completed application for your records.
+General Requirements
+Evidence of Relationship.  If you are including other family members on your application, you must submit the following documents to establish your family relationship.  If you are filing for a relative listed below , submit the 
+following documentation to prove the family relationship.
+Form I-539 Instructions   08/28/24 Page 15 of 17
+1. A spouse: 
+A. A copy of your marriage certificate; 
+B. If you or your spouse were ever married to anyone else, copies of documents showing that any previous 
+marriage(s) was/were legally terminated; and
+C. A copy of the applicant’s visa indicating a dependent classification and/or the principal spouse’s name.
+2. Child:
+A. A copy of the child’s birth certificate or adoption decree showing the name of the child and the parents; and
+B. A copy of the applicant’s visa indicating a dependent classification and/or the parent’s name.
+3. Other relationship:  Attach documentary evidence to establish your family member’s relationship to you.
+Where To File?
+Please see our website at www.uscis.gov/i-539 for the most current information about where to file this application.  
+Premium Processing
+To determine if your requested classification or category is available for Premium Processing, please visit the USCIS 
+website at www.uscis.gov/forms/how-do-i-use-premium-processing-service.  If you are requesting Premium Processing 
+Services, you must also file Form I-907, Request for Premium Processing Service, with the filing fee.    
+Special Information for Applicants Residing in the Commonwealth of the Northern Mariana Islands (CNMI)
+A noncitizen who was admitted to the CNMI prior to November 28, 2009, might not currently hold a Federal 
+nonimmigrant classification that permits a change of status.  However , if the applicant is lawfully present in the 
+CNMI, the applicant may be eligible to apply for a grant of status with this application without having to seek consular processing. The request for the initial grant of status must be accompanied by evidence of the applicant’s lawful presence.  The applicant will be required to submit biometric information before the application for a grant of status is approved.  Although this is a request for an initial grant of status rather than a change of nonimmigrant status, in Part 2., the 
+applicant should select “A change of status” in  Item Number 1., and identify the nonimmigrant status he or she is initially 
+requesting in Item Number 2.
+Address Change
+NOTE:  Do not submit a change of address request to the USCIS Lockbox facilities because the Lockbox does not process change of address requests.  For more information on how to change your address with USCIS, visit                         www.uscis.gov/addresschange. 
+Processing Information
+Initial Processing.  Once USCIS accepts your application, we will check it for completeness.  If you do not properly complete this application, you will not establish a basis for your eligibility and we may reject or deny your application.
+Requests for More Information.  USCIS may request that you provide more information or evidence to support your 
+application.
+  We may also request that you provide the originals of any copies you submit.  If we request an original 
+document from you, we will return it to you after USCIS determines it is no longer needed.
+Form I-539 Instructions   08/28/24 Page 16 of 17
+Requests for Interview.  We may request that you appear at a USCIS office for an interview based on your application.  
+During your interview, USCIS may require you to provide your biometrics to verify your identity and/or update background and security checks. 
+Decision.  The decision on Form I-539 involves a determination of whether you have established eligibility for the 
+immigration benefit you are seeking.  USCIS will notify you of our decision in writing.
+USCIS Forms and Information
+To ensure you are using the latest version of this application, visit www.uscis.gov/.
+Penalties
+If  you knowingly and willfully falsify or conceal a material fact or submit a false document with your Form I-539, we 
+will deny your application and may deny any other immigration benefit.  In addition, you will face severe penalties provided by law and may be subject to criminal prosecution.
+USCIS Compliance Review and Monitoring
+By signing this application, you have stated under penalty of perjury (28 U.S.C. section 1746) that all information and documentation submitted with this application are complete, true, and correct.  You also authorize the release of any information from your records that USCIS may need to determine your eligibility for the immigration benefit you are seeking and consent to USCIS verifying such information.
+The Department of Homeland Security (DHS) has the authority to verify any information you submit to establish 
+eligibility for the immigration benefit you are seeking at any time.  Our legal authority to verify this information is in 8 U.S.C. sections 1103, 1155, and 1184, and 8 CFR parts 103, 204, 205, and 214.  To ensure compliance with applicable laws and authorities, we may verify information before or after your case is decided.
+Agency verification methods may include, but are not limited to:
+   reviewing public records and information; contacting 
+through written correspondence; using the internet, fax, other electronic transmission, or telephone; making unannounced 
+physical site inspections of residences and locations of employment; and interviewing people.  USCIS will use the information we obtain to assess your compliance with the laws and to determine your eligibility for an immigration benefit.
+Subject to the restrictions under 8 CFR 103.2(b)(16), USCIS will provide you with an opportunity to address any adverse 
+or derogatory information that may result from a compliance review , verification, or site visit before a decision is made 
+on your request.  For a visit after your request is approved, USCIS will provide you with an opportunity to address any adverse or derogatory information which may result in revocation or termination of an approval.
+DHS Privacy Notice
+AUTHORITIES:   The information requested on this application, and the associated evidence, is collected under the 
+Immigration and Nationality Act sections 1103 and 1184, and Title 8 of the Code of Federal Regulations (CFR) parts 103, 214, and 248.
+PURPOSE:  The primary purpose for providing the requested information on this application is to apply for an extension 
+of stay or a change from one nonimmigrant category to another nonimmigrant category.  DHS will use the information you provide to grant or deny the immigration benefit you are seeking.
+Form I-539 Instructions   08/28/24 Page 17 of 17
+DISCLOSURE:  The information you provide is voluntary.  However, failure to provide the requested information, 
+including your Social Security number (if applicable), and any requested evidence, may delay a final decision or result in 
+denial of your application.
+ROUTINE USES:  DHS may share the information you provide on this application and any additional requested 
+evidence with other Federal, state, local, and foreign government agencies and authorized organizations.  DHS follows 
+approved routine uses described in the associated published system of records notices [DHS/USCIS-001 - Alien File, Index, and National File Tracking System and DHS/USCIS-007 - Benefits Information System] and the published privacy impact assessment [DHS/USCIS/PIA-016(a) Computer Linked Application Information Management System and
+Associated Systems], which can be found at http://www.dhs.gov/privacy.  DHS may also share this information, as 
+appropriate, for law enforcement purposes or in the interest of national security. 
+Paperwork Reduction Act
+USCIS may not conduct or sponsor an information collection, and you are not required to respond to a collection of 
+information, unless it displays a currently valid Office of Management and Budget (OMB) control number .  The public 
+reporting burden for these collections of information is estimated at 1.667 hours per response for Form I-539, and 0.35 hours per response for Form I-539A, including the time for reviewing instructions, gathering the required documentation and information, completing the application, preparing statements, attaching necessary documentation, and submitting the application.  Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden,
+ to:   U.S. Citizenship and Immigration Services, Office of Policy and S trategy, 
+Regulatory Coordination Division, 5900 Capital Gateway Drive, Mail Stop #2140, Camp Springs, MD 20588-0009; OMB No. 1615-0003.  Do not mail your completed Form I-539 and I-539A to this address.

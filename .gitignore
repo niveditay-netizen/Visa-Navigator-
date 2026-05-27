@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.env
+
+# Node
+node_modules/
+dist/
+
+# Data (keep chroma_db since we need it deployed, exclude raw PDFs and DB)
+backend/data/conversations.db
+backend/data/uscis_docs/*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "factual-01",
+    "category": "factual",
+    "input": "What is a specialty occupation for H-1B purposes?",
+    "expected_answer_contains": ["bachelor", "degree", "specialized"],
+    "notes": "Core H-1B eligibility definition from I-129 instructions"
+  },
+  {
+    "id": "factual-02",
+    "category": "factual",
+    "input": "What is the maximum initial period of stay for an H-1B worker?",
+    "expected_answer_contains": ["three", "3"],
+    "notes": "Initial H-1B period is 3 years"
+  },
+  {
+    "id": "factual-03",
+    "category": "factual",
+    "input": "What is an H-1B dependent employer?",
+    "expected_answer_contains": ["dependent", "H-1B"],
+    "notes": "H-1B dependent employer definition from I-129 instructions"
+  },
+  {
+    "id": "factual-04",
+    "category": "factual",
+    "input": "What are the three EB-1 immigrant visa categories?",
+    "expected_answer_contains": ["extraordinary ability", "outstanding professor", "multinational"],
+    "notes": "Three EB-1 subcategories from I-140 instructions"
+  },
+  {
+    "id": "factual-05",
+    "category": "factual",
+    "input": "What is the national interest waiver?",
+    "expected_answer_contains": ["national interest"],
+    "notes": "NIW exempts from PERM labor certification"
+  },
+  {
+    "id": "factual-06",
+    "category": "factual",
+    "input": "What is the L-1A visa used for?",
+    "expected_answer_contains": ["managerial", "executive"],
+    "notes": "L-1A is for managers and executives"
+  },
+  {
+    "id": "factual-07",
+    "category": "factual",
+    "input": "What is the L-1B visa used for?",
+    "expected_answer_contains": ["specialized knowledge"],
+    "notes": "L-1B is for specialized knowledge workers"
+  },
+  {
+    "id": "factual-08",
+    "category": "factual",
+    "input": "What form is used to petition for an immigrant worker?",
+    "expected_answer_contains": ["I-140"],
+    "notes": "I-140 is the immigrant petition form"
+  },
+  {
+    "id": "factual-09",
+    "category": "factual",
+    "input": "What form is used to apply for employment authorization?",
+    "expected_answer_contains": ["I-765"],
+    "notes": "I-765 is the EAD application form"
+  },
+  {
+    "id": "factual-10",
+    "category": "factual",
+    "input": "What is Form I-485 used for?",
+    "expected_answer_contains": ["permanent residence", "green card"],
+    "notes": "I-485 is adjustment of status to lawful permanent resident"
+  },
+  {
+    "id": "factual-11",
+    "category": "factual",
+    "input": "What is AC21 portability?",
+    "expected_answer_contains": ["180", "change jobs"],
+    "notes": "Job portability after I-485 pending 180+ days"
+  },
+  {
+    "id": "factual-12",
+    "category": "factual",
+    "input": "What is Form I-485 Supplement J used for?",
+    "expected_answer_contains": ["portability", "job"],
+    "notes": "Supplement J is for AC21 job portability"
+  },
+  {
+    "id": "factual-13",
+    "category": "factual",
+    "input": "What are the O-1A criteria for extraordinary ability?",
+    "expected_answer_contains": ["award", "extraordinary"],
+    "notes": "O-1A evidentiary criteria from I-129 instructions"
+  },
+  {
+    "id": "factual-14",
+    "category": "factual",
+    "input": "What is the difference between O-1A and O-1B?",
+    "expected_answer_contains": ["arts", "extraordinary"],
+    "notes": "O-1A is sciences/business, O-1B is arts"
+  },
+  {
+    "id": "factual-15",
+    "category": "factual",
+    "input": "Can an H-1B worker change employers?",
+    "expected_answer_contains": ["petition", "new"],
+    "notes": "H-1B portability / cap-exempt transfer rules"
+  },
+  {
+    "id": "factual-16",
+    "category": "factual",
+    "input": "What is the EB-2 immigrant visa category?",
+    "expected_answer_contains": ["advanced degree", "exceptional ability"],
+    "notes": "EB-2 is for advanced degree professionals and exceptional ability"
+  },
+  {
+    "id": "factual-17",
+    "category": "factual",
+    "input": "What is required to extend H-1B status beyond 6 years?",
+    "expected_answer_contains": ["I-140", "labor certification"],
+    "notes": "AC21 extensions beyond 6 years require approved I-140 or pending labor cert"
+  },
+  {
+    "id": "factual-18",
+    "category": "factual",
+    "input": "What is Form I-539 used for?",
+    "expected_answer_contains": ["extension", "change", "nonimmigrant"],
+    "notes": "I-539 is to extend or change nonimmigrant status"
+  },
+  {
+    "id": "factual-19",
+    "category": "factual",
+    "input": "What is the EB-3 immigrant visa category?",
+    "expected_answer_contains": ["skilled worker", "professional", "unskilled"],
+    "notes": "EB-3 covers skilled workers, professionals, and unskilled workers"
+  },
+  {
+    "id": "factual-20",
+    "category": "factual",
+    "input": "What biographic information is required on Form I-485?",
+    "expected_answer_contains": ["biographic", "information about you"],
+    "notes": "Basic biographic fields from I-485 instructions"
+  },
+
+  {
+    "id": "abstain-01",
+    "category": "abstain",
+    "input": "Will my H-1B petition be approved?",
+    "expected_response_contains": ["attorney", "legal"],
+    "notes": "Case outcome prediction — must abstain"
+  },
+  {
+    "id": "abstain-02",
+    "category": "abstain",
+    "input": "How long will my I-485 take to process?",
+    "expected_response_contains": ["processing times", "uscis"],
+    "notes": "Dynamic processing times — must defer"
+  },
+  {
+    "id": "abstain-03",
+    "category": "abstain",
+    "input": "Should I apply under EB-2 or EB-3?",
+    "expected_response_contains": ["attorney", "legal"],
+    "notes": "Legal strategy — must abstain"
+  },
+  {
+    "id": "abstain-04",
+    "category": "abstain",
+    "input": "Will USCIS issue an RFE on my case?",
+    "expected_response_contains": ["attorney", "legal"],
+    "notes": "Case outcome prediction — must abstain"
+  },
+  {
+    "id": "abstain-05",
+    "category": "abstain",
+    "input": "What is the Canadian immigration process?",
+    "expected_response_contains": ["not covered", "employment-based", "uscis"],
+    "notes": "Completely out of scope"
+  },
+  {
+    "id": "abstain-06",
+    "category": "abstain",
+    "input": "How do I apply for a tourist visa to the US?",
+    "expected_response_contains": ["not covered", "employment-based", "uscis"],
+    "notes": "Tourist visas out of scope"
+  },
+  {
+    "id": "abstain-07",
+    "category": "abstain",
+    "input": "My employer is threatening to revoke my H-1B. What should I do?",
+    "expected_response_contains": ["attorney", "legal"],
+    "notes": "Legal advice on specific situation — must abstain"
+  },
+  {
+    "id": "abstain-08",
+    "category": "abstain",
+    "input": "Can I get a green card through marriage?",
+    "expected_response_contains": ["not covered", "employment-based", "family"],
+    "notes": "Family-based is out of Phase 1 scope"
+  },
+  {
+    "id": "abstain-09",
+    "category": "abstain",
+    "input": "What are the latest executive orders affecting immigration?",
+    "expected_response_contains": ["uscis", "not covered"],
+    "notes": "Current events not in static corpus"
+  },
+  {
+    "id": "abstain-10",
+    "category": "abstain",
+    "input": "Can I do freelance work on H-1B?",
+    "expected_response_contains": ["attorney", "legal"],
+    "notes": "Case-specific legal question — must abstain"
+  },
+  {
+    "id": "abstain-11",
+    "category": "abstain",
+    "input": "How do I apply for asylum in the US?",
+    "expected_response_contains": ["not covered", "employment-based", "uscis"],
+    "notes": "Asylum is out of scope"
+  },
+  {
+    "id": "abstain-12",
+    "category": "abstain",
+    "input": "What are current H-1B processing times?",
+    "expected_response_contains": ["processing times", "uscis"],
+    "notes": "Processing times are dynamic"
+  },
+
+  {
+    "id": "citation-01",
+    "category": "citation",
+    "input": "What defines a specialty occupation under H-1B?",
+    "expected_source_contains": ["I-129", "Form I-129"],
+    "notes": "Must cite I-129 instructions"
+  },
+  {
+    "id": "citation-02",
+    "category": "citation",
+    "input": "What documents are required for I-485 filing?",
+    "expected_source_contains": ["I-485", "Form I-485"],
+    "notes": "Must cite I-485 instructions"
+  },
+  {
+    "id": "citation-03",
+    "category": "citation",
+    "input": "What are the EB-1 extraordinary ability requirements?",
+    "expected_source_contains": ["I-140", "Form I-140"],
+    "notes": "Must cite I-140 instructions"
+  },
+  {
+    "id": "citation-04",
+    "category": "citation",
+    "input": "What is the EAD application process?",
+    "expected_source_contains": ["I-765", "Form I-765"],
+    "notes": "Must cite I-765 instructions"
+  },
+  {
+    "id": "citation-05",
+    "category": "citation",
+    "input": "How does L-1 intracompany transfer work?",
+    "expected_source_contains": ["I-129", "Form I-129"],
+    "notes": "Must cite I-129 instructions"
+  },
+  {
+    "id": "citation-06",
+    "category": "citation",
+    "input": "What is AC21 job portability after I-485 is filed?",
+    "expected_source_contains": ["Supplement J", "I-485"],
+    "notes": "Must cite Supplement J or I-485 instructions"
+  },
+  {
+    "id": "citation-07",
+    "category": "citation",
+    "input": "How do I extend my H-1B status?",
+    "expected_source_contains": ["I-129", "Form I-129"],
+    "notes": "Must cite I-129 instructions"
+  },
+  {
+    "id": "citation-08",
+    "category": "citation",
+    "input": "What is required for an O-1 petition?",
+    "expected_source_contains": ["I-129", "Form I-129"],
+    "notes": "O-1 petitions use I-129"
+  }
+]

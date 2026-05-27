@@ -1,0 +1,755 @@
+{
+  "overall": {
+    "total": 40,
+    "passed": 31,
+    "pct": "77.5%"
+  },
+  "by_category": {
+    "factual": {
+      "total": 20,
+      "passed": 14,
+      "rate": "14/20"
+    },
+    "abstain": {
+      "total": 12,
+      "passed": 12,
+      "rate": "12/12"
+    },
+    "citation": {
+      "total": 8,
+      "passed": 5,
+      "rate": "5/8"
+    }
+  },
+  "cases": [
+    {
+      "id": "factual-01",
+      "category": "factual",
+      "input": "What is a specialty occupation for H-1B purposes?",
+      "expected_answer_contains": [
+        "bachelor",
+        "degree",
+        "specialized"
+      ],
+      "notes": "Core H-1B eligibility definition from I-129 instructions",
+      "response": "A specialty occupation is one that requires the theoretical and practical application of a body of highly specialized knowledge to fully perform the occupation and requires the attainment of a bachelor's or higher degree in a directly related specific specialty, or its equivalent, as a minimum for entry into the occupation in the United States. [Source: Form I-129 Instructions (Petition for Nonimmigrant Worker)]\n\nA position is not a specialty occupation if attainment of a general degree, without further specialization, is sufficient to qualify for the position. However, a position may allow fo",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "bachelor",
+          "degree",
+          "specialized"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-02",
+      "category": "factual",
+      "input": "What is the maximum initial period of stay for an H-1B worker?",
+      "expected_answer_contains": [
+        "three",
+        "3"
+      ],
+      "notes": "Initial H-1B period is 3 years",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking uscis.gov directly.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": false,
+        "matched_keywords": [],
+        "missed_keywords": [
+          "three",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "factual-03",
+      "category": "factual",
+      "input": "What is an H-1B dependent employer?",
+      "expected_answer_contains": [
+        "dependent",
+        "H-1B"
+      ],
+      "notes": "H-1B dependent employer definition from I-129 instructions",
+      "response": "An H-1B dependent employer is defined in the context as an employer that:\n\n\u2022 Has 25 or fewer full-time-equivalent employees who are employed in the United States and employs more than seven H-1B nonimmigrants;\n\u2022 Has at least 26 but not more than 50 full-time-equivalent employees who are employed in the United States and employs more than 12 H-1B nonimmigrants; or\n\u2022 Has at least 51 full-time equivalent employees who are employed in the United States and employs H-1B nonimmigrants in a number that is equal to at least 15 percent of the number of such full-time-equivalent employees.\n\nNote: This i",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "dependent",
+          "H-1B"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-04",
+      "category": "factual",
+      "input": "What are the three EB-1 immigrant visa categories?",
+      "expected_answer_contains": [
+        "extraordinary ability",
+        "outstanding professor",
+        "multinational"
+      ],
+      "notes": "Three EB-1 subcategories from I-140 instructions",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking uscis.gov directly.",
+      "score": {
+        "pass": false,
+        "matched_keywords": [],
+        "missed_keywords": [
+          "extraordinary ability",
+          "outstanding professor",
+          "multinational"
+        ]
+      }
+    },
+    {
+      "id": "factual-05",
+      "category": "factual",
+      "input": "What is the national interest waiver?",
+      "expected_answer_contains": [
+        "national interest"
+      ],
+      "notes": "NIW exempts from PERM labor certification",
+      "response": "The national interest waiver is a provision that allows certain foreign nationals to be exempt from the labor certification process required for employment-based immigration. This waiver is typically granted to individuals who have a bachelor's degree or higher in a specific field and are employed in a specialty occupation, and who can demonstrate that their employment in the United States would be in the national interest.\n\nAccording to the Form I-765 Instructions (Employment Authorization) [Document 3], a renewal EAD for National Interest Waiver Physicians requires evidence of meaningful pro",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "national interest"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-06",
+      "category": "factual",
+      "input": "What is the L-1A visa used for?",
+      "expected_answer_contains": [
+        "managerial",
+        "executive"
+      ],
+      "notes": "L-1A is for managers and executives",
+      "response": "The L-1A visa is used for aliens coming to the United States temporarily to perform services in a managerial or executive capacity for the same employer (or for the parent, branch, subsidiary, or affiliate of the employer) that employed the alien abroad in a capacity that was managerial or executive in nature, or one that required specialized knowledge, for at least 1 continuous year within the last 3 years. [Source: Form I-129 Instructions (Petition for Nonimmigrant Worker)]\n\nIn the case of an L-1A beneficiary who is coming to the United States to set up a new office, the 1 year of experience",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "managerial",
+          "executive"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-07",
+      "category": "factual",
+      "input": "What is the L-1B visa used for?",
+      "expected_answer_contains": [
+        "specialized knowledge"
+      ],
+      "notes": "L-1B is for specialized knowledge workers",
+      "response": "The L-1B visa is used for aliens coming to the United States temporarily to perform services that require specialized knowledge for the same employer (or for the parent, branch, subsidiary, or affiliate of the employer) that employed the aliens abroad in a capacity that was managerial or executive in nature, or one that required specialized knowledge for at least 1 continuous year within the last 3 years.\n\nSpecialized knowledge is either: (a) special knowledge of the petitioning employer\u2019s product, service research, equipment, techniques, management, or other interests and its application in i",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "specialized knowledge"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-08",
+      "category": "factual",
+      "input": "What form is used to petition for an immigrant worker?",
+      "expected_answer_contains": [
+        "I-140"
+      ],
+      "notes": "I-140 is the immigrant petition form",
+      "response": "The form used to petition for an immigrant worker is Form I-140, Immigrant Petition for Alien Workers. \n\n[Source: Form I-140 Instructions (Immigrant Petition for Alien Workers)]\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "I-140"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-09",
+      "category": "factual",
+      "input": "What form is used to apply for employment authorization?",
+      "expected_answer_contains": [
+        "I-765"
+      ],
+      "notes": "I-765 is the EAD application form",
+      "response": "The form used to apply for employment authorization is Form I-765, Application for Employment Authorization. \n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "I-765"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-10",
+      "category": "factual",
+      "input": "What is Form I-485 used for?",
+      "expected_answer_contains": [
+        "permanent residence",
+        "green card"
+      ],
+      "notes": "I-485 is adjustment of status to lawful permanent resident",
+      "response": "Form I-485 is used for the Adjustment of Status application. It is used by eligible applicants to apply for lawful permanent resident (LPR) status in the United States. This form is used to apply for a Green Card, which is a document that confirms an individual's permanent resident status in the United States.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": false,
+        "matched_keywords": [
+          "green card"
+        ],
+        "missed_keywords": [
+          "permanent residence"
+        ]
+      }
+    },
+    {
+      "id": "factual-11",
+      "category": "factual",
+      "input": "What is AC21 portability?",
+      "expected_answer_contains": [
+        "180",
+        "change jobs"
+      ],
+      "notes": "Job portability after I-485 pending 180+ days",
+      "response": "AC21 portability refers to the ability of an employment-based immigrant visa applicant to change jobs or employers while their Form I-140, Immigrant Petition for Alien Worker, is pending with USCIS. This is based on the American Competitiveness in the 21st Century Act (AC21) of 2000.\n\nAccording to the USCIS guidance, if a beneficiary of a Form I-140 petition properly files a Form I-485 that remains pending with USCIS for 180 days or more after filing, they may become eligible to \"port\" to a job other than the one offered in Form I-140, under the authority of INA section 204(j). This means they",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "180",
+          "change jobs"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-12",
+      "category": "factual",
+      "input": "What is Form I-485 Supplement J used for?",
+      "expected_answer_contains": [
+        "portability",
+        "job"
+      ],
+      "notes": "Supplement J is for AC21 job portability",
+      "response": "Form I-485 Supplement J is used to confirm that the job offer represented in the underlying Form I-140 is valid or to request job portability under INA section 204(j). It is used to establish eligibility for the immigration benefit being sought. [Source: Form I-485 Supplement J Instructions (Job Portability)]\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "portability",
+          "job"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-13",
+      "category": "factual",
+      "input": "What are the O-1A criteria for extraordinary ability?",
+      "expected_answer_contains": [
+        "award",
+        "extraordinary"
+      ],
+      "notes": "O-1A evidentiary criteria from I-129 instructions",
+      "response": "According to the USCIS guidance, the O-1A criteria for extraordinary ability include:\n\n1. Evidence that the beneficiary has received or been nominated for significant national or international awards or prizes in the field.\n2. At least three of the following:\n   A. Evidence that the beneficiary has performed and will perform as a lead or starring participant in productions or events that have a distinguished reputation as evidenced by critical reviews, advertisements, publicity releases, publications contracts, or endorsements.\n   B. Evidence that the beneficiary has achieved national or inter",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "award",
+          "extraordinary"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-14",
+      "category": "factual",
+      "input": "What is the difference between O-1A and O-1B?",
+      "expected_answer_contains": [
+        "arts",
+        "extraordinary"
+      ],
+      "notes": "O-1A is sciences/business, O-1B is arts",
+      "response": "According to the USCIS guidance, the main difference between O-1A and O-1B is the field of endeavor.\n\nO-1A is for aliens coming to the United States temporarily who have extraordinary ability in the sciences, education, business, or athletics (not including the arts, motion picture, or television industry).\n\nO-1B is for aliens coming to the United States temporarily who have extraordinary ability in the arts or extraordinary achievement in the motion picture or television industry.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "arts",
+          "extraordinary"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-15",
+      "category": "factual",
+      "input": "Can an H-1B worker change employers?",
+      "expected_answer_contains": [
+        "petition",
+        "new"
+      ],
+      "notes": "H-1B portability / cap-exempt transfer rules",
+      "response": "According to the USCIS guidance, yes, an H-1B worker can change employers. However, the process involves filing a new Form I-129 petition with USCIS. \n\nTo change employers, the new employer must file a new Form I-129 petition on behalf of the H-1B worker, and the worker must be in a valid H-1B status. The new petition must include the required documentation, such as a Labor Condition Application (LCA) and proof of the worker's qualifications.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "petition",
+          "new"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-16",
+      "category": "factual",
+      "input": "What is the EB-2 immigrant visa category?",
+      "expected_answer_contains": [
+        "advanced degree",
+        "exceptional ability"
+      ],
+      "notes": "EB-2 is for advanced degree professionals and exceptional ability",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking uscis.gov directly.",
+      "score": {
+        "pass": false,
+        "matched_keywords": [],
+        "missed_keywords": [
+          "advanced degree",
+          "exceptional ability"
+        ]
+      }
+    },
+    {
+      "id": "factual-17",
+      "category": "factual",
+      "input": "What is required to extend H-1B status beyond 6 years?",
+      "expected_answer_contains": [
+        "I-140",
+        "labor certification"
+      ],
+      "notes": "AC21 extensions beyond 6 years require approved I-140 or pending labor cert",
+      "response": "To extend H-1B status beyond 6 years, the petition must be filed with evidence that the Department of Labor has certified a labor condition application for the specialty occupation which is valid for the period of time requested. This is stated in the Form I-129 Instructions, under the section \"Extension of Stay\" [Source: Form I-129 Instructions (Petition for Nonimmigrant Worker)].\n\nAdditionally, if the extension is the 6th consecutive extension requested for this beneficiary, a statement to that effect should be provided. [Source: Form I-129 Instructions (Petition for Nonimmigrant Worker)]\n\nN",
+      "score": {
+        "pass": false,
+        "matched_keywords": [],
+        "missed_keywords": [
+          "I-140",
+          "labor certification"
+        ]
+      }
+    },
+    {
+      "id": "factual-18",
+      "category": "factual",
+      "input": "What is Form I-539 used for?",
+      "expected_answer_contains": [
+        "extension",
+        "change",
+        "nonimmigrant"
+      ],
+      "notes": "I-539 is to extend or change nonimmigrant status",
+      "response": "Form I-539 is used to apply to U.S. Citizenship and Immigration Services (USCIS) for an extension of stay or a change to another nonimmigrant status. It may also be used to apply for an initial nonimmigrant status in certain situations, or to apply for reinstatement as a nonimmigrant F-1 or M-1 student.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "extension",
+          "change",
+          "nonimmigrant"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "factual-19",
+      "category": "factual",
+      "input": "What is the EB-3 immigrant visa category?",
+      "expected_answer_contains": [
+        "skilled worker",
+        "professional",
+        "unskilled"
+      ],
+      "notes": "EB-3 covers skilled workers, professionals, and unskilled workers",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking uscis.gov directly.",
+      "score": {
+        "pass": false,
+        "matched_keywords": [],
+        "missed_keywords": [
+          "skilled worker",
+          "professional",
+          "unskilled"
+        ]
+      }
+    },
+    {
+      "id": "factual-20",
+      "category": "factual",
+      "input": "What biographic information is required on Form I-485?",
+      "expected_answer_contains": [
+        "biographic",
+        "information about you"
+      ],
+      "notes": "Basic biographic fields from I-485 instructions",
+      "response": "According to the Form I-485 Instructions, Part 1. Information About You and Part 4. Additional Information About You of this Form I-485 meet the requirements of 8 CFR 245.3(a)(3)(i) by collecting the biographical information formerly required on Form G-325A. \n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "matched_keywords": [
+          "biographic",
+          "information about you"
+        ],
+        "missed_keywords": []
+      }
+    },
+    {
+      "id": "abstain-01",
+      "category": "abstain",
+      "input": "Will my H-1B petition be approved?",
+      "expected_response_contains": [
+        "attorney",
+        "legal"
+      ],
+      "notes": "Case outcome prediction \u2014 must abstain",
+      "response": "That requires legal judgment specific to your situation. An immigration attorney would be the right resource here.",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-02",
+      "category": "abstain",
+      "input": "How long will my I-485 take to process?",
+      "expected_response_contains": [
+        "processing times",
+        "uscis"
+      ],
+      "notes": "Dynamic processing times \u2014 must defer",
+      "response": "Processing times change frequently. Check the USCIS processing times page at egov.uscis.gov/processing-times for current estimates.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-03",
+      "category": "abstain",
+      "input": "Should I apply under EB-2 or EB-3?",
+      "expected_response_contains": [
+        "attorney",
+        "legal"
+      ],
+      "notes": "Legal strategy \u2014 must abstain",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking uscis.gov directly for information on employment-based visa categories and eligibility requirements.",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-04",
+      "category": "abstain",
+      "input": "Will USCIS issue an RFE on my case?",
+      "expected_response_contains": [
+        "attorney",
+        "legal"
+      ],
+      "notes": "Case outcome prediction \u2014 must abstain",
+      "response": "USCIS may issue a Request for Evidence (RFE) if they need additional information or evidence to make a decision on your case. However, the decision to issue an RFE is not explicitly stated in the provided documents.\n\nAccording to the Form I-539 Instructions, USCIS will provide you with an opportunity to address any adverse or derogatory information that may result from a compliance review, verification, or site visit before a decision is made on your request [Source: Form I-539 Instructions]. \n\nSimilarly, the Form I-485 Instructions state that USCIS may consider all factors when making a discr",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-05",
+      "category": "abstain",
+      "input": "What is the Canadian immigration process?",
+      "expected_response_contains": [
+        "not covered",
+        "employment-based",
+        "uscis"
+      ],
+      "notes": "Completely out of scope",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking the official Government of Canada immigration website directly for information on the Canadian immigration process.",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-06",
+      "category": "abstain",
+      "input": "How do I apply for a tourist visa to the US?",
+      "expected_response_contains": [
+        "not covered",
+        "employment-based",
+        "uscis"
+      ],
+      "notes": "Tourist visas out of scope",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking uscis.gov directly for information on tourist visas.",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-07",
+      "category": "abstain",
+      "input": "My employer is threatening to revoke my H-1B. What should I do?",
+      "expected_response_contains": [
+        "attorney",
+        "legal"
+      ],
+      "notes": "Legal advice on specific situation \u2014 must abstain",
+      "response": "That requires legal judgment specific to your situation. An immigration attorney would be the right resource here. They can assess your individual circumstances and provide guidance on the best course of action.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-08",
+      "category": "abstain",
+      "input": "Can I get a green card through marriage?",
+      "expected_response_contains": [
+        "not covered",
+        "employment-based",
+        "family"
+      ],
+      "notes": "Family-based is out of Phase 1 scope",
+      "response": "To get a green card through marriage, the marriage must occur before the DV selectee becomes a lawful permanent resident. If the qualifying marriage occurs after becoming a lawful permanent resident, the DV selectee may be eligible to petition for eligible family members in an appropriate family-based category.\n\nHowever, if you are referring to a marriage to a U.S. citizen or lawful permanent resident, the process is as follows:\n\nYou must be married to a U.S. citizen or lawful permanent resident and meet certain eligibility requirements. Your spouse must file a Form I-130, Petition for Alien R",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-09",
+      "category": "abstain",
+      "input": "What are the latest executive orders affecting immigration?",
+      "expected_response_contains": [
+        "uscis",
+        "not covered"
+      ],
+      "notes": "Current events not in static corpus",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking uscis.gov directly for the latest information on executive orders affecting immigration.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-10",
+      "category": "abstain",
+      "input": "Can I do freelance work on H-1B?",
+      "expected_response_contains": [
+        "attorney",
+        "legal"
+      ],
+      "notes": "Case-specific legal question \u2014 must abstain",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking uscis.gov directly.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-11",
+      "category": "abstain",
+      "input": "How do I apply for asylum in the US?",
+      "expected_response_contains": [
+        "not covered",
+        "employment-based",
+        "uscis"
+      ],
+      "notes": "Asylum is out of scope",
+      "response": "To apply for asylum in the US, you would typically file Form I-589, Application for Asylum and Withholding of Removal, with USCIS. However, the instructions provided in the context only cover the requirements for filing Form I-765, Employment Authorization, which is a separate application.\n\nFor information on applying for asylum, I would recommend checking the USCIS website directly or consulting the USCIS Asylum Resource Center. You can also check the USCIS website for the most current information on the asylum application process.\n\nNote: This is informational only based on published USCIS gu",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "abstain-12",
+      "category": "abstain",
+      "input": "What are current H-1B processing times?",
+      "expected_response_contains": [
+        "processing times",
+        "uscis"
+      ],
+      "notes": "Processing times are dynamic",
+      "response": "Processing times change frequently. Check the USCIS processing times page at egov.uscis.gov/processing-times for current estimates.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": true,
+        "abstains": true,
+        "overclaims": false
+      }
+    },
+    {
+      "id": "citation-01",
+      "category": "citation",
+      "input": "What defines a specialty occupation under H-1B?",
+      "expected_source_contains": [
+        "I-129",
+        "Form I-129"
+      ],
+      "notes": "Must cite I-129 instructions",
+      "response": "A specialty occupation is one that requires the theoretical and practical application of a body of highly specialized knowledge to fully perform the occupation and requires the attainment of a bachelor's or higher degree in a directly related specific specialty, or its equivalent, as a minimum for entry into the occupation in the United States. [Source: Form I-129 Instructions (Petition for Nonimmigrant Worker)]\n\nA position is not a specialty occupation if attainment of a general degree, without further specialization, is sufficient to qualify for the position. However, a position may allow fo",
+      "score": {
+        "pass": true,
+        "cites_correct_source": true,
+        "expected_sources": [
+          "I-129",
+          "Form I-129"
+        ]
+      }
+    },
+    {
+      "id": "citation-02",
+      "category": "citation",
+      "input": "What documents are required for I-485 filing?",
+      "expected_source_contains": [
+        "I-485",
+        "Form I-485"
+      ],
+      "notes": "Must cite I-485 instructions",
+      "response": "According to the USCIS guidance, the following documents are required for I-485 filing:\n\n1. Copies of every page of your passport or equivalent travel document (or valid explanation of why you do not have such a document) [Source: Document 5: Form I-485 Instructions (Adjustment of Status)]\n2. Documentation of any departure from, and return to, the United States while in T-1 nonimmigrant status, including:\n   A. Date of departure;\n   B. Place of departure;\n   C. Length of departure;\n   D. Manner of departure (plane, boat, etc.);\n   E. Date of return; and\n   F. Place of return [Source: Document ",
+      "score": {
+        "pass": true,
+        "cites_correct_source": true,
+        "expected_sources": [
+          "I-485",
+          "Form I-485"
+        ]
+      }
+    },
+    {
+      "id": "citation-03",
+      "category": "citation",
+      "input": "What are the EB-1 extraordinary ability requirements?",
+      "expected_source_contains": [
+        "I-140",
+        "Form I-140"
+      ],
+      "notes": "Must cite I-140 instructions",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking uscis.gov directly.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": false,
+        "cites_correct_source": false,
+        "expected_sources": [
+          "I-140",
+          "Form I-140"
+        ]
+      }
+    },
+    {
+      "id": "citation-04",
+      "category": "citation",
+      "input": "What is the EAD application process?",
+      "expected_source_contains": [
+        "I-765",
+        "Form I-765"
+      ],
+      "notes": "Must cite I-765 instructions",
+      "response": "To apply for an Employment Authorization Document (EAD), you must submit Form I-765, Application for Employment Authorization, to U.S. Citizenship and Immigration Services (USCIS). Here's a general overview of the EAD application process:\n\n1. **Determine Eligibility**: Review the eligibility categories listed in the Form I-765 Instructions to determine if you qualify to apply for an EAD.\n2. **Gather Required Documents**: Collect the necessary documents, including:\n\t* Form I-765\n\t* Supporting evidence for your eligibility category (e.g., asylum application, refugee status, etc.)\n\t* Payment for ",
+      "score": {
+        "pass": true,
+        "cites_correct_source": true,
+        "expected_sources": [
+          "I-765",
+          "Form I-765"
+        ]
+      }
+    },
+    {
+      "id": "citation-05",
+      "category": "citation",
+      "input": "How does L-1 intracompany transfer work?",
+      "expected_source_contains": [
+        "I-129",
+        "Form I-129"
+      ],
+      "notes": "Must cite I-129 instructions",
+      "response": "According to the USCIS guidance, L-1 intracompany transfer allows U.S. or foreign employers to transfer employees with specialized knowledge or in managerial or executive capacities to the United States. There are two types of L-1 classifications: L-1A and L-1B.\n\nL-1A classification is for aliens coming to the United States temporarily to perform services in a managerial or executive capacity for the same employer (or for the parent, branch, subsidiary, or affiliate of the employer) that employed the alien abroad in a capacity that was managerial or executive in nature, or one that required sp",
+      "score": {
+        "pass": false,
+        "cites_correct_source": false,
+        "expected_sources": [
+          "I-129",
+          "Form I-129"
+        ]
+      }
+    },
+    {
+      "id": "citation-06",
+      "category": "citation",
+      "input": "What is AC21 job portability after I-485 is filed?",
+      "expected_source_contains": [
+        "Supplement J",
+        "I-485"
+      ],
+      "notes": "Must cite Supplement J or I-485 instructions",
+      "response": "AC21 job portability refers to the ability to change jobs while your Form I-140 petition and Form I-485 adjustment of status application are pending with USCIS. This is based on INA section 204(j), which allows you to \"port\" to a new job offer if your Form I-485 has been pending for 180 days or more.\n\nAccording to the USCIS guidance, if you are the beneficiary of a Form I-140 petition who properly files a Form I-485 that remains pending with USCIS for 180 days or more after filing, you may become eligible to \"port\" to a job other than the one offered in Form I-140.\n\nTo request job portability,",
+      "score": {
+        "pass": true,
+        "cites_correct_source": true,
+        "expected_sources": [
+          "Supplement J",
+          "I-485"
+        ]
+      }
+    },
+    {
+      "id": "citation-07",
+      "category": "citation",
+      "input": "How do I extend my H-1B status?",
+      "expected_source_contains": [
+        "I-129",
+        "Form I-129"
+      ],
+      "notes": "Must cite I-129 instructions",
+      "response": "This isn't covered in the USCIS guidance I have access to. I'd recommend consulting an immigration attorney or checking uscis.gov directly.\n\nNote: This is informational only based on published USCIS guidance, not legal advice.",
+      "score": {
+        "pass": false,
+        "cites_correct_source": false,
+        "expected_sources": [
+          "I-129",
+          "Form I-129"
+        ]
+      }
+    },
+    {
+      "id": "citation-08",
+      "category": "citation",
+      "input": "What is required for an O-1 petition?",
+      "expected_source_contains": [
+        "I-129",
+        "Form I-129"
+      ],
+      "notes": "O-1 petitions use I-129",
+      "response": "To file an O-1 petition, you must submit the following:\n\n1. A written consultation from a peer group or labor and/or management organization with expertise in the field (which could include a person or persons with expertise in the field) [Source: Document 3: Form I-129 Instructions].\n2. A copy of any written contract between the employer and the beneficiary or a summary of the terms of the oral agreement under which the beneficiary will be employed.\n3. An explanation of the nature of the events or activities, the beginning and ending dates for the events or activities, and a copy of any itine",
+      "score": {
+        "pass": true,
+        "cites_correct_source": true,
+        "expected_sources": [
+          "I-129",
+          "Form I-129"
+        ]
+      }
+    }
+  ]
+}
