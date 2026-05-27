@@ -2,12 +2,12 @@ import warnings
 warnings.filterwarnings("ignore")
 
 import chromadb
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.embeddings.fastembed import FastEmbedEmbedding
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.core import VectorStoreIndex, Settings
 
 Settings.llm = None
-embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
+embed_model = FastEmbedEmbedding(model_name="BAAI/bge-small-en-v1.5")
 Settings.embed_model = embed_model
 
 chroma_client = chromadb.PersistentClient(path="data/chroma_db")

@@ -3,7 +3,7 @@ import re
 import chromadb
 from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, Settings
 from llama_index.core.node_parser import SentenceSplitter
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.embeddings.fastembed import FastEmbedEmbedding
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.core import StorageContext
 
@@ -26,8 +26,8 @@ def parse_frontmatter(filepath: str) -> dict:
 
 
 def ingest():
-    print("Loading embedding model (downloads ~130MB on first run)...")
-    embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
+    print("Loading embedding model...")
+    embed_model = FastEmbedEmbedding(model_name="BAAI/bge-small-en-v1.5")
     Settings.embed_model = embed_model
     Settings.llm = None
 
