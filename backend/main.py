@@ -1,17 +1,29 @@
 import os
 import json
 import uuid
+from contextlib import asynccontextmanager
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from groq import Groq
 from dotenv import load_dotenv
-from retrieval import retrieve
-from db import log_turn
 
 load_dotenv()
 
-app = FastAPI()
+# Ensure working directory is the backend folder so relative paths work on Render
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+from retrieval import retrieve
+from db import log_turn
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # retrieval module is already initialized at import time; just yield
+    yield
+
+
+app = FastAPI(lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
