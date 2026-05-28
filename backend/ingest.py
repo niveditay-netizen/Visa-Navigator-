@@ -1,15 +1,13 @@
 import os
 import re
 import chromadb
-from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, Settings
-from llama_index.core.node_parser import SentenceSplitter
-from llama_index.embeddings.fastembed import FastEmbedEmbedding
-from llama_index.vector_stores.chroma import ChromaVectorStore
-from llama_index.core import StorageContext
+from fastembed import TextEmbedding
+
+WORDS_PER_CHUNK = 200
+OVERLAP_WORDS = 30
 
 
 def parse_frontmatter(filepath: str) -> dict:
-    """Extract title/source/url from the --- frontmatter block at the top of each doc."""
     meta = {}
     try:
         with open(filepath, encoding="utf-8") as f:
@@ -25,36 +23,54 @@ def parse_frontmatter(filepath: str) -> dict:
     return meta
 
 
+def read_body(filepath: str) -> str:
+    with open(filepath, encoding="utf-8") as f:
+        content = f.read()
+    match = re.search(r"^---\n.*?\n---\n?", content, re.DOTALL)
+    return content[match.end():] if match else content
+
+
+def chunk_text(text: str) -> list[str]:
+    words = text.split()
+    chunks = []
+    i = 0
+    while i < len(words):
+        chunk = " ".join(words[i : i + WORDS_PER_CHUNK])
+        if chunk.strip():
+            chunks.append(chunk)
+        i += WORDS_PER_CHUNK - OVERLAP_WORDS
+    return chunks
+
+
 def ingest():
     print("Loading embedding model...")
-    embed_model = FastEmbedEmbedding(model_name="BAAI/bge-small-en-v1.5")
-    Settings.embed_model = embed_model
-    Settings.llm = None
+    embed_model = TextEmbedding("BAAI/bge-small-en-v1.5")
 
-    print("Loading documents...")
+    print("Loading and chunking documents...")
+    docs_dir = "data/uscis_docs"
+    all_texts, all_metas = [], []
 
-    def file_metadata(filepath: str) -> dict:
+    for fname in sorted(os.listdir(docs_dir)):
+        if not fname.endswith(".txt"):
+            continue
+        filepath = os.path.join(docs_dir, fname)
         meta = parse_frontmatter(filepath)
-        return {
-            "title": meta.get("title", os.path.basename(filepath)),
-            "source": meta.get("source", "USCIS"),
-            "url": meta.get("url", ""),
-            "file_name": os.path.basename(filepath),
-        }
+        title = meta.get("title") or fname.replace(".txt", "").replace("-", " ").title()
+        chunks = chunk_text(read_body(filepath))
+        print(f"  {fname}: {len(chunks)} chunks")
+        for chunk in chunks:
+            all_texts.append(chunk)
+            all_metas.append({
+                "title": title,
+                "source": meta.get("source", "USCIS"),
+                "url": meta.get("url", ""),
+                "file_name": fname,
+            })
 
-    documents = SimpleDirectoryReader(
-        input_dir="data/uscis_docs",
-        recursive=True,
-        file_metadata=file_metadata,
-    ).load_data()
-    print(f"  Loaded {len(documents)} documents")
-    for doc in documents:
-        print(f"    {doc.metadata.get('title', '?')[:70]}")
+    print(f"\nTotal: {len(all_texts)} chunks")
 
-    print("Chunking...")
-    splitter = SentenceSplitter(chunk_size=512, chunk_overlap=50)
-    nodes = splitter.get_nodes_from_documents(documents)
-    print(f"  Created {len(nodes)} chunks")
+    print("Embedding chunks (this takes a minute)...")
+    embeddings = [e.tolist() for e in embed_model.embed(all_texts)]
 
     print("Setting up ChromaDB...")
     chroma_client = chromadb.PersistentClient(path="data/chroma_db")
@@ -63,19 +79,16 @@ def ingest():
         print("  Deleted existing collection")
     except Exception:
         pass
-    chroma_collection = chroma_client.create_collection("uscis_docs")
-    vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
-    storage_context = StorageContext.from_defaults(vector_store=vector_store)
-
-    print("Embedding and storing chunks (this takes a few minutes)...")
-    VectorStoreIndex(
-        nodes,
-        storage_context=storage_context,
-        embed_model=embed_model,
-        show_progress=True,
+    collection = chroma_client.create_collection(
+        name="uscis_docs",
+        metadata={"hnsw:space": "cosine"},
     )
 
-    print(f"\nDone. {len(nodes)} chunks stored in ChromaDB at data/chroma_db/")
+    print("Storing chunks...")
+    ids = [str(i) for i in range(len(all_texts))]
+    collection.add(ids=ids, embeddings=embeddings, documents=all_texts, metadatas=all_metas)
+
+    print(f"\nDone. {len(all_texts)} chunks stored in ChromaDB at data/chroma_db/")
 
 
 if __name__ == "__main__":

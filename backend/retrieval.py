@@ -27,7 +27,7 @@ def retrieve(query: str, top_k: int = 8) -> list[dict]:
             title = title.replace(".txt", "").replace("-", " ").title()
         output.append({
             "text": text,
-            "score": 1.0 / (1.0 + distance),
+            "score": 1.0 - distance,  # cosine distance → similarity
             "source": meta.get("source", "USCIS"),
             "title": title,
             "url": meta.get("url", ""),
