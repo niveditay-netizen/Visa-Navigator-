@@ -2,35 +2,34 @@ import warnings
 warnings.filterwarnings("ignore")
 
 import chromadb
-from llama_index.embeddings.fastembed import FastEmbedEmbedding
-from llama_index.vector_stores.chroma import ChromaVectorStore
-from llama_index.core import VectorStoreIndex, Settings
+from fastembed import TextEmbedding
 
-Settings.llm = None
-embed_model = FastEmbedEmbedding(model_name="BAAI/bge-small-en-v1.5")
-Settings.embed_model = embed_model
-
+embed_model = TextEmbedding("BAAI/bge-small-en-v1.5")
 chroma_client = chromadb.PersistentClient(path="data/chroma_db")
 chroma_collection = chroma_client.get_collection("uscis_docs")
-vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
-index = VectorStoreIndex.from_vector_store(vector_store, embed_model=embed_model)
 
 
 def retrieve(query: str, top_k: int = 8) -> list[dict]:
-    retriever = index.as_retriever(similarity_top_k=top_k)
-    nodes = retriever.retrieve(query)
-    results = []
-    for node in nodes:
-        meta = node.metadata
-        # Derive a clean title from filename if explicit title is missing
+    query_embedding = list(embed_model.embed([query]))[0].tolist()
+    results = chroma_collection.query(
+        query_embeddings=[query_embedding],
+        n_results=top_k,
+        include=["documents", "metadatas", "distances"],
+    )
+    output = []
+    for text, meta, distance in zip(
+        results["documents"][0],
+        results["metadatas"][0],
+        results["distances"][0],
+    ):
         title = meta.get("title") or meta.get("file_name", "USCIS Document")
         if title == title.lower() and title.endswith(".txt"):
             title = title.replace(".txt", "").replace("-", " ").title()
-        results.append({
-            "text": node.get_text(),
-            "score": node.get_score(),
+        output.append({
+            "text": text,
+            "score": 1.0 / (1.0 + distance),
             "source": meta.get("source", "USCIS"),
             "title": title,
             "url": meta.get("url", ""),
         })
-    return results
+    return output
